@@ -57,9 +57,9 @@ O auto original da vistoria será depositado na secretaria do Tribunal do Comér
 
 Toda embarcação brasileira destinada à navegação do alto mar, com exceção somente das que se empregarem exclusivamente nas pescarias das costas, deve ser registrada no Tribunal do Comércio do domicílio do seu proprietário ostensivo ou armador (artigo nº. 484), e sem constar do registro não será admitida a despacho.
 
-###### Art. 461 - O
+###### Art. 461
 
-registro deve conter:
+O registro deve conter:
 
 1 - a declaração do lugar onde a embarcação foi construída, o nome do construtor, e a qualidade das madeiras principais;
 
@@ -77,9 +77,9 @@ registro deve conter:
 
 Se a embarcação for de construção estrangeira, além das especificações sobreditas, deverá declarar-se no registro a nação a que pertencia, o nome que tinha e o que tomou, e o título por que passou a ser de propriedade brasileira; podendo omitir-se, quando não conste dos documentos, o nome do construtor.
 
-###### Art. 463 - O
+###### Art. 463
 
-proprietário armador prestará juramento por si ou por seu procurador, nas mãos do presidente do tribunal, de que a sua declaração é verídica, e de que todos os proprietários da embarcação são verdadeiramente súditos brasileiros, obrigando-se por termo a não fazer uso ilegal do registro, e a entregá-lo dentro de 1 (um) ano no mesmo tribunal, no caso da embarcação ser vendida, perdida ou julgada incapaz de navegar; pena de incorrer na multa no mesmo termo declarada, que o tribunal arbitrará.
+O proprietário armador prestará juramento por si ou por seu procurador, nas mãos do presidente do tribunal, de que a sua declaração é verídica, e de que todos os proprietários da embarcação são verdadeiramente súditos brasileiros, obrigando-se por termo a não fazer uso ilegal do registro, e a entregá-lo dentro de 1 (um) ano no mesmo tribunal, no caso da embarcação ser vendida, perdida ou julgada incapaz de navegar; pena de incorrer na multa no mesmo termo declarada, que o tribunal arbitrará.
 
 Nos lugares onde não houver Tribunal do Comércio, todas as diligências sobreditas serão praticadas perante o juiz de direito do comércio, que enviará ao tribunal competente as devidas participações, acompanhadas dos documentos respectivos.
 
@@ -109,9 +109,9 @@ Toda a embarcação brasileira em viagem é obrigada a ter a bordo:
 
 7 - um exemplar do Código Comercial.
 
-###### Art. 467 - A
+###### Art. 467
 
-matrícula deve ser feita no porto do armamento da embarcação, e conter:
+A matrícula deve ser feita no porto do armamento da embarcação, e conter:
 
 1 - os nomes do navio, capitão, oficiais e gente da tripulação, com declaração de suas idades, estado, naturalidade e domicílio, e o emprego de cada um a bordo;
 
@@ -181,9 +181,9 @@ Em seguimento dos créditos mencionados nos artigo nºs 470 e 471, são também 
 
 No caso de quebra ou insolvência do armador do navio, todos os créditos a cargo da embarcação, que se acharem nas precisas circunstâncias dos artigo nºs 470, 471 e 474, preferirão sobre o preço do navio a outros credores da massa.
 
-###### Art. 476 - O
+###### Art. 476
 
-vendedor de embarcação é obrigado a dar ao comprador uma nota por ele assinada de todos os créditos privilegiados a que a mesma embarcação possa achar-se obrigada (artigo nºs 470, 471 e 474), a qual deverá ser incorporada na escritura da venda em seguimento do registro da embarcação. A falta de declaração de algum crédito privilegiado induz presunção de má-fé da parte do vendedor, contra o qual o comprador poderá intentar a ação criminal que seja competente, se for obrigado ao pagamento de algum crédito não declarado.
+O vendedor de embarcação é obrigado a dar ao comprador uma nota por ele assinada de todos os créditos privilegiados a que a mesma embarcação possa achar-se obrigada (artigo nºs 470, 471 e 474), a qual deverá ser incorporada na escritura da venda em seguimento do registro da embarcação. A falta de declaração de algum crédito privilegiado induz presunção de má-fé da parte do vendedor, contra o qual o comprador poderá intentar a ação criminal que seja competente, se for obrigado ao pagamento de algum crédito não declarado.
 
 ###### Art. 477
 
@@ -251,9 +251,9 @@ Todos os compartes têm direito, de preferir no fretamento a qualquer terceiro, 
 
 Toda a parceria ou sociedade de navio é administrada por um ou mais caixas, que representa em juízo e fora dele a todos os interessados, e os responsabiliza; salvo as restrições contidas no instrumento social, ou nos poderes do seu mandato, competentemente registrados (artigo nºs 10, nº 2).
 
-###### Art. 492 - O
+###### Art. 492
 
-caixa deve ser nomeado dentre os compartes; salvo se todos convierem na nomeação de pessoa estranha à parceria; em todos os casos é necessário que o caixa tenha as qualidades exigidas no artigo nº. 484.
+O caixa deve ser nomeado dentre os compartes; salvo se todos convierem na nomeação de pessoa estranha à parceria; em todos os casos é necessário que o caixa tenha as qualidades exigidas no artigo nº. 484.
 
 ###### Art. 493
 
@@ -263,9 +263,9 @@ Ao caixa, não havendo estipulação em contrário, pertence nomear, ajustar e d
 
 Todos os proprietários e compartes são solidariamente responsáveis pelas dívidas que o capitão contrair para consertar, habilitar e aprovisionar o navio; sem que esta responsabilidade possa ser ilidida, alegando-se que o capitão excedeu os limites das suas faculdades, ou instruções, se os credores provarem que a quantia pedida foi empregada a benefício do navio (artigo nº. 517). Os mesmos proprietários e compartes são solidariamente responsáveis pelos prejuízos que o capitão causar a terceiro por falta da diligência que é obrigado a empregar para boa guarda, acondicionamento e conservação dos efeitos recebidos a bordo (artigo nº. 519). Esta responsabilidade cessa, fazendo aqueles abandono do navio e fretes vencidos e a vencer na respectiva viagem. Não é permitido o abandono ao proprietário ou comparte que for ao mesmo tempo capitão do navio.
 
-###### Art. 495 - O
+###### Art. 495
 
-caixa é obrigado a dar aos proprietários ou compartes, no fim de cada viagem, uma conta da sua gestão, tanto relativa ao estado do navio e parceria, como da viagem finda, acompanhada dos documentos competentes, e a pagar sem demora o saldo líquido que a cada um couber; os proprietários ou compartes são obrigados a examinar a conta do caixa logo que lhes for apresentada, e a pagar sem demora a quota respectiva aos seus quinhões. A aprovação das contas do caixa dada pela maioria dos compartes do navio não obsta a que a minoria dos sócios intente contra eles as ações que julgar competentes.
+O caixa é obrigado a dar aos proprietários ou compartes, no fim de cada viagem, uma conta da sua gestão, tanto relativa ao estado do navio e parceria, como da viagem finda, acompanhada dos documentos competentes, e a pagar sem demora o saldo líquido que a cada um couber; os proprietários ou compartes são obrigados a examinar a conta do caixa logo que lhes for apresentada, e a pagar sem demora a quota respectiva aos seus quinhões. A aprovação das contas do caixa dada pela maioria dos compartes do navio não obsta a que a minoria dos sócios intente contra eles as ações que julgar competentes.
 
 ### TÍTULO III — DOS CAPITÃES OU MESTRES DE NAVIO
 
@@ -273,33 +273,33 @@ caixa é obrigado a dar aos proprietários ou compartes, no fim de cada viagem, 
 
 Para ser capitão ou mestre de embarcação brasileira, palavras sinônimas neste Código para todos os efeitos de direito, requer-se ser cidadão brasileiro, domiciliado no Império, com capacidade civil para poder contratar validamente.
 
-###### Art. 497 - O
+###### Art. 497
 
-capitão é o comandante da embarcação; toda a tripulação lhe está sujeita, e é obrigada a obedecer e cumprir as suas ordens em tudo quanto for relativo ao serviço do navio.
+O capitão é o comandante da embarcação; toda a tripulação lhe está sujeita, e é obrigada a obedecer e cumprir as suas ordens em tudo quanto for relativo ao serviço do navio.
 
-###### Art. 498 - O
+###### Art. 498
 
-capitão tem a faculdade de impor penas correcionais aos indivíduos da tripulação que perturbarem a ordem do navio, cometerem faltas de disciplina, ou deixarem de fazer o serviço que lhes competir; e até mesmo de proceder à prisão por motivo de insubordinação, ou de qualquer outro crime cometido a bordo, ainda mesmo que o delinqüente seja passageiro; formando os necessários processos, os quais é obrigado a entregar com os presos às autoridades competentes no primeiro porto do Império aonde entrar.
+O capitão tem a faculdade de impor penas correcionais aos indivíduos da tripulação que perturbarem a ordem do navio, cometerem faltas de disciplina, ou deixarem de fazer o serviço que lhes competir; e até mesmo de proceder à prisão por motivo de insubordinação, ou de qualquer outro crime cometido a bordo, ainda mesmo que o delinqüente seja passageiro; formando os necessários processos, os quais é obrigado a entregar com os presos às autoridades competentes no primeiro porto do Império aonde entrar.
 
 ###### Art. 499
 
 Pertence ao capitão escolher e ajustar a gente da equipagem, e despedi-la, nos casos em que a despedida possa ter lugar (artigo nº. 555), obrando de conserto com o dono ou armador, caixa, ou consignatário do navio, nos lugares onde estes se acharem presentes. O capitão não pode ser obrigado a receber na equipagem indivíduo algum contra a sua vontade.
 
-###### Art. 500 - O
+###### Art. 500
 
-capitão que seduzir ou desencaminhar marinheiro matriculado em outra embarcação será punido com a multa de cem mil réis por cada indivíduo que desencaminhar, e obrigado a entregar o marinheiro seduzido, existindo a bordo do seu navio; e se a embarcação por esta falta deixar de fazer-se à vela, será responsável pelas estadias da demora.
+O capitão que seduzir ou desencaminhar marinheiro matriculado em outra embarcação será punido com a multa de cem mil réis por cada indivíduo que desencaminhar, e obrigado a entregar o marinheiro seduzido, existindo a bordo do seu navio; e se a embarcação por esta falta deixar de fazer-se à vela, será responsável pelas estadias da demora.
 
-###### Art. 501 - O
+###### Art. 501
 
-capitão é obrigado a ter escrituração regular de tudo quanto diz respeito à administração do navio, e à sua navegação; tendo para este fim três livros distintos, encadernados e rubricados pela autoridade a cargo de quem estiver a matrícula dos navios; pena de responder por perdas e danos que resultarem da sua falta de escrituração regular.
+O capitão é obrigado a ter escrituração regular de tudo quanto diz respeito à administração do navio, e à sua navegação; tendo para este fim três livros distintos, encadernados e rubricados pela autoridade a cargo de quem estiver a matrícula dos navios; pena de responder por perdas e danos que resultarem da sua falta de escrituração regular.
 
 ###### Art. 502
 
 No primeiro, que se denominará - Livro da Carga - assentará diariamente as entradas e saídas da carga, com declaração específica das marcas e números dos volumes, nomes dos carregadores e consignatários, portos da carga e descarga, fretes ajustados, e quaisquer outras circunstâncias ocorrentes que possam servir para futuros esclarecimentos. No mesmo livro se lançarão também os nomes dos passageiros, com declaração do lugar do seu destino, preço e condições da passagem, e a relação da sua bagagem.
 
-###### Art. 503 - O
+###### Art. 503
 
-segundo livro será da - Receita e Despesa da Embarcação; e nele, debaixo de competentes títulos, se lançará, em forma de contas correntes, tudo quanto o capitão receber e despender respectivamente à embarcação; abrindo-se assento a cada um dos indivíduos da tripulação, com declaração de seus vencimentos, e de qualquer ônus a que se achem obrigados, e a cargo do que receberem por conta de suas soldadas.
+O segundo livro será da - Receita e Despesa da Embarcação; e nele, debaixo de competentes títulos, se lançará, em forma de contas correntes, tudo quanto o capitão receber e despender respectivamente à embarcação; abrindo-se assento a cada um dos indivíduos da tripulação, com declaração de seus vencimentos, e de qualquer ônus a que se achem obrigados, e a cargo do que receberem por conta de suas soldadas.
 
 ###### Art. 504
 
@@ -313,9 +313,9 @@ Todos os processos testemunháveis e protestos formados a bordo, tendentes a com
 
 Na véspera da partida do porto da carga, fará o capitão inventariar, em presença do piloto e contramestre, as amarras, âncoras, velames e mastreação, com declaração do estado em que se acharem. Este inventário será assinado pelo capitão, piloto e contramestre. Todas as alterações que durante a viagem sofrer qualquer dos sobreditos artigos serão anotadas no Diário da Navegação, e com as mesmas assinaturas.
 
-###### Art. 507 - O
+###### Art. 507
 
-capitão é obrigado a permanecer a bordo desde o momento em que começa a viagem de mar, até a chegada do navio a surgidouro seguro e bom porto; e a tomar os pilotos e práticos necessários em todos os lugares em que os regulamentos, o uso e prudência o exigirem; pena de responder por perdas e danos que da sua falta resultarem.
+O capitão é obrigado a permanecer a bordo desde o momento em que começa a viagem de mar, até a chegada do navio a surgidouro seguro e bom porto; e a tomar os pilotos e práticos necessários em todos os lugares em que os regulamentos, o uso e prudência o exigirem; pena de responder por perdas e danos que da sua falta resultarem.
 
 ###### Art. 508
 
@@ -329,9 +329,9 @@ Nenhuma desculpa poderá desonerar o capitão que alterar a derrota que era obri
 
 É proibido ao capitão entrar em porto estranho ao do seu destino; e, se ali for levado por força maior (artigo nº. 740), é obrigado a sair no primeiro tempo oportuno que se oferecer; pena de responder pelas perdas e danos que da demora resultarem ao navio ou à carga (artigo nº. 748).
 
-###### Art. 511 - O
+###### Art. 511
 
-capitão que entrar em porto estrangeiro é obrigado a apresentar-se ao cônsul do Império nas primeiras 24 (vinte quatro) horas úteis, e a depositar nas suas mãos a guia ou manifesto da Alfândega, indo de algum porto do Brasil, e à matrícula; e a declarar, e fazer anotar nesta pelo mesmo cônsul, no ato da apresentação, toda e qualquer alteração que tenha ocorrido sobre o mar na tripulação do navio; e antes da saída as que ocorrerem durante a sua estada no mesmo porto.
+O capitão que entrar em porto estrangeiro é obrigado a apresentar-se ao cônsul do Império nas primeiras 24 (vinte quatro) horas úteis, e a depositar nas suas mãos a guia ou manifesto da Alfândega, indo de algum porto do Brasil, e à matrícula; e a declarar, e fazer anotar nesta pelo mesmo cônsul, no ato da apresentação, toda e qualquer alteração que tenha ocorrido sobre o mar na tripulação do navio; e antes da saída as que ocorrerem durante a sua estada no mesmo porto.
 
 Quando a entrada for em porto do Império, o depósito do manifesto terá lugar na Alfândega respectiva, havendo-a, e o da matrícula na repartição onde esta se costuma fazer com as sobreditas declarações.
 
@@ -345,9 +345,9 @@ O capitão que não apresentar todos os indivíduos matriculados, ou não fizer 
 
 Não se achando presentes os proprietários, seus mandatários ou consignatários, incumbe ao capitão ajustar fretamentos, segundo as instruções que tiver recebido (artigo nº. 569).
 
-###### Art. 514 - O
+###### Art. 514
 
-capitão, nos portos onde residirem os donos, seus mandatários ou consignatários, não pode, sem autorização especial destes, fazer despesa alguma extraordinária com a embarcação.
+O capitão, nos portos onde residirem os donos, seus mandatários ou consignatários, não pode, sem autorização especial destes, fazer despesa alguma extraordinária com a embarcação.
 
 ###### Art. 515
 
@@ -367,23 +367,23 @@ Para poder ter lugar alguma das providências autorizadas no artigo precedente, 
 
 A justificação destes requisitos será feita perante o juiz de direito do comércio do porto onde se tomar o dinheiro a risco ou se venderem as mercadorias, e por ele julgada procedente, e nos portos estrangeiros perante os cônsules do Império.
 
-###### Art. 517 - O
+###### Art. 517
 
-capitão que, nos títulos ou instrumentos das obrigações procedentes de despesas por ele feitas para fabrico, habilitação ou abastecimento da embarcação, deixar de declarar a causa de que procedem, ficará pessoalmente obrigado para com as pessoas com quem contratar; sem prejuízo da ação que estas possam ter contra os donos do navio provando que as quantias devidas foram efetivamente aplicadas a benefício deste (artigo nº. 494).
+O capitão que, nos títulos ou instrumentos das obrigações procedentes de despesas por ele feitas para fabrico, habilitação ou abastecimento da embarcação, deixar de declarar a causa de que procedem, ficará pessoalmente obrigado para com as pessoas com quem contratar; sem prejuízo da ação que estas possam ter contra os donos do navio provando que as quantias devidas foram efetivamente aplicadas a benefício deste (artigo nº. 494).
 
-###### Art. 518 - O
+###### Art. 518
 
-capitão que tomar dinheiro sobre o casco do navio e seus pertences, empenhar ou vender mercadorias, fora dos casos em que por este Código lhe é permitido, e o que for convencido de fraude em suas contas, além das indenizações de perdas e danos, ficará sujeito à ação criminal que no caso couber.
+O capitão que tomar dinheiro sobre o casco do navio e seus pertences, empenhar ou vender mercadorias, fora dos casos em que por este Código lhe é permitido, e o que for convencido de fraude em suas contas, além das indenizações de perdas e danos, ficará sujeito à ação criminal que no caso couber.
 
-###### Art. 519 - O
+###### Art. 519
 
-capitão é considerado verdadeiro depositário da carga e de quaisquer efeitos que receber a bordo, e como tal está obrigado à sua guarda, bom acondicionamento e conservação, e à sua pronta entrega à vista dos conhecimentos (artigo nºs 586 e 587).
+O capitão é considerado verdadeiro depositário da carga e de quaisquer efeitos que receber a bordo, e como tal está obrigado à sua guarda, bom acondicionamento e conservação, e à sua pronta entrega à vista dos conhecimentos (artigo nºs 586 e 587).
 
 A responsabilidade do capitão a respeito da carga principia a correr desde o momento em que a recebe, e continua até o ato da sua entrega no lugar que se houver convencionado, ou que estiver em uso no porto da descarga.
 
-###### Art. 520 - O
+###### Art. 520
 
-capitão tem direito para ser indenizado pelos donos de todas as despesas necessárias que fizer em utilidade da embarcação com fundos próprios ou alheios, contanto que não tenha excedido as suas instruções, nem as faculdades que por sua natureza são inerentes à sua qualidade de capitão.
+O capitão tem direito para ser indenizado pelos donos de todas as despesas necessárias que fizer em utilidade da embarcação com fundos próprios ou alheios, contanto que não tenha excedido as suas instruções, nem as faculdades que por sua natureza são inerentes à sua qualidade de capitão.
 
 ###### Art. 521
 
@@ -393,13 +393,13 @@ capitão tem direito para ser indenizado pelos donos de todas as despesas necess
 
 Estando a embarcação fretada por inteiro, se o capitão receber carga de terceiro, o afretador tem direito a fazê-la desembarcar.
 
-###### Art. 523 - O
+###### Art. 523
 
-capitão, ou qualquer outro indivíduo da tripulação, que carregar na embarcação, ainda mesmo a pretexto de ser na sua câmara ou nos seus agasalhados, mercadoria de sua conta particular, sem consentimento por escrito do dono do navio ou dos afretadores, pode ser obrigado a pagar frete dobrado.
+O capitão, ou qualquer outro indivíduo da tripulação, que carregar na embarcação, ainda mesmo a pretexto de ser na sua câmara ou nos seus agasalhados, mercadoria de sua conta particular, sem consentimento por escrito do dono do navio ou dos afretadores, pode ser obrigado a pagar frete dobrado.
 
-###### Art. 524 - O
+###### Art. 524
 
-capitão que navega em parceria a lucro comum sobre a carga não pode fazer comércio algum por sua conta particular a não haver convenção em contrário; pena de correrem por conta dele todos os riscos e perdas, e de pertencerem aos demais parceiros os lucros que houver.
+O capitão que navega em parceria a lucro comum sobre a carga não pode fazer comércio algum por sua conta particular a não haver convenção em contrário; pena de correrem por conta dele todos os riscos e perdas, e de pertencerem aos demais parceiros os lucros que houver.
 
 ###### Art. 525
 
@@ -409,9 +409,9 @@ capitão que navega em parceria a lucro comum sobre a carga não pode fazer com�
 
 É obrigação do capitão resistir por todos os meios que lhe ditar a sua prudência a toda e qualquer violência que possa intentar- se contra a embarcação, seus pertences e carga; e se for obrigado a fazer entrega de tudo ou de parte, deverá munir-se com os competentes protestos e justificações no mesmo porto, ou no primeiro onde chegar (artigo nºs 504 e 505).
 
-###### Art. 527 - O
+###### Art. 527
 
-capitão não pode reter a bordo os efeitos da carga a título de segurança do frete; mas tem direito de exigir dos donos ou consignatários, no ato da entrega da carga, que depositem ou afiancem a importância do frete, avarias grossas e despesas a seu cargo; e na falta de pronto pagamento, depósito, ou fiança, poderá requerer embargo pelos fretes, avarias e despesas sobre as mercadorias da carga, enquanto estas se acharem em poder dos donos ou consignatários, ou estejam fora das estações públicas ou dentro delas; e mesmo para requerer a sua venda imediata, se forem de fácil deterioração, ou de guarda arriscada ou dispendiosa.
+O capitão não pode reter a bordo os efeitos da carga a título de segurança do frete; mas tem direito de exigir dos donos ou consignatários, no ato da entrega da carga, que depositem ou afiancem a importância do frete, avarias grossas e despesas a seu cargo; e na falta de pronto pagamento, depósito, ou fiança, poderá requerer embargo pelos fretes, avarias e despesas sobre as mercadorias da carga, enquanto estas se acharem em poder dos donos ou consignatários, ou estejam fora das estações públicas ou dentro delas; e mesmo para requerer a sua venda imediata, se forem de fácil deterioração, ou de guarda arriscada ou dispendiosa.
 
 A ação de embargo prescreve passados 30 (trinta) dias a contar da data do último dia da descarga.
 
@@ -419,9 +419,9 @@ A ação de embargo prescreve passados 30 (trinta) dias a contar da data do últ
 
 Quando por ausência do consignatário, ou por se não apresentar o portador do conhecimento à ordem, o capitão ignorar a quem deva competentemente fazer a entrega, solicitará do juiz de direito do comércio, e onde o não houver da autoridade local a quem competir, que nomeie depositário para receber os gêneros, e pagar os fretes devidos por conta de quem pertencer.
 
-###### Art. 529 - O
+###### Art. 529
 
-capitão é responsável por todas as perdas e danos que, por culpa sua, omissão ou imperícia, sobrevierem ao navio ou à carga; sem prejuízo das ações criminais a que a sua malversação ou dolo possa dar lugar (artigo nº. 608).
+O capitão é responsável por todas as perdas e danos que, por culpa sua, omissão ou imperícia, sobrevierem ao navio ou à carga; sem prejuízo das ações criminais a que a sua malversação ou dolo possa dar lugar (artigo nº. 608).
 
 O capitão é também civilmente responsável pelos furtos, ou quaisquer danos praticados a bordo pelos indivíduos da tripulação nos objetos da carga, enquanto esta se achar debaixo da sua responsabilidade.
 
@@ -429,13 +429,13 @@ O capitão é também civilmente responsável pelos furtos, ou quaisquer danos p
 
 Serão pagas pelo capitão todas as multas que forem impostas à embarcação por falta de exata observância das leis e regulamentos das Alfândegas e polícia dos portos; e igualmente os prejuízos que resultarem de discórdias entre os indivíduos da mesma tripulação no serviço desta, se não provar que empregou todos os meios convenientes para as evitar.
 
-###### Art. 531 - O
+###### Art. 531
 
-capitão que, fora do caso de inavegabilidade legalmente provada, vender o navio sem autorização especial dos donos, ficará responsável por perdas e danos, além da nulidade da venda, e do procedimento criminal que possa ter lugar.
+O capitão que, fora do caso de inavegabilidade legalmente provada, vender o navio sem autorização especial dos donos, ficará responsável por perdas e danos, além da nulidade da venda, e do procedimento criminal que possa ter lugar.
 
-###### Art. 532 - O
+###### Art. 532
 
-capitão que, sendo contratado para uma viagem certa, deixar de a concluir sem causa justificada, responderá aos proprietários, afretadores e carregadores pelas perdas e danos que dessa falta resultarem.
+O capitão que, sendo contratado para uma viagem certa, deixar de a concluir sem causa justificada, responderá aos proprietários, afretadores e carregadores pelas perdas e danos que dessa falta resultarem.
 
 Em reciprocidade, o capitão, que sem justa causa for despedido antes de finda a viagem, será pago da sua soldada por inteiro, posto à custa do proprietário ou afretador no lugar onde começou a viagem, e indenizado de quaisquer vantagens que possa ter perdido pela despedida.
 
@@ -463,31 +463,31 @@ Toda a obrigação pela qual o capitão, sendo comparte do navio, for responsáv
 
 ### TÍTULO IV — DO PILOTO E CONTRAMESTRE
 
-###### Art. 538 - A
+###### Art. 538
 
-habilitação e deveres dos pilotos e contramestres são prescritos nos regulamentos de Marinha.
+A habilitação e deveres dos pilotos e contramestres são prescritos nos regulamentos de Marinha.
 
-###### Art. 539 - O
+###### Art. 539
 
-piloto, quando julgar necessário mudar de rumo, comunicará ao capitão as razões, que assim o exigem; e se este se opuser, desprezando as suas observações, que em tal caso deverá renovar-lhe na presença dos mais oficiais do navio, lançará o seu protesto no Diário da Navegação (artigo nº. 504), o qual deverá ser por todos assinado, e obedecerá às ordens do capitão, sobre quem recairá toda a responsabilidade.
+O piloto, quando julgar necessário mudar de rumo, comunicará ao capitão as razões, que assim o exigem; e se este se opuser, desprezando as suas observações, que em tal caso deverá renovar-lhe na presença dos mais oficiais do navio, lançará o seu protesto no Diário da Navegação (artigo nº. 504), o qual deverá ser por todos assinado, e obedecerá às ordens do capitão, sobre quem recairá toda a responsabilidade.
 
-###### Art. 540 - O
+###### Art. 540
 
-piloto, que, por imperícia, omissão ou malícia, perder o navio ou lhe causar dano, será obrigado a ressarcir o prejuízo que sofrer o mesmo navio ou a carga; além de incorrer nas penas criminais que possam ter lugar; a responsabilidade do piloto não exclui a do capitão nos casos do artigo nº. 529.
+O piloto, que, por imperícia, omissão ou malícia, perder o navio ou lhe causar dano, será obrigado a ressarcir o prejuízo que sofrer o mesmo navio ou a carga; além de incorrer nas penas criminais que possam ter lugar; a responsabilidade do piloto não exclui a do capitão nos casos do artigo nº. 529.
 
 ###### Art. 541
 
 Por morte ou impedimento do capitão recai o comando do navio no piloto, e na falta ou impedimento deste no contramestre, com todas as prerrogativas, faculdades, obrigações e responsabilidades inerentes ao lugar de capitão.
 
-###### Art. 542 - O
+###### Art. 542
 
-contramestre que, recebendo ou entregando fazendas, não exige e entrega ao capitão as ordens, recibos, ou outros quaisquer documentos justificativos do seu ato, responde por perdas e danos daí resultantes.
+O contramestre que, recebendo ou entregando fazendas, não exige e entrega ao capitão as ordens, recibos, ou outros quaisquer documentos justificativos do seu ato, responde por perdas e danos daí resultantes.
 
 ### TÍTULO V — DO AJUSTE E SOLDADAS DOS OFICIAIS E GENTE DA TRIPULAÇÃO, SEUS DIREITOS E OBRIGAÇÕES
 
-###### Art. 543 - O
+###### Art. 543
 
-capitão é obrigado a dar às pessoas da tripulação, que o exigirem, uma nota por ele assinada, em que se declare a natureza do ajuste e preço da soldada, e a lançar na mesma nota as quantias que se forem pagando por conta. As condições do ajuste entre o capitão e a gente da tripulação, na falta de outro título do contrato, provam-se pelo rol da equipagem ou matrícula; subentendendo-se sempre compreendido no ajuste o sustento da tripulação.
+O capitão é obrigado a dar às pessoas da tripulação, que o exigirem, uma nota por ele assinada, em que se declare a natureza do ajuste e preço da soldada, e a lançar na mesma nota as quantias que se forem pagando por conta. As condições do ajuste entre o capitão e a gente da tripulação, na falta de outro título do contrato, provam-se pelo rol da equipagem ou matrícula; subentendendo-se sempre compreendido no ajuste o sustento da tripulação.
 
 Não constando pela matrícula, nem por outro escrito do contrato, o tempo determinado do ajuste, entende-se sempre que foi por viagem redonda ou de ida e volta ao lugar em que teve lugar a matrícula.
 
@@ -639,9 +639,9 @@ Todos os indivíduos da equipagem têm hipoteca tácita no navio e fretes para s
 
 Entender-se-á por equipagem ou tripulação para o dito efeito, e para todos os mais dispostos neste Título, o capitão, oficiais, marinheiros e todas as mais pessoas empregadas no serviço do navio, menos as sobrecargas.
 
-###### Art. 565 - O
+###### Art. 565
 
-navio e frete respondem para com os donos da carga pelos danos que sofrerem por delitos, culpa ou omissão culposa do capitão ou gente da tripulação, perpetrados em serviço do navio; salvas as ações dos proprietários da embarcação contra o capitão, e deste contra a gente da tripulação.
+O navio e frete respondem para com os donos da carga pelos danos que sofrerem por delitos, culpa ou omissão culposa do capitão ou gente da tripulação, perpetrados em serviço do navio; salvas as ações dos proprietários da embarcação contra o capitão, e deste contra a gente da tripulação.
 
 O salário do capitão e as soldadas da equipagem são hipoteca especial nestas ações.
 
@@ -649,13 +649,13 @@ O salário do capitão e as soldadas da equipagem são hipoteca especial nestas 
 
 #### Capítulo I — DA NATUREZA E FORMA DO CONTRATO DE FRETAMENTO E DAS CARTAS-PARTIDAS
 
-###### Art. 566 - O
+###### Art. 566
 
-contrato de fretamento de qualquer embarcação, quer seja na sua totalidade ou em parte, para uma ou mais viagens, quer seja à carga, colheita ou prancha. O que tem lugar quando o capitão recebe carga de quanto se apresentam, deve provar-se por escrito. No primeiro caso o instrumento, que se chama carta-partida ou carta de fretamento, deve ser assinado pelo fretador e afretador, e por quaisquer outras pessoas que intervenham no contrato, do qual se dará a cada uma das partes um exemplar; e no segundo, o instrumento chama-se conhecimento, e basta ser assinado pelo capitão e o carregador. Entende-se por fretador o que dá, e por afretador o que toma a embarcação a frete.
+O contrato de fretamento de qualquer embarcação, quer seja na sua totalidade ou em parte, para uma ou mais viagens, quer seja à carga, colheita ou prancha. O que tem lugar quando o capitão recebe carga de quanto se apresentam, deve provar-se por escrito. No primeiro caso o instrumento, que se chama carta-partida ou carta de fretamento, deve ser assinado pelo fretador e afretador, e por quaisquer outras pessoas que intervenham no contrato, do qual se dará a cada uma das partes um exemplar; e no segundo, o instrumento chama-se conhecimento, e basta ser assinado pelo capitão e o carregador. Entende-se por fretador o que dá, e por afretador o que toma a embarcação a frete.
 
-###### Art. 567 - A
+###### Art. 567
 
-carta-partida deve enunciar:
+A carta-partida deve enunciar:
 
 1 - o nome do capitão e o do navio, o porte deste, a nação a que pertence, e o porto do seu registro (artigo nº. 460);
 
@@ -677,9 +677,9 @@ carta-partida deve enunciar:
 
 As cartas de fretamento devem ser lançadas no Registro do Comércio, dentro de 15 (quinze) dias a contar da saída da embarcação nos lugares da residência dos Tribunais do Comércio, e nos outros, dentro do prazo que estes designarem (artigo nº. 31).
 
-###### Art. 569 - A
+###### Art. 569
 
-carta de fretamento valerá como instrumento público tendo sido feita por intervenção e com assinatura de algum corretor de navios, ou na falta de corretor por tabelião que porte por fé ter sido passada na sua presença e de duas testemunhas com ele assinadas. A carta de fretamento que não for autenticada por alguma das duas referidas formas, obrigará as próprias partes mas não dará direito contra terceiro.
+A carta de fretamento valerá como instrumento público tendo sido feita por intervenção e com assinatura de algum corretor de navios, ou na falta de corretor por tabelião que porte por fé ter sido passada na sua presença e de duas testemunhas com ele assinadas. A carta de fretamento que não for autenticada por alguma das duas referidas formas, obrigará as próprias partes mas não dará direito contra terceiro.
 
 As cartas de fretamento assinadas pelo capitão valem ainda que este tenha excedido as faculdades das suas instruções; salvo o direito dos donos do navio por perdas e danos contra ele pelos abusos que cometer.
 
@@ -715,9 +715,9 @@ Poderá igualmente rescindir-se o contrato de fretamento a requerimento do afret
 
 #### Capítulo II — DOS CONHECIMENTOS
 
-###### Art. 575 - O
+###### Art. 575
 
-conhecimento deve ser datado, e declarar:
+O conhecimento deve ser datado, e declarar:
 
 1 - o nome do capitão, e o do carregador e consignatário (podendo omitir-se o nome deste se for à ordem), e o nome e porte do navio;
 
@@ -733,9 +733,9 @@ conhecimento deve ser datado, e declarar:
 
 Sendo a carga tomada em virtude de carta de fretamento, o portador do conhecimento não fica responsável por alguma condição ou obrigação especial contida na mesma carta, se o conhecimento não tiver a cláusula - segundo a carta de fretamento.
 
-###### Art. 577 - O
+###### Art. 577
 
-capitão é obrigado a assinar todas as vias de um mesmo conhecimento que o carregador exigir, devendo ser todas do mesmo teor e da mesma data, e conter o número da via. Uma via ficará em poder do capitão, as outras pertencem ao carregador.
+O capitão é obrigado a assinar todas as vias de um mesmo conhecimento que o carregador exigir, devendo ser todas do mesmo teor e da mesma data, e conter o número da via. Uma via ficará em poder do capitão, as outras pertencem ao carregador.
 
 Se o capitão for ao mesmo tempo o carregador, os conhecimentos respectivos serão assinados por duas pessoas da tripulação a ele imediatas no comando do navio, e uma via será depositada nas mãos do armador ou do consignatário.
 
@@ -773,17 +773,17 @@ Constando ao capitão que há diversos portadores das diferentes vias de um conh
 
 Nenhuma penhora ou embargo de terceiro, que não for portador de alguma das vias de conhecimento, pode, fora do caso de reivindicação segundo as disposições deste Código (artigo nº. 874), nº 2), privar o portador do mesmo conhecimento da faculdade de requerer o depósito ou venda judicial das fazendas no caso sobredito; salvo o direito do exeqüente ou de terceiro opoente sobre o preço da venda.
 
-###### Art. 585 - O
+###### Art. 585
 
-capitão pode requerer o depósito judicial todas as vezes que os portadores de conhecimentos se não apresentarem para receber a carga imediatamente que ele der princípio à descarga, e nos casos em que o consignatário esteja ausente ou seja falecido.
+O capitão pode requerer o depósito judicial todas as vezes que os portadores de conhecimentos se não apresentarem para receber a carga imediatamente que ele der princípio à descarga, e nos casos em que o consignatário esteja ausente ou seja falecido.
 
-###### Art. 586 - O
+###### Art. 586
 
-conhecimento concebido nos termos enunciados no artigo nº. 575 faz inteira prova entre todas as partes interessadas na carga e frete, e entre elas e os seguradores; ficando salva a estes e aos donos do navio a prova em contrário.
+O conhecimento concebido nos termos enunciados no artigo nº. 575 faz inteira prova entre todas as partes interessadas na carga e frete, e entre elas e os seguradores; ficando salva a estes e aos donos do navio a prova em contrário.
 
-###### Art. 587 - O
+###### Art. 587
 
-conhecimento feito em forma regular (artigo nº 575) tem força e é acionável como escritura pública.
+O conhecimento feito em forma regular (artigo nº 575) tem força e é acionável como escritura pública.
 
 Sendo passado à ordem é transferível e negociável por via de endosso.
 
@@ -797,9 +797,9 @@ Nenhuma ação entre o capitão e os carregadores ou seguradores será admissív
 
 #### Capítulo III — DOS DIREITOS E OBRIGAÇÕES DO FRETADOR E AFRETADOR
 
-###### Art. 590 - O
+###### Art. 590
 
-fretador é obrigado a ter o navio prestes para receber a carga, e o afretador a efetuá-la no tempo marcado no contrato.
+O fretador é obrigado a ter o navio prestes para receber a carga, e o afretador a efetuá-la no tempo marcado no contrato.
 
 ###### Art. 591
 
@@ -829,9 +829,9 @@ Tendo o fretador direito de fazer sair o navio sem carga ou só com parte dela (
 
 Se o fretador houver declarado na carta-partida maior capacidade daquela que o navio na realidade tiver, não excedendo da décima parte, o afretador terá opção para anular o contrato, ou exigir correspondente abatimento no frete, com indenização de perdas e danos; salvo se a declaração estiver conforme à lotação do navio.
 
-###### Art. 598 - O
+###### Art. 598
 
-fretador pode fazer descarregar à custa do afretador os efeitos que este introduzir no navio além da carga ajustada na carta de fretamento; salvo prestando-se aquele a pagar o frete correspondente, se o navio os puder receber.
+O fretador pode fazer descarregar à custa do afretador os efeitos que este introduzir no navio além da carga ajustada na carta de fretamento; salvo prestando-se aquele a pagar o frete correspondente, se o navio os puder receber.
 
 ###### Art. 599
 
@@ -871,9 +871,9 @@ Recusando o consignatário fazer na carta de fretamento a declaração requerida
 
 Sendo um navio embargado na partida, em viagem, ou no lugar da descarga, por fato ou negligência do afretador ou de algum dos carregadores, ficará o culpado obrigado, para com o fretador ou capitão e os mais carregadores, pelas perdas e danos que o navio ou as fazendas vierem a sofrer provenientes desse fato.
 
-###### Art. 608 - O
+###### Art. 608
 
-capitão é responsável ao dono do navio e ao afretador e carregadores por perdas e danos, se por culpa sua o navio for embargado ou retardado na partida, durante a viagem, ou no lugar do seu destino.
+O capitão é responsável ao dono do navio e ao afretador e carregadores por perdas e danos, se por culpa sua o navio for embargado ou retardado na partida, durante a viagem, ou no lugar do seu destino.
 
 ###### Art. 609
 
@@ -919,17 +919,17 @@ Se as fazendas forem entregues sem o referido exame, os consignatários têm dir
 
 Todavia, não sendo a avaria ou diminuição visível por fora, o exame judicial poderá validamente fazer-se dentro de 10 (dez) dias depois que as fazendas passarem às mãos dos consignatários, nos termos do artigo nº 211.
 
-###### Art. 619 - O
+###### Art. 619
 
-capitão ou fretador não pode reter fazendas no navio a pretexto de falta de pagamento de frete, avaria grossa ou despesas; poderá, porém, precedendo competente protesto, requerer o depósito de fazendas equivalentes, e pedir venda delas, ficando-lhe direito salvo pelo resto contra o carregador, no caso de insuficiência do depósito.
+O capitão ou fretador não pode reter fazendas no navio a pretexto de falta de pagamento de frete, avaria grossa ou despesas; poderá, porém, precedendo competente protesto, requerer o depósito de fazendas equivalentes, e pedir venda delas, ficando-lhe direito salvo pelo resto contra o carregador, no caso de insuficiência do depósito.
 
 A mesma disposição tem lugar quando o consignatário recusa receber a carga.
 
 Nos dois referidos casos, se a avaria grossa não puder ser regulada imediatamente, é lícito ao capitão exigir o depósito judicial da soma que se arbitrar.
 
-###### Art. 620 - O
+###### Art. 620
 
-capitão que entregar fazendas antes de receber o frete, avaria grossa e despesas, sem pôr em prática os meios do artigo precedente, ou os que lhe facultarem os leis ou usos do lugar da descarga, não terá ação para exigir o pagamento do carregador ou afretador, provando este que carregou as fazendas por conta de terceiro.
+O capitão que entregar fazendas antes de receber o frete, avaria grossa e despesas, sem pôr em prática os meios do artigo precedente, ou os que lhe facultarem os leis ou usos do lugar da descarga, não terá ação para exigir o pagamento do carregador ou afretador, provando este que carregou as fazendas por conta de terceiro.
 
 ###### Art. 621
 
@@ -949,31 +949,31 @@ Todavia, resgatando-se o navio e fazendas, ou salvando-se do naufrágio, deve-se
 
 Salvando-se no mar ou nas praias, sem cooperação da tripulação, fazendas que fizeram parte da carga, e sendo depois de salvas entregues por pessoas estranhas, não se deve por elas frete algum.
 
-###### Art. 624 - O
+###### Art. 624
 
-carregador não pode abandonar as fazendas ao frete. Todavia pode ter lugar o abandono dos líquidos, cujas vasilhas se achem vazias ou quase vazias.
+O carregador não pode abandonar as fazendas ao frete. Todavia pode ter lugar o abandono dos líquidos, cujas vasilhas se achem vazias ou quase vazias.
 
-###### Art. 625 - A
+###### Art. 625
 
-viagem para todos os efeitos do vencimento de fretes, se outra coisa se não ajustar, começa a correr desde o momento em que a carga fica debaixo da responsabilidade do capitão.
+A viagem para todos os efeitos do vencimento de fretes, se outra coisa se não ajustar, começa a correr desde o momento em que a carga fica debaixo da responsabilidade do capitão.
 
 ###### Art. 626
 
 Os fretes e avarias grossas têm hipoteca tácita e especial nos efeitos que fazem objeto da carga, durante 30 (trinta) dias depois da entrega, se antes desse termo não houverem passado para o domínio de terceiro.
 
-###### Art. 627 - A
+###### Art. 627
 
-dívida de fretes, primagem, estadias e sobre estadias, avarias e despesas da carga prefere a todas as outras sobre o valor dos efeitos carregados; salvo os casos, de que trata o artigo nº. 470, nº 1.
+A dívida de fretes, primagem, estadias e sobre estadias, avarias e despesas da carga prefere a todas as outras sobre o valor dos efeitos carregados; salvo os casos, de que trata o artigo nº. 470, nº 1.
 
-###### Art. 628 - O
+###### Art. 628
 
-contrato de fretamento de um navio estrangeiro exeqüível no Brasil, há de ser determinado e julgado pelas regras estabelecidas neste Código, quer tenha sido ajustado dentro do Império, quer em país estrangeiro.
+O contrato de fretamento de um navio estrangeiro exeqüível no Brasil, há de ser determinado e julgado pelas regras estabelecidas neste Código, quer tenha sido ajustado dentro do Império, quer em país estrangeiro.
 
 #### Capítulo IV — DOS PASSAGEIROS
 
-###### Art. 629 - O
+###### Art. 629
 
-passageiro de um navio deve achar-se a bordo no dia e hora que o capitão designar, quer no porto da partida, quer em qualquer outro de escala ou arribada; pena de ser obrigado ao pagamento do preço da sua passagem por inteiro, se o navio se fizer de vela sem ele.
+O passageiro de um navio deve achar-se a bordo no dia e hora que o capitão designar, quer no porto da partida, quer em qualquer outro de escala ou arribada; pena de ser obrigado ao pagamento do preço da sua passagem por inteiro, se o navio se fizer de vela sem ele.
 
 ###### Art. 630
 
@@ -989,21 +989,21 @@ Se a viagem for suspensa ou interrompida por causa de força maior, no porto da 
 
 Interrompendo-se a viagem depois de começada por demora de conserto do navio, o passageiro pode tornar passagem em outro, pagando o preço correspondente à viagem feita. Se quiser esperar pelo conserto, o capitão não é obrigado ao seu sustento; salvo se o passageiro não encontrar outro navio em que comodamente se possa transportar, ou o preço da nova passagem exceder o da primeira, na proporção da viagem andada.
 
-###### Art. 632 - O
+###### Art. 632
 
-capitão tem hipoteca privilegiada para pagamento do preço da passagem em todos os efeitos que o passageiro tiver a bordo, e direito de os reter enquanto não for pago. O capitão só responde pelo dano sobrevindo aos efeitos que o passageiro tiver a bordo debaixo da sua imediata guarda, quando o dano provier de fato seu ou da tripulação.
+O capitão tem hipoteca privilegiada para pagamento do preço da passagem em todos os efeitos que o passageiro tiver a bordo, e direito de os reter enquanto não for pago. O capitão só responde pelo dano sobrevindo aos efeitos que o passageiro tiver a bordo debaixo da sua imediata guarda, quando o dano provier de fato seu ou da tripulação.
 
 ### TÍTULO VII — DO CONTRATO DE DINHEIRO A RISCO OU CÂMBIO MARÍTIMO
 
-###### Art. 633 - O
+###### Art. 633
 
-contrato de empréstimo a risco ou câmbio marítimo, pelo qual o dador estipula do tomador um prêmio certo e determinado por preço dos riscos de mar que toma sobre si, ficando com hipoteca especial no objeto sobre que recai o empréstimo, e sujeitando-se a perder o capital e prêmio se o dito objeto vier a perecer por efeito dos riscos tomados no tempo e lugar convencionados, só pode provar-se por instrumento público ou particular, o qual será registrado no Tribunal do Comércio dentro de 8 (oito) dias da data da escritura ou letra. Se o contrato tiver lugar em país estrangeiro por súditos brasileiros, o instrumento deverá ser autenticado com o - visto - do cônsul do Império, se aí o houver, e em todo o caso anotado no verso do registro da embarcação, se versar sobre o navio ou fretes. Faltando no instrumento do contrato alguma das sobreditas formalidades, ficará este subsistindo entre as próprias partes, mas não estabelecerá direitos contra terceiro.
+O contrato de empréstimo a risco ou câmbio marítimo, pelo qual o dador estipula do tomador um prêmio certo e determinado por preço dos riscos de mar que toma sobre si, ficando com hipoteca especial no objeto sobre que recai o empréstimo, e sujeitando-se a perder o capital e prêmio se o dito objeto vier a perecer por efeito dos riscos tomados no tempo e lugar convencionados, só pode provar-se por instrumento público ou particular, o qual será registrado no Tribunal do Comércio dentro de 8 (oito) dias da data da escritura ou letra. Se o contrato tiver lugar em país estrangeiro por súditos brasileiros, o instrumento deverá ser autenticado com o - visto - do cônsul do Império, se aí o houver, e em todo o caso anotado no verso do registro da embarcação, se versar sobre o navio ou fretes. Faltando no instrumento do contrato alguma das sobreditas formalidades, ficará este subsistindo entre as próprias partes, mas não estabelecerá direitos contra terceiro.
 
 É permitido fazer empréstimo a risco não só em dinheiro, mas também em efeitos próprios para o serviço e consumo do navio, ou que possam ser objeto de comércio; mas em tais casos a coisa emprestada deve ser estimada em valor fixo para ser paga com dinheiro.
 
-###### Art. 634 - O
+###### Art. 634
 
-instrumento do contrato de dinheiro a risco deve declarar:
+O instrumento do contrato de dinheiro a risco deve declarar:
 
 1 - A data e o lugar em que o empréstimo se faz.
 
@@ -1023,9 +1023,9 @@ instrumento do contrato de dinheiro a risco deve declarar:
 
 O instrumento em que faltar alguma das declarações enunciadas será considerado como simples crédito de dinheiro de empréstimo ao prêmio da lei, sem hipoteca nos efeitos sobre que tiver sido dada, nem privilégio algum.
 
-###### Art. 635 - A
+###### Art. 635
 
-escritura ou letra de risco exarada à ordem tem força de letra de câmbio contra o tomador e garantes, e é transferível e exeqüível por via de endosso, com os mesmos direitos e pelas mesmas ações que as letras de câmbio.
+A escritura ou letra de risco exarada à ordem tem força de letra de câmbio contra o tomador e garantes, e é transferível e exeqüível por via de endosso, com os mesmos direitos e pelas mesmas ações que as letras de câmbio.
 
 O cessionário toma o lugar de endossador, tanto a respeito do capital como do prêmio e dos riscos, mas a garantia da solvabilidade do tomador é restrita ao capital; salvo condição em contrário quanto ao prêmio.
 
@@ -1041,9 +1041,9 @@ Se no instrumento do contrato se não tiver feito menção específica dos risco
 
 Não se declarando na escritura ou letra de risco que o empréstimo é só por ida ou só por volta, ou por uma e outra, o pagamento, recaindo o empréstimo sobre fazendas, é exeqüível no lugar do destino destas, declarado nos conhecimentos ou fretamento, e se recair sobre o navio, no fim de 2 (dois) meses depois da chegada ao porto do destino, se não aparelhar de volta.
 
-###### Art. 639 - O
+###### Art. 639
 
-empréstimo a risco pode recair:
+O empréstimo a risco pode recair:
 
 1 - sobre o casco, fretes e pertences do navio;
 
@@ -1067,9 +1067,9 @@ Para o contrato surtir o seu efeito legal, é necessário que exista dentro do n
 
 Quando o objeto sobre que se toma dinheiro a risco não chega a pôr-se efetivamente em risco por não se efetuar a viagem, rescinde se o contrato; e o dador neste caso tem direito para haver o capital com os juros da lei desde o dia da entrega do dinheiro ao tomador, sem outro algum prêmio, e goza do privilégio de preferência quanto ao capital somente.
 
-###### Art. 643 - O
+###### Art. 643
 
-tomador que não carregar efeitos no valor total da soma tomada a risco é obrigado a restituir o remanescente ao dador antes da partida do navio, ou todo se nenhum empregar; e se não restituir, dá-se ação pessoal contra o tomador pela parte descoberta, ainda que a parte coberta ou empregada venha a perder-se (artigo nº. 655). O mesmo terá lugar quando o dinheiro a risco for tomado para habilitar o navio, se o tomador não chegar a fazer uso dele ou da coisa estimável, em todo ou em parte.
+O tomador que não carregar efeitos no valor total da soma tomada a risco é obrigado a restituir o remanescente ao dador antes da partida do navio, ou todo se nenhum empregar; e se não restituir, dá-se ação pessoal contra o tomador pela parte descoberta, ainda que a parte coberta ou empregada venha a perder-se (artigo nº. 655). O mesmo terá lugar quando o dinheiro a risco for tomado para habilitar o navio, se o tomador não chegar a fazer uso dele ou da coisa estimável, em todo ou em parte.
 
 ###### Art. 644
 
@@ -1079,9 +1079,9 @@ Quando no instrumento de risco sobre fazendas houver a faculdade de - tocar faze
 
 Se ao tempo do sinistro parte dos efeitos objeto de risco já se achar em terra, a perda do dador será reduzida ao que tiver ficado dentro do navio; e se os efeitos salvos forem transportados em outro navio para o porto do destino originário (artigo nº. 614), neste continuam os riscos do dador.
 
-###### Art. 646 - O
+###### Art. 646
 
-dador a risco sobre efeitos carregados em navio nominativamente designado no contrato não responde pela perda desses efeitos, ainda mesmo que seja acontecida por perigo de mar, se forem transferidos ou baldeados para outro navio, salvo provando-se legalmente que a baldeação tivera lugar por força maior.
+O dador a risco sobre efeitos carregados em navio nominativamente designado no contrato não responde pela perda desses efeitos, ainda mesmo que seja acontecida por perigo de mar, se forem transferidos ou baldeados para outro navio, salvo provando-se legalmente que a baldeação tivera lugar por força maior.
 
 ###### Art. 647
 
@@ -1105,13 +1105,13 @@ Quando alguns, mas não todos os riscos, ou uma parte somente do navio ou da car
 
 As letras mercantis provenientes de dinheiro recebido pelos capitães para despesas indispensáveis do navio ou da carga nos termos dos artigo nºs. 515 e 516, e os prêmios do seguro correspondente, quando a sua importância houver sido realmente segurada, têm o privilégio de letras de empréstimo a risco, se contiverem declaração expressa de que o importe foi destinado para as referidas despesas; e são exeqüíveis, ainda mesmo que tais objetos se percam por qualquer evento posterior, provando o dador que o dinheiro foi efetivamente empregado em beneficio do navio ou da carga (artigo nºs 515 e 517).
 
-###### Art. 652 - O
+###### Art. 652
 
-empréstimo de dinheiro a risco sobre o navio tomado pelo capitão no lugar do domicílio do dono, sem autorização escrita deste, produz ação e privilégio somente na parte que o capitão possa ter no navio e frete; e não obriga o dono, ainda mesmo que se pretenda provar que o dinheiro foi aplicado em beneficio da embarcação.
+O empréstimo de dinheiro a risco sobre o navio tomado pelo capitão no lugar do domicílio do dono, sem autorização escrita deste, produz ação e privilégio somente na parte que o capitão possa ter no navio e frete; e não obriga o dono, ainda mesmo que se pretenda provar que o dinheiro foi aplicado em beneficio da embarcação.
 
-###### Art. 653 - O
+###### Art. 653
 
-empréstimo a risco sobre fazendas, contraído antes da viagem começada, deve ser mencionado nos conhecimentos e no manifesto da carga, com designação da pessoa à quem o capitão deve participar a chegada feliz no lugar do destino. Omitida aquela declaração, o consignatário, tendo aceitado letras de câmbio, ou feito adiantamento na fé dos conhecimentos, preferirá ao portador da letra de risco. Na falta de designação a quem deva participar a chegada, o capitão pode descarregar as fazendas, sem responsabilidade alguma pessoal para com o portador da letra de risco.
+O empréstimo a risco sobre fazendas, contraído antes da viagem começada, deve ser mencionado nos conhecimentos e no manifesto da carga, com designação da pessoa à quem o capitão deve participar a chegada feliz no lugar do destino. Omitida aquela declaração, o consignatário, tendo aceitado letras de câmbio, ou feito adiantamento na fé dos conhecimentos, preferirá ao portador da letra de risco. Na falta de designação a quem deva participar a chegada, o capitão pode descarregar as fazendas, sem responsabilidade alguma pessoal para com o portador da letra de risco.
 
 ###### Art. 654
 
@@ -1137,9 +1137,9 @@ Incorre no crime de estelionato o tomador que receber dinheiro a risco por valor
 
 Em todos os referidos casos, ainda que o contrato não surta os seus efeitos legais, o tomador responde pessoalmente pelo principal mutuado e juros legais, posto que a coisa objeto do contrato tenha perecido no tempo e no lugar dos riscos.
 
-###### Art. 657 - O
+###### Art. 657
 
-privilégio do dador a risco sobre o navio compreende proporcionalmente, não só os fragmentos náufragos do mesmo navio, mas também o frete adquirido pelas fazendas salvas, deduzidas as despesas de salvados e as soldadas devidas por essa viagem, não havendo seguro ou risco especial sobre o mesmo frete.
+O privilégio do dador a risco sobre o navio compreende proporcionalmente, não só os fragmentos náufragos do mesmo navio, mas também o frete adquirido pelas fazendas salvas, deduzidas as despesas de salvados e as soldadas devidas por essa viagem, não havendo seguro ou risco especial sobre o mesmo frete.
 
 ###### Art. 658
 
@@ -1153,13 +1153,13 @@ Se o contrato a risco compreender navio e carga, as fazendas conservadas são hi
 
 Não estando fixada a época do pagamento, será este reputado vencido apenas tiverem cessado os riscos. Desse dia em diante correm para o dador os juros da lei sobre o capital e prêmio no caso de mora; a qual só pode provar-se pelo protesto.
 
-###### Art. 661 - O
+###### Art. 661
 
-portador, na falta de pagamento no termo devido, é obrigado a protestar e a praticar todos os deveres dos portadores de letras de câmbio para vencimento dos juros, e conservação do direito regressivo sobre os garantes do instrumento de risco.
+O portador, na falta de pagamento no termo devido, é obrigado a protestar e a praticar todos os deveres dos portadores de letras de câmbio para vencimento dos juros, e conservação do direito regressivo sobre os garantes do instrumento de risco.
 
-###### Art. 662 - O
+###### Art. 662
 
-dador de dinheiro a risco adquire hipoteca no objeto sobre que recai o empréstimo, mas fica sujeito a perder todo o direito à soma mutuada, perecendo o objeto hipotecado no tempo e lugar, e pelos riscos convencionados; e só tem direito ao embolso do principal e prêmio por inteiro no caso de chegada a salvamento.
+O dador de dinheiro a risco adquire hipoteca no objeto sobre que recai o empréstimo, mas fica sujeito a perder todo o direito à soma mutuada, perecendo o objeto hipotecado no tempo e lugar, e pelos riscos convencionados; e só tem direito ao embolso do principal e prêmio por inteiro no caso de chegada a salvamento.
 
 ###### Art. 663
 
@@ -1177,13 +1177,13 @@ Quando sobre contrato de dinheiro a risco ocorra caso que se não ache prevenido
 
 #### Capítulo I — DA NATUREZA E FORMA DO CONTRATO DE SEGURO MARÍTIMO
 
-###### Art. 666 - O
+###### Art. 666
 
-contrato de seguro marítimo, pelo qual o segurador, tomando sobre si a fortuna e riscos do mar, se obriga a indenizar ao segurado da perda ou dano que possa sobrevir ao objeto do seguro, mediante um prêmio ou soma determinada, equivalente ao risco tomado, só pode provar-se por escrito, a cujo instrumento se chama apólice; contudo julga-se subsistente para obrigar reciprocamente ao segurador e ao segurado desde o momento em que as partes se convierem, assinando ambas a minuta, a qual deve conter todas as declarações, cláusulas e condições da apólice.
+O contrato de seguro marítimo, pelo qual o segurador, tomando sobre si a fortuna e riscos do mar, se obriga a indenizar ao segurado da perda ou dano que possa sobrevir ao objeto do seguro, mediante um prêmio ou soma determinada, equivalente ao risco tomado, só pode provar-se por escrito, a cujo instrumento se chama apólice; contudo julga-se subsistente para obrigar reciprocamente ao segurador e ao segurado desde o momento em que as partes se convierem, assinando ambas a minuta, a qual deve conter todas as declarações, cláusulas e condições da apólice.
 
-###### Art. 667 - A
+###### Art. 667
 
-apólice de seguro deve ser assinada pelos seguradores, e conter:
+A apólice de seguro deve ser assinada pelos seguradores, e conter:
 
 1 - O nome e domicílio do segurador e o do segurado; declarando este se segura por sua conta ou por conta de terceiro, cujo nome pode omitir-se; omitindo-se o nome do segurado, o terceiro que faz o seguro em seu nome fica pessoal e solidariamente responsável.
 
@@ -1221,9 +1221,9 @@ Sendo diversos os seguradores, cada um deve declarar a quantia por que se obriga
 
 Se um dos seguradores se obrigar por certa e determinada quantia, os seguradores que depois dele assinarem sem declaração da quantia por que se obrigam, ficarão responsáveis cada um por outra igual soma.
 
-###### Art. 669 - O
+###### Art. 669
 
-seguro pode recair sobre a totalidade de um objeto ou sobre parte dele somente; e pode ser feito antes da viagem começada ou durante o curso dela, de ida e volta, ou só por ida ou só por volta, por viagem inteira ou por tempo limitado dela, e contra os riscos de viagem e transporte por mar somente, ou compreender também os riscos de transportes por canais e rios.
+O seguro pode recair sobre a totalidade de um objeto ou sobre parte dele somente; e pode ser feito antes da viagem começada ou durante o curso dela, de ida e volta, ou só por ida ou só por volta, por viagem inteira ou por tempo limitado dela, e contra os riscos de viagem e transporte por mar somente, ou compreender também os riscos de transportes por canais e rios.
 
 ###### Art. 670
 
@@ -1233,9 +1233,9 @@ Ignorando o segurado a espécie de fazendas que hão de ser carregadas, ou não 
 
 Efetuando-se o seguro debaixo do nome genérico de - fazendas - o segurado é obrigado a provar, no caso de sinistro, que efetivamente se embarcaram as fazendas no valor declarado na apólice; e se o seguro se tiver feito - sobre um ou mais navios - incumbe-lhe provar que as fazendas seguras foram efetivamente embarcadas no navio que sofreu o sinistro (artigo nº. 716).
 
-###### Art. 672 - A
+###### Art. 672
 
-designação geral - fazendas - não compreende moeda de qualidade alguma, nem jóias, ouro ou prata, pérolas ou pedras preciosas, nem munições de guerra; em seguros desta natureza é necessário que se declare a espécie do objeto sobre que recai o seguro.
+A designação geral - fazendas - não compreende moeda de qualidade alguma, nem jóias, ouro ou prata, pérolas ou pedras preciosas, nem munições de guerra; em seguros desta natureza é necessário que se declare a espécie do objeto sobre que recai o seguro.
 
 ###### Art. 673
 
@@ -1249,21 +1249,21 @@ Suscitando-se dúvida sobre a inteligência de alguma ou algumas das condições
 
 4 - em caso de ambigüidade que exija interpretação, será esta feita segundo as regras estabelecidas no artigo nº. 131.
 
-###### Art. 674 - A
+###### Art. 674
 
-cláusula de fazer escala compreende a faculdade de carregar e descarregar fazendas no lugar da escala, ainda que esta condição não seja expressa na apólice (artigo nº. 667, nº 5).
+A cláusula de fazer escala compreende a faculdade de carregar e descarregar fazendas no lugar da escala, ainda que esta condição não seja expressa na apólice (artigo nº. 667, nº 5).
 
-###### Art. 675 - A
+###### Art. 675
 
-apólice de seguro é transferível e exeqüível por via de endosso, substituindo o endossado ao segurado em todas as suas obrigações, direitos e ações (artigo nº. 363).
+A apólice de seguro é transferível e exeqüível por via de endosso, substituindo o endossado ao segurado em todas as suas obrigações, direitos e ações (artigo nº. 363).
 
 ###### Art. 676
 
 Mudando os efeitos segurados de proprietário durante o tempo do contrato, o seguro passa para o novo dono, independentemente de transferência da apólice; salvo condição em contrário.
 
-###### Art. 677 - O
+###### Art. 677
 
-contrato do seguro é nulo:
+O contrato do seguro é nulo:
 
 1 - Sendo feito por pessoa que não tenha interesse no objeto segurado.
 
@@ -1283,9 +1283,9 @@ contrato do seguro é nulo:
 
 9 - Sobre objetos que na data do contrato se achavam já perdidos ou salvos, havendo presunção fundada de que o segurado ou segurador podia ter notícia do evento ao tempo em que se efetuou o seguro. Existe esta presunção, provando-se por alguma forma que a notícia tinha chegado ao lugar em que se fez o seguro, ou àquele donde se expediu a ordem para ele se efetuar ao tempo da data da apólice ou da expedição dá mesma ordem, e que o segurado ou o segurador a sabia. Se, porem, a apólice contiver a cláusula - perdido ou não perdido - ou sobre boa ou má nova - cessa a presunção; salvo provando-se fraude.
 
-###### Art. 678 - O
+###### Art. 678
 
-seguro pode também anular-se:
+O seguro pode também anular-se:
 
 1 - quando o segurado oculta a verdade ou diz o que não verdade;
 
@@ -1297,9 +1297,9 @@ No caso de fraude da parte do segurado, além da nulidade do seguro, será este 
 
 Em um e outro caso pode-se intentar ação criminal contra o fraudulento.
 
-###### Art. 680 - A
+###### Art. 680
 
-desviação voluntária da derrota da viagem, e a alteração na ordem das escalas, que não for obrigada por urgente necessidade ou força maior, anulará o seguro pelo resto da viagem (artigo nº. 509).
+A desviação voluntária da derrota da viagem, e a alteração na ordem das escalas, que não for obrigada por urgente necessidade ou força maior, anulará o seguro pelo resto da viagem (artigo nº. 509).
 
 ###### Art. 681
 
@@ -1335,9 +1335,9 @@ Toda e qualquer coisa, todo e qualquer interesse apreciável a dinheiro, que ten
 
 3 - sobre soldadas a vencer de qualquer indivíduo da tripulação.
 
-###### Art. 687 - O
+###### Art. 687
 
-segurador pode ressegurar por outros seguradores os mesmos objetos que ele tiver segurado, com as mesmas ou diferentes condições, e por igual, maior ou menor prêmio.
+O segurador pode ressegurar por outros seguradores os mesmos objetos que ele tiver segurado, com as mesmas ou diferentes condições, e por igual, maior ou menor prêmio.
 
 O segurado pode tornar a segurar, quando o segurador ficar insolvente, antes da notícia da terminação do risco, pedindo em juízo anulação da primeira apólice; e se a esse tempo existir risco pelo qual seja devida alguma indenização ao segurado, entrará este pela sua importância na massa do segurador falido.
 
@@ -1359,47 +1359,47 @@ As apólices de seguro por ida e volta cobrem os riscos seguros que sobrevierem 
 
 #### Capítulo III — DA AVALIAÇÃO DOS OBJETOS SEGUROS
 
-###### Art. 692 - O
+###### Art. 692
 
-valor do objeto do seguro deve ser declarado na apólice em quantia certa, sempre que o segurado tiver dele conhecimento exato.
+O valor do objeto do seguro deve ser declarado na apólice em quantia certa, sempre que o segurado tiver dele conhecimento exato.
 
 No seguro de navio, esta declaração é essencialmente necessária, e faltando ela o seguro julga-se improcedente. Nos seguros sobre fazendas, não tendo o segurado conhecimento exato do seu verdadeiro importe, basta que o valor se declare por estimativa.
 
-###### Art. 693 - O
+###### Art. 693
 
-valor declarado na apólice, quer tenha a cláusula - valha mais ou valha menos-, quer a não tenha, será considerado em juízo como ajustado e admitido entre as partes para todos os efeitos do seguro. Contudo, se o segurador alegar que a coisa segura valia ao tempo do contrato um quarto menos, ou daí para cima, do preço em que o segurado a estimou, será admitido a reclamar a avaliação; incumbindo-lhe justificar a reclamação pelos meios de prova admissíveis em comércio. Para este fim, e em ajuda de outras provas, poderá o segurador obrigar o segurado à exibição dos documentos ou das razões em que se fundara para o cálculo da avaliação que dera na apólice; e se presumirá ter havido dolo da parte do segurado se ele se negar a esta exibição.
+O valor declarado na apólice, quer tenha a cláusula - valha mais ou valha menos-, quer a não tenha, será considerado em juízo como ajustado e admitido entre as partes para todos os efeitos do seguro. Contudo, se o segurador alegar que a coisa segura valia ao tempo do contrato um quarto menos, ou daí para cima, do preço em que o segurado a estimou, será admitido a reclamar a avaliação; incumbindo-lhe justificar a reclamação pelos meios de prova admissíveis em comércio. Para este fim, e em ajuda de outras provas, poderá o segurador obrigar o segurado à exibição dos documentos ou das razões em que se fundara para o cálculo da avaliação que dera na apólice; e se presumirá ter havido dolo da parte do segurado se ele se negar a esta exibição.
 
 ###### Art. 694
 
 Não se tendo declarado na apólice o valor certo do seguro sobre fazenda, será este determinado pelo preço da compra das mesmas fazendas, aumentado com as despesas que estas tiverem feito até o embarque, e mais o prêmio do seguro e a comissão de se efetuar, quando esta se tiver pago; por forma que, no caso de perda total, o segurado seja embolsado de todo o valor posto a risco. Na apólice de seguro sobre fretes sem valor fixo, será este determinado pela carta de fretamento, ou pelos conhecimentos, e pelo manifesto, ou livro da carga, cumulativamente em ambos os casos.
 
-###### Art. 695 - O
+###### Art. 695
 
-valor do seguro sobre dinheiro a risco prova-se pelo contrato original, e o do seguro sobre despesas feitas com o navio ou carga durante a viagem (artigo nºs 515 e 651) com as respectivas contas competentemente legalizadas.
+O valor do seguro sobre dinheiro a risco prova-se pelo contrato original, e o do seguro sobre despesas feitas com o navio ou carga durante a viagem (artigo nºs 515 e 651) com as respectivas contas competentemente legalizadas.
 
-###### Art. 696 - O
+###### Art. 696
 
-valor de mercadorias provenientes de fábricas, lavras ou fazendas do segurado, que não for determinado na apólice, será avaliado pelo preço que outras tais mercadorias poderiam obter no lugar do desembarque, sendo aí vendidas, aumentado na forma do artigo nº. 694.
+O valor de mercadorias provenientes de fábricas, lavras ou fazendas do segurado, que não for determinado na apólice, será avaliado pelo preço que outras tais mercadorias poderiam obter no lugar do desembarque, sendo aí vendidas, aumentado na forma do artigo nº. 694.
 
 ###### Art. 697
 
 As fazendas adquiridas por troca estimam-se pelo preço que poderiam obter no mercado do lugar da descarga aquelas que por elas se trocaram, aumentado na forma do artigo nº. 694.
 
-###### Art. 698 - A
+###### Art. 698
 
-avaliação em seguros feitos sobre moeda estrangeira faz se, reduzindo-se esta ao valor da moeda corrente no Império pelo curso que o câmbio tinha na data da apólice.
+A avaliação em seguros feitos sobre moeda estrangeira faz se, reduzindo-se esta ao valor da moeda corrente no Império pelo curso que o câmbio tinha na data da apólice.
 
-###### Art. 699 - O
+###### Art. 699
 
-segurador em nenhum caso pode obrigar o segurado a vender os objetos do seguro para determinar o seu valor.
+O segurador em nenhum caso pode obrigar o segurado a vender os objetos do seguro para determinar o seu valor.
 
 ###### Art. 700
 
 Sempre que se provar que o segurado procedeu com fraude na declaração do valor declarado na apólice, ou na que posteriormente se fizer no caso de se não ter feito no ato do contrato (artigo nºs 692 e 694), o juiz, reduzindo a estimação do objeto segurado ao seu verdadeiro valor, condenará o segurado a pagar ao segurador o dobro do prêmio estipulado.
 
-###### Art. 701 - A
+###### Art. 701
 
-cláusula inserta na apólice - valha mais ou valha menos - não releva o segurado da condenação por fraude; nem pode ser valiosa sempre que se provar que o objeto seguro valia menos de um quarto que o preço fixado na apólice (artigo nºs 692 e 693).
+A cláusula inserta na apólice - valha mais ou valha menos - não releva o segurado da condenação por fraude; nem pode ser valiosa sempre que se provar que o objeto seguro valia menos de um quarto que o preço fixado na apólice (artigo nºs 692 e 693).
 
 #### Capítulo IV — DO COMEÇO E FIM DOS RISCOS
 
@@ -1429,9 +1429,9 @@ Os riscos de seguro sobre frete têm o seu começo desde o momento e à medida q
 
 O risco do frete, neste caso, acompanha o risco das mercadorias.
 
-###### Art. 708 - A
+###### Art. 708
 
-fortuna das somas mutuadas a risco principia e acaba para os seguradores na mesma época, e pela mesma forma que corre para o dador do dinheiro a risco; no caso, porém, de se não ter feito no instrumento do contrato a risco menção específica dos riscos tomados, ou se não houver estipulado o tempo, entende-se que os seguradores tomaram sobre si todos os riscos, e pelo mesmo tempo que geralmente costumam receber os dadores de dinheiro a risco.
+A fortuna das somas mutuadas a risco principia e acaba para os seguradores na mesma época, e pela mesma forma que corre para o dador do dinheiro a risco; no caso, porém, de se não ter feito no instrumento do contrato a risco menção específica dos riscos tomados, ou se não houver estipulado o tempo, entende-se que os seguradores tomaram sobre si todos os riscos, e pelo mesmo tempo que geralmente costumam receber os dadores de dinheiro a risco.
 
 ###### Art. 709
 
@@ -1443,9 +1443,9 @@ No seguro de lucro esperado, os riscos acompanham a sorte das fazendas respectiv
 
 São a cargo do segurador todas as perdas e danos que sobrevierem ao objeto seguro por alguns dos riscos especificados na apólice.
 
-###### Art. 711 - O
+###### Art. 711
 
-segurador não responde por danos ou avaria que aconteça por fato do segurado, ou por alguma das causas seguintes:
+O segurador não responde por danos ou avaria que aconteça por fato do segurado, ou por alguma das causas seguintes:
 
 1 - desviação voluntária da derrota ordinária e usual da viagem;
 
@@ -1475,13 +1475,13 @@ segurador não responde por danos ou avaria que aconteça por fato do segurado, 
 
 Todo e qualquer ato por sua natureza criminoso praticado pelo capitão no exercício de seu emprego, ou pela tripulação, ou por um e outra conjuntamente, do qual aconteça dano grave ao navio ou à carga, em oposição à presumida vontade legal do dono do navio, é rebeldia.
 
-###### Art. 713 - O
+###### Art. 713
 
-segurador que toma o risco de rebeldia responde pela perda ou dano procedente do ato de rebeldia do capitão ou da equipagem, ou seja por conseqüência imediata, ou ainda casualmente, uma vez que a perda ou dano tenha acontecido dentro do tempo dos riscos tomados, e na viagem e portos da apólice.
+O segurador que toma o risco de rebeldia responde pela perda ou dano procedente do ato de rebeldia do capitão ou da equipagem, ou seja por conseqüência imediata, ou ainda casualmente, uma vez que a perda ou dano tenha acontecido dentro do tempo dos riscos tomados, e na viagem e portos da apólice.
 
-###### Art. 714 - A
+###### Art. 714
 
-cláusula - livre de avaria- desobriga os seguradores das avarias simples ou particulares; a cláusula - livre de todas as avarias - desonera-os também das grossas. Nenhuma destas cláusulas, porém, os isenta nos casos em que tiver lugar o abandono.
+A cláusula - livre de avaria- desobriga os seguradores das avarias simples ou particulares; a cláusula - livre de todas as avarias - desonera-os também das grossas. Nenhuma destas cláusulas, porém, os isenta nos casos em que tiver lugar o abandono.
 
 ###### Art. 715
 
@@ -1499,9 +1499,9 @@ Sendo necessário baldear-se a carga, depois de começada a viagem, para embarca
 
 Ainda que o segurador não responda pelos danos que resultam ao navio por falta de exata observância das leis e regulamentos das Alfândegas e polícia dos portos (artigo nº. 530), esta falta não o desonera de responder pelos que daí sobrevierem à carga.
 
-###### Art. 719 - O
+###### Art. 719
 
-segurado deve sem demora participar ao segurador, e, havendo mais de um, somente ao primeiro na ordem da subscrição, todas as notícias que receber de qualquer sinistro acontecido ao navio ou à carga. A omissão culposa do segurado a este respeito, pode ser qualificada de presunção de má-fé.
+O segurado deve sem demora participar ao segurador, e, havendo mais de um, somente ao primeiro na ordem da subscrição, todas as notícias que receber de qualquer sinistro acontecido ao navio ou à carga. A omissão culposa do segurado a este respeito, pode ser qualificada de presunção de má-fé.
 
 ###### Art. 720
 
@@ -1515,17 +1515,17 @@ Nos casos de naufrágio ou varação, presa ou arresto de inimigo, o segurado é
 
 Quando o segurado não pode fazer por si as devidas reclamações, por deverem ter lugar fora do Império, ou do seu domicílio, deve nomear para esse fim competente mandatário, avisando desta nomeação ao segurador (artigo nº. 719). Feita a nomeação e o aviso, cessa toda a sua responsabilidade, nem responde pelos atos do seu mandatário; ficando unicamente obrigado a fazer cessão ao segurador das ações que competirem, sempre que este o exigir.
 
-###### Art. 723 - O
+###### Art. 723
 
-segurado, no caso de presa ou aresto de inimigo, só está obrigado a seguir os termos da reclamação até a promulgação da sentença da primeira instância.
+O segurado, no caso de presa ou aresto de inimigo, só está obrigado a seguir os termos da reclamação até a promulgação da sentença da primeira instância.
 
 ###### Art. 724
 
 Nos casos dos três artigos precedentes, o segurado é obrigado a obrar de acordo com os seguradores. Não havendo tempo para os consultar, obrará como melhor entender, correndo as despesas por conta dos mesmos seguradores. Em caso de abandono admitido pelos seguradores, ou destes tomarem sobre si as diligências dos salvados ou das reclamações, cessam todas as sobreditas obrigações do capitão e do segurado.
 
-###### Art. 725 - O
+###### Art. 725
 
-julgamento de um tribunal estrangeiro, ainda que baseado pareça em fundamentos manifestamente injustos, ou fatos notoriamente falsos ou desfigurados, não desonera o segurador, mostrando o segurado que empregou os meios ao seu alcance, e produziu as provas que lhe era possível prestar para prevenir a injustiça do julgamento.
+O julgamento de um tribunal estrangeiro, ainda que baseado pareça em fundamentos manifestamente injustos, ou fatos notoriamente falsos ou desfigurados, não desonera o segurador, mostrando o segurado que empregou os meios ao seu alcance, e produziu as provas que lhe era possível prestar para prevenir a injustiça do julgamento.
 
 ###### Art. 726
 
@@ -1539,13 +1539,13 @@ Todo o ajuste que se fizer com os apressadores no alto-mar para resgatar a coisa
 
 Pagando o segurador um dano acontecido à coisa segura, ficará subrogado em todos os direitos e ações que ao segurado competirem contra terceiro; e o segurado não pode praticar ato algum em prejuízo do direito adquirido dos seguradores.
 
-###### Art. 729 - O
+###### Art. 729
 
-prêmio do seguro é devido por inteiro, sempre que o segurado receber a indenização do sinistro.
+O prêmio do seguro é devido por inteiro, sempre que o segurado receber a indenização do sinistro.
 
-###### Art. 730 - O
+###### Art. 730
 
-segurador é obrigado a pagar ao segurado as indenizações a que tiver direito, dentro de 15 (quinze) dias da apresentação da conta, instruída com os documentos respectivos; salvo se o prazo do pagamento tiver sido estipulado na apólice.
+O segurador é obrigado a pagar ao segurado as indenizações a que tiver direito, dentro de 15 (quinze) dias da apresentação da conta, instruída com os documentos respectivos; salvo se o prazo do pagamento tiver sido estipulado na apólice.
 
 ### TÍTULO IX — DO NAUFRÁGIO E SALVADOS
 
@@ -1595,13 +1595,13 @@ Só pode autorizar-se descarga no porto de arribada, sendo indispensavelmente ne
 
 A descarga será reputada legal em juízo quando tiver sido autorizada pelo juiz de direito do comércio. Nos países estrangeiros compete aos cônsules do Império dar a autorização necessária, e onde os não houver será requerida à autoridade local competente.
 
-###### Art. 747 - A
+###### Art. 747
 
-carga avariada será reparada ou vendida, como parecer mais conveniente; mas em todo o caso deve preceder autorização competente.
+A carga avariada será reparada ou vendida, como parecer mais conveniente; mas em todo o caso deve preceder autorização competente.
 
-###### Art. 748 - O
+###### Art. 748
 
-capitão não pode, debaixo de pretexto algum, diferir a partida do porto da arribada desde que cessa o motivo dela; pena de responder por perdas e danos resultantes da dilação voluntária (artigo nº. 510).
+O capitão não pode, debaixo de pretexto algum, diferir a partida do porto da arribada desde que cessa o motivo dela; pena de responder por perdas e danos resultantes da dilação voluntária (artigo nº. 510).
 
 ### TÍTULO XI — DO DANO CAUSADO POR ABALROAÇÃO
 
@@ -1635,13 +1635,13 @@ Todas as perdas resultantes de abalroação pertencem à classe de avarias parti
 
 4 - falta de notícia do navio sobre que se fez o seguro, ou em que se embarcaram os efeitos seguros (artigo nº. 720).
 
-###### Art. 754 - O
+###### Art. 754
 
-segurado não é obrigado a fazer abandono; mas se o não fizer nos casos em que este Código o permite, não poderá exigir do segurador indenização maior do que teria direito a pedir se houvera acontecido perda total; exceto nos casos de letra de câmbio passada pelo capitão (artigo nº. 515), de naufrágio, reclamação de presa, ou arresto de inimigo, e de abalroação.
+O segurado não é obrigado a fazer abandono; mas se o não fizer nos casos em que este Código o permite, não poderá exigir do segurador indenização maior do que teria direito a pedir se houvera acontecido perda total; exceto nos casos de letra de câmbio passada pelo capitão (artigo nº. 515), de naufrágio, reclamação de presa, ou arresto de inimigo, e de abalroação.
 
-###### Art. 755 - O
+###### Art. 755
 
-abandono só, é admissível quando as perdas acontecem depois de começada a viagem.
+O abandono só, é admissível quando as perdas acontecem depois de começada a viagem.
 
 Não pode ser parcial, deve compreender todos os objetos contidos na apólice. Todavia, se na mesma apólice se tiver segurado o navio e a carga, pode ter lugar o abandono de cada um dos dois objetos separadamente (artigo nº. 689).
 
@@ -1657,9 +1657,9 @@ No caso de inavegabilidade do navio, se o capitão, carregadores, ou pessoa que 
 
 Quando nos casos de presa constar que o navio foi retomado antes de intimado o abandono, não é este admissível; salvo se o dano sofrido por causa da presa, e a despesa com o prêmio da retomada, ou salvagem importa em três quartos, pelo menos, do valor segurado, ou se em conseqüência da represa os efeitos seguros tiverem passado a domínio de terceiro.
 
-###### Art. 759 - O
+###### Art. 759
 
-abandono do navio compreende os fretes das mercadorias que se puderem salvar, os quais serão considerados como pertencentes aos seguradores; salva a preferência que sobre os mesmos possa competir à equipagem por suas soldadas vencidas na viagem (artigo nº. 564), e a outros quaisquer credores privilegiados (artigo nº. 738).
+O abandono do navio compreende os fretes das mercadorias que se puderem salvar, os quais serão considerados como pertencentes aos seguradores; salva a preferência que sobre os mesmos possa competir à equipagem por suas soldadas vencidas na viagem (artigo nº. 564), e a outros quaisquer credores privilegiados (artigo nº. 738).
 
 ###### Art. 760
 
@@ -1787,17 +1787,17 @@ As diligências, exames e vistorias sobre o casco do navio e seus pertences deve
 
 Os efeitos avariados serão sempre vendidos em público leilão a quem mais der, e pagos no ato da arrematação; e o mesmo se praticará com o navio, quando ele tenha de ser vendido segundo as disposições deste Código; em tais casos o juiz, se assim lhe parecer conveniente, ou se algum interessado o requerer, poderá determinar que o casco e cada um dos seus pertences se venda separadamente.
 
-###### Art. 774 - A
+###### Art. 774
 
-estimação do preço para o cálculo da avaria será feita sobre a diferença entre e respectivo rendimento bruto das fazendas sãs e o das avariadas, vendidos a dinheiro no tempo da entrega; e em nenhum caso pelo seu rendimento liquido, nem por aquele que, demorada a venda ou sendo a prazo, poderiam vir a obter.
+A estimação do preço para o cálculo da avaria será feita sobre a diferença entre e respectivo rendimento bruto das fazendas sãs e o das avariadas, vendidos a dinheiro no tempo da entrega; e em nenhum caso pelo seu rendimento liquido, nem por aquele que, demorada a venda ou sendo a prazo, poderiam vir a obter.
 
 ###### Art. 775
 
 Se o dono ou consignatário não quiser vender a parte das mercadorias sãs, não pode ser compelido; e o preço para o cálculo será em tal caso o corrente que as mesmas fazendas, se vendidas fossem ao tempo da entrega, poderiam obter no mercado, certificado pelos preços correntes do lugar, ou, na falta destes, atestado, debaixo de juramento por dois comerciantes acreditados de fazendas do mesmo gênero.
 
-###### Art. 776 - O
+###### Art. 776
 
-segurador não é obrigado a pagar mais de dois terços do custo do conserto das avarias que tiverem acontecido ao navio segurado por fortuna do mar, contanto que o navio fosse estimado na apólice por seu verdadeiro valor, e os consertos não excedam de três quartos desse valor no dizer de arbitradores expertos. Julgando estes, porém, que pelos consertos o valor real do navio se aumentaria além do terço da soma que custariam, o segurador pagará as despesas, abatido o excedente valor do navio.
+O segurador não é obrigado a pagar mais de dois terços do custo do conserto das avarias que tiverem acontecido ao navio segurado por fortuna do mar, contanto que o navio fosse estimado na apólice por seu verdadeiro valor, e os consertos não excedam de três quartos desse valor no dizer de arbitradores expertos. Julgando estes, porém, que pelos consertos o valor real do navio se aumentaria além do terço da soma que custariam, o segurador pagará as despesas, abatido o excedente valor do navio.
 
 ###### Art. 777
 
@@ -1823,25 +1823,25 @@ Qualquer parte da carga, sendo objeto suscetível de avaliação separada, que s
 
 Se a apólice contiver a cláusula de pagar avarias como perda de salvados, a diferença para menos do valor fixado na apólice, que resultar da venda líquida que os gêneros avariados produzirem no lugar onde se venderam, sem atenção alguma ao produto bruto que tenham no mercado do porto do seu destino, será a estimação da avaria.
 
-###### Art. 783 - A
+###### Art. 783
 
-regulação, repartição ou rateio das avarias grossas serão feitos por árbitros, nomeados por ambas as partes, as instâncias do capitão.
+A regulação, repartição ou rateio das avarias grossas serão feitos por árbitros, nomeados por ambas as partes, as instâncias do capitão.
 
 Não se querendo as partes louvar, a nomeação de árbitros será feita pelo Tribunal do Comércio respectivo, ou pelo juiz de direito do comércio a que pertencer, nos lugares distantes do domicílio do mesmo tribunal.
 
 Se o capitão for omisso em fazer efetuar o rateio das avarias grossas, pode a diligência ser promovida por outra qualquer pessoa que seja interessada.
 
-###### Art. 784 - O
+###### Art. 784
 
-capitão tem direito para exigir, antes de abrir as escotilhas do navio, que os consignatários da carga prestem fiança idônea ao pagamento da avaria grossa, a que suas respectivas mercadorias forem obrigadas no rateio da contribuição comum.
+O capitão tem direito para exigir, antes de abrir as escotilhas do navio, que os consignatários da carga prestem fiança idônea ao pagamento da avaria grossa, a que suas respectivas mercadorias forem obrigadas no rateio da contribuição comum.
 
 ###### Art. 785
 
 Recusando-se os consignatários a prestar a fiança exigida, pode o capitão requerer o depósito judicial dos efeitos obrigados à contribuição, até ser pago, ficando o preço da venda sub-rogado, para se efetuar por ele o pagamento da avaria grossa, logo que o rateio tiver lugar.
 
-###### Art. 786 - A
+###### Art. 786
 
-regulação e repartição das avarias grossas deverá fazer-se no porto da entrega da carga. Todavia, quando, por dano acontecido depois da saída, o navio for obrigado a regressar ao porto da carga, as despesas necessárias para reparar os danos da avaria grossa podem ser neste ajustadas.
+A regulação e repartição das avarias grossas deverá fazer-se no porto da entrega da carga. Todavia, quando, por dano acontecido depois da saída, o navio for obrigado a regressar ao porto da carga, as despesas necessárias para reparar os danos da avaria grossa podem ser neste ajustadas.
 
 ###### Art. 787
 
@@ -1877,9 +1877,9 @@ No caso de alijamento, se o navio se tiver salvado do perigo que o motivou, mas,
 
 Se o navio se perder no primeiro perigo e algumas fazendas se puderem salvar, estas não contribuem para a indenização das que foram alijadas na ocasião do desastre que causou o naufrágio.
 
-###### Art. 793 - A
+###### Art. 793
 
-sentença que homologa à repartição das avarias grossas com condenação de cada um dos contribuintes tem força definitiva, e pode executar-se logo, ainda que dela se recorra.
+A sentença que homologa à repartição das avarias grossas com condenação de cada um dos contribuintes tem força definitiva, e pode executar-se logo, ainda que dela se recorra.
 
 ###### Art. 794
 
@@ -1901,17 +1901,17 @@ Se, independente de qualquer liquidação ou exame, o segurador se ajustar em pr
 
 Todo o comerciante que cessa os seus pagamentos, entende-se quebrado ou falido.(Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 798 - A
+###### Art. 798
 
-quebra ou falência pode ser casual, com culpa, ou fraudulenta. (Vide Decreto-Lei nº 7.661, 1945)
+A quebra ou falência pode ser casual, com culpa, ou fraudulenta. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 799
 
 É casual, quando a insolvência procede de acidentes de casos fortuitos ou força maior (art. 898). (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 800 - A
+###### Art. 800
 
-quebra será qualificada com culpa, quando a insolvência pode atribuir-se a algum dos casos seguintes: (Vide Decreto-Lei nº 7.661, 1945)
+A quebra será qualificada com culpa, quando a insolvência pode atribuir-se a algum dos casos seguintes: (Vide Decreto-Lei nº 7.661, 1945)
 
 1 - Excesso de despesas no tratamento pessoal do falido, em relação ao seu cabedal e número de pessoas de sua família;
 
@@ -1921,9 +1921,9 @@ quebra será qualificada com culpa, quando a insolvência pode atribuir-se a alg
 
 4 - Acontecendo que o falido, entre a data do seu último balanço (art. 10 n. 4) e a da falência (art. 806), se achasse devendo por obrigações diretas o dobro do seu cabedal apurado nesse balanço.
 
-###### Art. 801 - A
+###### Art. 801
 
-quebra poderá ser qualificada com culpa: (Vide Decreto-Lei nº 7.661, 1945)
+A quebra poderá ser qualificada com culpa: (Vide Decreto-Lei nº 7.661, 1945)
 
 1 - Quando o falido não tiver a sua escrituração e correspondência mercantil nos termos regulados por este Código (art. 13 e 14);
 
@@ -1973,9 +1973,9 @@ Todo o comerciante que tiver cessado os seus pagamentos é obrigado, no preciso 
 
 Apresentada a declaração da quebra, o Tribunal do Comércio declarará sem demora a abertura da falência, isto é, fixará o termo legal da sua existência, a contar da data – da declaração do falido, ou da sua ausência, ou desde que se fecharam os seus armazéns, lojas ou escritórios, ou finalmente de outra época anterior em que tenha havido efetiva cessação de pagamentos: ficando porém entendido que a sentença que fixar a abertura da quebra não poderá retroagí-la a época que exceda além de quarenta dias da sua data atual. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 807 - A
+###### Art. 807
 
-quebra pode também ser declarada a requerimento de algum ou alguns dos credores legítimos do falido, depois da cessação dos pagamentos deste; e também a pode declarar o Tribunal do Comércio ex-ofício quando lhe conste por notoriedade pública, fundada em fatos indicativos de um verdadeiro estado de insolvência (art. 806). Não é porém permitido ao filho a respeito do pai, ao pai a respeito do filho, nem à mulher a respeito do marido ou vice-versa, fazer-se declarar falidos respetivamente. (Vide Decreto-Lei nº 7.661, 1945)
+A quebra pode também ser declarada a requerimento de algum ou alguns dos credores legítimos do falido, depois da cessação dos pagamentos deste; e também a pode declarar o Tribunal do Comércio ex-ofício quando lhe conste por notoriedade pública, fundada em fatos indicativos de um verdadeiro estado de insolvência (art. 806). Não é porém permitido ao filho a respeito do pai, ao pai a respeito do filho, nem à mulher a respeito do marido ou vice-versa, fazer-se declarar falidos respetivamente. (Vide Decreto-Lei nº 7.661, 1945)
 
 O fato superveniente da morte do falido, que em sua vida houver cessado os seus pagamentos, não impede a declaração da quebra, nem o andamento das diligências subsequentes e conseqüentes, achando-se esta anteriormente declarada.
 
@@ -2011,9 +2011,9 @@ Nomeados o depositário ou depositários na forma dita, o Curador fiscal requere
 
 Havendo bens situados em lugares distantes, serão as funções do Juiz comissário exercidas pelo Juiz ou Juizes de Paz respectivos.
 
-###### Art. 814 - A
+###### Art. 814
 
-medida que se forem rompendo os selos e se fizer a descrição e inventário dos bens, serão estes entregues ao depositário ou depositários; os quais se obrigarão por termo à sua boa guarda, conservação e entrega, como fieis depositários e mandatários que ficam sendo. (Vide Decreto-Lei nº 7.661, 1945)
+A medida que se forem rompendo os selos e se fizer a descrição e inventário dos bens, serão estes entregues ao depositário ou depositários; os quais se obrigarão por termo à sua boa guarda, conservação e entrega, como fieis depositários e mandatários que ficam sendo. (Vide Decreto-Lei nº 7.661, 1945)
 
 O Juiz comissário mandará lavrar termo nos livros do falido do estado em que estes se acham, e publicará os títulos e mais papéis que julgar conveniente; e findo o inventário inquirirá o falido ou seu procurador para declarar, debaixo de juramento, se tem mais alguns bens que devam ir à descrição.
 
@@ -2057,9 +2057,9 @@ Em quanto no Código criminal outra pena se não determinar para a falência com
 
 Logo que principiar a instrução do processo da quebra, o falido assinará termo nos autos de se achar presente por si ou por seu procurador a todos os atos e diligências do processo, pena de revelia. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 823 - O
+###### Art. 823
 
-devedor que apresentar a sua declaração da falido em devido tempo (art. 805), e assistir pessoalmente a todos os atos e diligências subsequentes, não pode ser preso antes da pronúncia. (Vide Decreto-Lei nº 7.661, 1945)
+O devedor que apresentar a sua declaração da falido em devido tempo (art. 805), e assistir pessoalmente a todos os atos e diligências subsequentes, não pode ser preso antes da pronúncia. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 824
 
@@ -2069,9 +2069,9 @@ Contra todos os que se apresentarem fora de tempo, ou deixarem de assistir aos a
 
 Não existindo presunção de culpa ou fraude na falência, o falido que se não ocultar, e se tiver apresentado em todo os atos e diligências da instrução do processo (art. 822), tem direito a pedir, a título de socorro, uma soma a deduzir de seus bens, proposta pelos administradores, e fixada pelo Tribunal, ouvido o Juiz comissário, e tendo-se em consideração as necessidades e família do mesmo falido, a sua boa fé, e a maior ou menor perda que da falência terá de resultar aos credores. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 826 - O
+###### Art. 826
 
-falido fica inibido de direito da administração e disposição dos seus bens desde o dia em que se publicar a sentença da abertura da quebra. (Vide Decreto-Lei nº 7.661, 1945)
+O falido fica inibido de direito da administração e disposição dos seus bens desde o dia em que se publicar a sentença da abertura da quebra. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 827
 
@@ -2099,9 +2099,9 @@ Se a execução for de reivindicação (art. 874), prosseguirá, sem suspensão,
 
 Todavia, se os bens executados se acharem já na praça com dia definitivo para sua arrematação fixado por editais, o Curador fiscal, com autorização do Juiz comissário, poderá convir na continuação, entrando para a massa o produto se a execução proceder de créditos que não sejam privilegiados nem hipotecários, ou o remanescente procedendo destes.
 
-###### Art. 831 - A
+###### Art. 831
 
-qualificação da quebra torna exigíveis todas as dividas passivas do falido, ainda mesmo que se não achem vencidas, ou sejam comerciais ou civis, com abatimento dos juros legais correspondentes ao tempo que faltar para o vencimento.
+A qualificação da quebra torna exigíveis todas as dividas passivas do falido, ainda mesmo que se não achem vencidas, ou sejam comerciais ou civis, com abatimento dos juros legais correspondentes ao tempo que faltar para o vencimento.
 
 ###### Art. 832
 
@@ -2115,9 +2115,9 @@ Incumbe ao Curador fiscal requerer ao Juiz comissário que autorize todas as dil
 
 Havendo despesas que fazer, serão pagas pelo depositário, precedendo autorização do mesmo Juiz (art. 876 n. 2).
 
-###### Art. 834 - O
+###### Art. 834
 
-Curador fiscal é obrigado a diligenciar o aceite e pagamento de letras e de todas as dividas ativas do falido, passando as competentes quitações, que serão por ele assinadas e pelo depositário, e referendadas pelo Juiz comissário. (Vide Decreto-Lei nº 7.661, 1945)
+O Curador fiscal é obrigado a diligenciar o aceite e pagamento de letras e de todas as dividas ativas do falido, passando as competentes quitações, que serão por ele assinadas e pelo depositário, e referendadas pelo Juiz comissário. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 835
 
@@ -2127,21 +2127,21 @@ As dividas ativas exigíveis em diversos domicílios podem validamente cobrar-se
 
 As somas provenientes de venda de efeitos ou cobranças, abatidas as despesas e custas, serão lançadas em caixa de duas chaves, das quais terá o Curador fiscal uma e o depositário outra; salvo se os credores acordarem em que sejam recolhidas a algum Banco comercial ou depósito público. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 837 - A
+###### Art. 837
 
-saída de fundos da mesma caixa só pode ter lugar em virtude de ordem do Juiz comissário. (Vide Decreto-Lei nº 7.661, 1945)
+A saída de fundos da mesma caixa só pode ter lugar em virtude de ordem do Juiz comissário. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 838
 
 Desde a entrada do Curador fiscal em exercício, todas as ações pendentes contra o devedor falido, e as que houverem de ser intentadas posteriormente à falência, só poderão ser continuadas ou intentadas contra o mesmo Curador fiscal. Este porém não pode intentar, seguir ou defender ação alguma em nome da massa sem autorização do Juiz comissário. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 839 - O
+###### Art. 839
 
-Curador fiscal e os depositários perceberão uma comissão, que será arbitrada pelo Tribunal do Comércio, em relação à importância da massa, e à diligência, trabalho e responsabilidade de uns e outros. (Vide Decreto-Lei nº 7.661, 1945)
+O Curador fiscal e os depositários perceberão uma comissão, que será arbitrada pelo Tribunal do Comércio, em relação à importância da massa, e à diligência, trabalho e responsabilidade de uns e outros. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 840 - O
+###### Art. 840
 
-Tribunal, sobre proposta do Juiz comissário, e com audiência do Curador fiscal, arbitrará a gratificação que deve ser paga aos guarda-livros e caixeiros que for necessário empregar na escrituração da falência e mais negócios e dependências correlativas, com atenção ao seu trabalho e à importância da massa. (Vide Decreto-Lei nº 7.661, 1945)
+O Tribunal, sobre proposta do Juiz comissário, e com audiência do Curador fiscal, arbitrará a gratificação que deve ser paga aos guarda-livros e caixeiros que for necessário empregar na escrituração da falência e mais negócios e dependências correlativas, com atenção ao seu trabalho e à importância da massa. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 841
 
@@ -2155,9 +2155,9 @@ Ultimada a instrução do processo da quebra, o Juiz comissário, dentro de oito
 
 O chamamento a respeito dos credores conhecidos será por carta do escrivão, e aos não conhecidos por editais e anúncios nos periódicos: e nas mesmas cartas, editais e anúncios se advertirá, que nenhum credor será admitido por procurador, se este não tiver poderes especiais para o ato (art. 145), e que a procuração não pode ser dada a pessoa que seja devedora ao falido, nem um mesmo procurador representar por dois diversos credores (art. 822).
 
-###### Art. 843 - O
+###### Art. 843
 
-Curador fiscal, os administradores, e todos os credores presentes por si ou por seus procuradores assinarão termo no processo da quebra, de que se dão por intimados de todos os despachos do Tribunal do Comércio, que no mesmo forem proferidos em sessão pública, e das decisões do Juiz comissário, que estiverem patentes em mão do escrivão do processo. (Vide Decreto-Lei nº 7.661, 1945)
+O Curador fiscal, os administradores, e todos os credores presentes por si ou por seus procuradores assinarão termo no processo da quebra, de que se dão por intimados de todos os despachos do Tribunal do Comércio, que no mesmo forem proferidos em sessão pública, e das decisões do Juiz comissário, que estiverem patentes em mão do escrivão do processo. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 844
 
@@ -2191,13 +2191,13 @@ Não é licito tratar-se da concordata antes de se acharem satisfeitas todas as 
 
 Não pode dar-se concordata no caso em que o falido for julgado com culpa ou fraudulento, e quando anteriormente tenha sido concedida, será revogada.
 
-###### Art. 849 - A
+###### Art. 849
 
-concordata pode ser reincidida pelas mesma causas por que tem lugar a revogação da moratória; procedendo-se em tais casos, e nos de ser anulados, pela forma determinada no artigo 902. (Vide Decreto-Lei nº 7.661, 1945)
+A concordata pode ser reincidida pelas mesma causas por que tem lugar a revogação da moratória; procedendo-se em tais casos, e nos de ser anulados, pela forma determinada no artigo 902. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 850 - A
+###### Art. 850
 
-concordata deve ser negada ou outorgada, e assinada na mesma reunião em que for proposta. Se não houver dissidentes, o Juiz comissário a homologará imediatamente: mas havendo-os assinará a todos os dissidentes coletivamente oito dias para dentro deles apresentarem os seus embargos; dos quais mandará dar vista ao Curador fiscal e ao falido, que serão obrigados a contestá-los dentro de cinco dias. Os embargos com a contestação serão pelo Juiz comissário remetidos ao Tribunal do Comércio competente, no prefixo termo de três dias depois de apresentada a contestação. (Vide Decreto-Lei nº 7.661, 1945)
+A concordata deve ser negada ou outorgada, e assinada na mesma reunião em que for proposta. Se não houver dissidentes, o Juiz comissário a homologará imediatamente: mas havendo-os assinará a todos os dissidentes coletivamente oito dias para dentro deles apresentarem os seus embargos; dos quais mandará dar vista ao Curador fiscal e ao falido, que serão obrigados a contestá-los dentro de cinco dias. Os embargos com a contestação serão pelo Juiz comissário remetidos ao Tribunal do Comércio competente, no prefixo termo de três dias depois de apresentada a contestação. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 851
 
@@ -2207,9 +2207,9 @@ Da decisão do Juiz comissário que homologar a concordata, não haverá recurso
 
 Os prazos assinados neste artigo e nos antecedentes são improrrogáveis.
 
-###### Art. 852 - A
+###### Art. 852
 
-concordata é obrigatória extensivamente para com todos os credores, salvos unicamente os do domínio (art. 874), os privilegiados (art. 876) e os hipotecários (art. 879). (Vide Decreto-Lei nº 7.661, 1945)
+A concordata é obrigatória extensivamente para com todos os credores, salvos unicamente os do domínio (art. 874), os privilegiados (art. 876) e os hipotecários (art. 879). (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 853
 
@@ -2235,9 +2235,9 @@ A nomeação recairá com preferência em pessoa que seja credor comerciante, e 
 
 Nomeando-se mais de um administrador, obrarão coletivamente, e à sua responsabilidade é solidária.
 
-###### Art. 857 - O
+###### Art. 857
 
-administrador que intentar ação contra a massa, ou fizer oposição em Juízo às deliberações tomadas na reunião dos credores, ficará por esse fato inabilitado para continuar na administração, e se procederá a nova nomeação. (Vide Decreto-Lei nº 7.661, 1945)
+O administrador que intentar ação contra a massa, ou fizer oposição em Juízo às deliberações tomadas na reunião dos credores, ficará por esse fato inabilitado para continuar na administração, e se procederá a nova nomeação. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 858
 
@@ -2331,9 +2331,9 @@ Pertencem à classe de credores do domínio: (Vide Decreto-Lei nº 7.661, 1945)
 
 8 - O vendedor antes da entrega da coisa vendida, se a venda não for a crédito (art. 198).
 
-###### Art. 875 - O
+###### Art. 875
 
-depósito de gênero sem designação da espécie, e o dinheiro que vencer juros, não entram na classe de créditos do domínio; desta natureza são também as somas entregues a banqueiros para serem retiradas à vontade, vençam ou não juros. (Vide Decreto-Lei nº 7.661, 1945)
+O depósito de gênero sem designação da espécie, e o dinheiro que vencer juros, não entram na classe de créditos do domínio; desta natureza são também as somas entregues a banqueiros para serem retiradas à vontade, vençam ou não juros. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 876
 
@@ -2445,23 +2445,23 @@ Os credores da quarta classe tem todos direitos iguais para serem pagos em ratei
 
 Nenhum credor chirografário que se apresentar habilitado com sentença simplesmente de preceito obtida anteriormente à declaração da quebra, tem direito para ser contemplado nos rateios. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 892 - O
+###### Art. 892
 
-credor portador de título garantido solidariamente pelo falido e outros coobrigados também falidos, será admitido a representar em todas as massas pelo valor nominal do seu crédito; e participará das repartições que nelas se fizerem até seu inteiro pagamento (art. 391). (Vide Decreto-Lei nº 7.661, 1945)
+O credor portador de título garantido solidariamente pelo falido e outros coobrigados também falidos, será admitido a representar em todas as massas pelo valor nominal do seu crédito; e participará das repartições que nelas se fizerem até seu inteiro pagamento (art. 391). (Vide Decreto-Lei nº 7.661, 1945)
 
 ### TÍTULO VI — Da reabilitação dos falidos
 
-###### Art. 893 - O
+###### Art. 893
 
-falido que tiver obtido quitação plena de seus credores pode pedir a sua reabilitação perante o Tribunal do Comércio que declarou a quebra. (Vide Decreto-Lei nº 7.661, 1945)
+O falido que tiver obtido quitação plena de seus credores pode pedir a sua reabilitação perante o Tribunal do Comércio que declarou a quebra. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 894 - A
+###### Art. 894
 
-petição deve ser instruída com a quitação dos credores, e certidão do cumprimento da pena, no caso de lhe ter sido imposta. Se a quebra com tudo houver sido julgada com culpa, está no arbítrio do Tribunal, procedendo às averiguações que julgar convenientes, conceder ou negar a reabilitação. (Vide Decreto-Lei nº 7.661, 1945)
+A petição deve ser instruída com a quitação dos credores, e certidão do cumprimento da pena, no caso de lhe ter sido imposta. Se a quebra com tudo houver sido julgada com culpa, está no arbítrio do Tribunal, procedendo às averiguações que julgar convenientes, conceder ou negar a reabilitação. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 895 - O
+###### Art. 895
 
-falido de quebra fraudulenta, não pode nunca ser reabilitado. (Vide Decreto-Lei nº 7.661, 1945)
+O falido de quebra fraudulenta, não pode nunca ser reabilitado. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 896
 
@@ -2477,9 +2477,9 @@ Reabilitado o falido por sentença do Tribunal competente, cessam todas as inter
 
 Só pode obter moratória o comerciante que provar, que a sua impossibilidade de satisfazer de pronto as obrigações contraídas procede de acidentes extraordinários imprevistos, ou de força maior (art. 799), e que ao mesmo tempo verificar por um balanço exato e documentado, que tem fundos bastantes para pagar integralmente a todos os seus credores, mediante alguma espera. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 899 - O
+###### Art. 899
 
-Tribunal do Comércio do distrito do impetrante, quando o requerimento se ache nos casos previstos no artigo antecedente, poderá expedir imediatamente uma ordem para sustar todos os procedimentos executivos pendentes, ou que de futuro contra ele se intentem, até que definitivamente se determine a moratória. E quer esta ordem se expeça quer não, o Tribunal nomeará logo dois dos credores do impetrante, que lhe pareçam mais idôneos, para verificarem a exatidão do balanço apresentado à vista dos livros e papéis, que o mesmo impetrante deve facultar-lhes no seu escritório; e com a nomeação mandará ao Juiz de Direito do Comércio a que pertencer, que chame à sua presença, em dia certo e improrrogável, a todos os seus credores que existirem no distrito de sua jurisdição para responderem à moratória; devendo o chamamento fazer-se por cartas do escrivão, e por editais ou anúncios nos periódicos. (Vide Decreto-Lei nº 7.661, 1945)
+O Tribunal do Comércio do distrito do impetrante, quando o requerimento se ache nos casos previstos no artigo antecedente, poderá expedir imediatamente uma ordem para sustar todos os procedimentos executivos pendentes, ou que de futuro contra ele se intentem, até que definitivamente se determine a moratória. E quer esta ordem se expeça quer não, o Tribunal nomeará logo dois dos credores do impetrante, que lhe pareçam mais idôneos, para verificarem a exatidão do balanço apresentado à vista dos livros e papéis, que o mesmo impetrante deve facultar-lhes no seu escritório; e com a nomeação mandará ao Juiz de Direito do Comércio a que pertencer, que chame à sua presença, em dia certo e improrrogável, a todos os seus credores que existirem no distrito de sua jurisdição para responderem à moratória; devendo o chamamento fazer-se por cartas do escrivão, e por editais ou anúncios nos periódicos. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 900
 
@@ -2499,19 +2499,19 @@ Concedida a moratória, o Tribunal nomeará dois dos credores do indiciado para 
 
 Nestes casos o Tribunal, revogada a moratória, procederá imediatamente a declarar a falência, continuando nos mais atos ulteriores e conseqüentes. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 903 - O
+###### Art. 903
 
-efeito da moratória é suspender toda e qualquer execução, e sustar a obrigação do pagamento das dividas puramente pessoais do indiciado: mas a moratória não suspende o andamento ordinário dos litígios intentados ou que de novo se intentem; salvo quanto à sua execução. (Vide Decreto-Lei nº 7.661, 1945)
+O efeito da moratória é suspender toda e qualquer execução, e sustar a obrigação do pagamento das dividas puramente pessoais do indiciado: mas a moratória não suspende o andamento ordinário dos litígios intentados ou que de novo se intentem; salvo quanto à sua execução. (Vide Decreto-Lei nº 7.661, 1945)
 
 A maioria não compreende as ações ou execuções intentadas antes ou depois da sua concessão, que procederem de créditos do domínio, privilegiados ou hipotecários; nem aproveita aos coobrigados ou fiadores do devedor.
 
-###### Art. 904 - O
+###### Art. 904
 
-devedor que obtiver moratória não pode atear, nem gravar de maneira alguma seus bens de raiz, móveis ou semoventes, sem assistência ou autorização dos credores fiscais. A contravenção a este preceito, não só anula o ato, mas pode determinar a revogação da moratória, se assim parecer ao Tribunal à vista da gravidade do caso. (Vide Decreto-Lei nº 7.661, 1945)
+O devedor que obtiver moratória não pode atear, nem gravar de maneira alguma seus bens de raiz, móveis ou semoventes, sem assistência ou autorização dos credores fiscais. A contravenção a este preceito, não só anula o ato, mas pode determinar a revogação da moratória, se assim parecer ao Tribunal à vista da gravidade do caso. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 905 - A
+###### Art. 905
 
-moratória em que deixar de cumprir-se alguma das formalidades prescritas neste Código, a todo o tempo pode ser anulada. (Vide Decreto-Lei nº 7.661, 1945)
+A moratória em que deixar de cumprir-se alguma das formalidades prescritas neste Código, a todo o tempo pode ser anulada. (Vide Decreto-Lei nº 7.661, 1945)
 
 ###### Art. 906
 
@@ -2539,13 +2539,13 @@ Os direitos e responsabilidades civis dos credores falidos passam para seus herd
 
 Os menores herdeiros dos falidos, sendo legalmente representados por seus tutores ou curadores, não gozam de privilégio algum nos casos de quebra, e a respeito deles tem aplicação o disposto no artigo 353. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 912 - O
+###### Art. 912
 
-presente Código só principiará a obrigar e ter execução seis meses depois da data da sua publicação na Corte. (Vide Decreto-Lei nº 7.661, 1945)
+O presente Código só principiará a obrigar e ter execução seis meses depois da data da sua publicação na Corte. (Vide Decreto-Lei nº 7.661, 1945)
 
-###### Art. 913 - A
+###### Art. 913
 
-contar da referida época em diante, ficam derrogadas todas as Leis e disposições de direito relativas a matérias de comércio, e todas as mais que se opuserem às disposições do presente Código. (Vide Decreto-Lei nº 7.661, 1945)
+A contar da referida época em diante, ficam derrogadas todas as Leis e disposições de direito relativas a matérias de comércio, e todas as mais que se opuserem às disposições do presente Código. (Vide Decreto-Lei nº 7.661, 1945)
 
 ### TÍTULO ÚNICO
 
@@ -2563,9 +2563,9 @@ Haverá Tribunais do Comércio na Capital do Império, nas Capitais das Provínc
 
 Nas Províncias onda não houver Tribunal do Comércio, as suas atribuições serão exercidas pelas relações; e, na falta destas, na parte administrativa, pelas Autoridades Administrativas, e na parte judiciária, pelas Autoridades Judiciárias que o Governo designar (art. 27).
 
-###### Art. 2º - O
+###### Art. 2º
 
-Tribunal do Comércio da Capital do Império será composto de um Presidente letrado, seis Deputados comerciantes, servindo um de Secretário, e três Suplentes também comerciantes; e terá por adjunto um Fiscal, que será sempre um Desembargador com exercício efetivo na Relação Rio de Janeiro.
+O Tribunal do Comércio da Capital do Império será composto de um Presidente letrado, seis Deputados comerciantes, servindo um de Secretário, e três Suplentes também comerciantes; e terá por adjunto um Fiscal, que será sempre um Desembargador com exercício efetivo na Relação Rio de Janeiro.
 
 Os tribunais das Províncias serão compostos de um Presidente letrado, quatro Deputados comerciantes, servindo um de Secretário, e dois Suplentes também comerciantes; e terão por adjunto um Fiscal, que será sempre um Desembargador com exercício efetivo na Relação da respectiva Província.
 
@@ -2619,9 +2619,9 @@ Haverá nas Secretarias dos Tribunais do Comércio um Registro Público do Comé
 
 Os Presidentes dos Tribunais do Comércio das Províncias são obrigados a formar anualmente relatórios dos negócios que perante os mesmos Tribunais se apresentarem, com as decisões que se tomarem; e deles remeterão cópia ao Presidente do Tribunal da Capital do Império, com as observações que julgarem convenientes.
 
-###### Art. 13 - O
+###### Art. 13
 
-Presidente do Tribunal do Comércio da Capital do Império, formando pela sua parte igual relatório, os levará todos ao conhecimento do Governo, acompanhados das suas observações, para este providenciar como achar conveniente na parte que couber nas suas atribuições, e propor ao Poder Legislativo as disposições que dependerem de medidas legislativas.
+O Presidente do Tribunal do Comércio da Capital do Império, formando pela sua parte igual relatório, os levará todos ao conhecimento do Governo, acompanhados das suas observações, para este providenciar como achar conveniente na parte que couber nas suas atribuições, e propor ao Poder Legislativo as disposições que dependerem de medidas legislativas.
 
 ##### SEÇÃO II — Da eleição dos Deputados comerciantes.
 
@@ -2693,9 +2693,9 @@ Achando-se o réu fora do lugar onde a obrigação foi contraída, poderá ser c
 
 Não haverá recurso de apelação nas causas comerciais (art. 18) cujo valor não exceder de duzentos mil réis, nem o de revista, se o valor não exceder de dois contos de réis.
 
-###### Art. 27 - O
+###### Art. 27
 
-Governo, além dos Regulamentos e Instruções da sua competência para a boa execução do Código Comercial, é autorizado para, em um Regulamento adequado, determinar a ordem do Juízo no processo comercial; e particularmente para a execução do segundo período do artigo 1º e artigo 8º, tendo em vista as disposições deste Título e as do Código Comercial: e outro sim para estabelecer as regras e formalidades que devem seguir-se nos embargos de bens, e na detenção pessoal do devedor que deixa de pagar divida comercial.
+O Governo, além dos Regulamentos e Instruções da sua competência para a boa execução do Código Comercial, é autorizado para, em um Regulamento adequado, determinar a ordem do Juízo no processo comercial; e particularmente para a execução do segundo período do artigo 1º e artigo 8º, tendo em vista as disposições deste Título e as do Código Comercial: e outro sim para estabelecer as regras e formalidades que devem seguir-se nos embargos de bens, e na detenção pessoal do devedor que deixa de pagar divida comercial.
 
 ###### Art. 28
 
@@ -2703,9 +2703,9 @@ Os lugares de Presidente, Deputado e Fiscal dos Tribunais do Comércio, são emp
 
 Os demais empregados dos mesmos Tribunais perceberão uma gratificação arbitrada pelo Governo sobre consulta dos respectivos Tribunais, e paga pela caixa dos emolumentos.
 
-###### Art. 29 - O
+###### Art. 29
 
-Governo estabelecerá a tarifa dos emolumentos que devem perceber os Tribunais do Comércio. Todas as multas decretadas no Código Comercial sem aplicação especial, entrarão para a caixa dos emolumentos dos respectivos Tribunais do Comércio.
+O Governo estabelecerá a tarifa dos emolumentos que devem perceber os Tribunais do Comércio. Todas as multas decretadas no Código Comercial sem aplicação especial, entrarão para a caixa dos emolumentos dos respectivos Tribunais do Comércio.
 
 ###### Art. 30
 

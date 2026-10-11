@@ -1540,5 +1540,3 @@ Felix de Barros Cavalcanti de Lacerda
 Este texto não substitui o publicado no DOU de 20.7.1934 e retificado em 27.7.34
 
 Decreto do Governo Provisório com força de Lei
-
-\*

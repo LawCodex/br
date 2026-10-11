@@ -5288,5 +5288,3 @@ VIADUTO - obra de construção civil destinada a transpor uma depressão de terr
 (Vide Resolução nº 704, de 2017 do CONTRAN)
 
 (Vide Lei nº 14.071, de 2020) (Vigência)
-
-\*

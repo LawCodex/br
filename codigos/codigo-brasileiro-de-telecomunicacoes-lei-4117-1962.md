@@ -1456,5 +1456,3 @@ Cargos de Provimento em Comissão
 \* - Curso superior, experiência e tirocínio em administração pública.
 
 \** - Experiência e tirocínio em administração pública.
-
-\*

@@ -1,0 +1,5 @@
+- Cross-check against the Senado Federal open-data norm lists (<https://legis.senado.leg.br/dadosabertos/>), by number and year:
+  - Leis ordinárias: Senado lists 15,655; 917 are absent from Planalto's index tables and therefore not included (e.g. Lei nº 11 de 28/12/1946; Lei nº 12 de 28/12/1946; Lei nº 10 de 20/12/1946; Lei nº 204 de 31/12/1947; Lei nº 208 de 31/12/1947; Lei nº 203 de 31/12/1947; Lei nº 207 de 31/12/1947; Lei nº 206 de 31/12/1947).
+  - Leis complementares: Senado lists 237; 0 are absent from Planalto's index tables and therefore not included.
+  - Decretos-Lei: Senado lists 12,378; 6,339 are absent from Planalto's index tables and therefore not included (e.g. Decreto-Lei nº 3.031 de 31/08/1938; Decreto-Lei nº 4.851 de 07/11/1939; Decreto-Lei nº 2.933 de 31/12/1940; Decreto-Lei nº 2.932 de 31/12/1940; Decreto-Lei nº 2.929 de 31/12/1940; Decreto-Lei nº 2.927 de 31/12/1940; Decreto-Lei nº 2.934 de 31/12/1940; Decreto-Lei nº 2.926 de 31/12/1940).
+  - Emendas Constitucionais: Senado lists 139; 0 are absent from Planalto's index tables and therefore not included.

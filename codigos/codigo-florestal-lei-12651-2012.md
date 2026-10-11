@@ -1492,5 +1492,3 @@ Aguinaldo Ribeiro
 Luís Inácio Lucena Adams
 
 Este texto não substitui o publicado no DOU de 28.5.2012
-
-\*

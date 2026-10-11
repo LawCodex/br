@@ -65,9 +65,9 @@ Parágrafo único - A lei posterior, que de qualquer modo favorecer o agente, ap
 
 Lei excepcional ou temporária (Incluído pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 3º - A
+###### Art. 3º
 
-lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência. (Redação dada pela Lei nº 7.209, de 1984)
+A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência. (Redação dada pela Lei nº 7.209, de 1984)
 
 Tempo do crime
 
@@ -137,15 +137,15 @@ b) houve requisição do Ministro da Justiça. (Incluído pela Lei nº 7.209, de
 
 Pena cumprida no estrangeiro (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 8º - A
+###### Art. 8º
 
-pena cumprida no estrangeiro atenua a pena imposta no Brasil pelo mesmo crime, quando diversas, ou nela é computada, quando idênticas. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A pena cumprida no estrangeiro atenua a pena imposta no Brasil pelo mesmo crime, quando diversas, ou nela é computada, quando idênticas. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Eficácia de sentença estrangeira (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 9º - A
+###### Art. 9º
 
-sentença estrangeira, quando a aplicação da lei brasileira produz na espécie as mesmas conseqüências, pode ser homologada no Brasil para: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A sentença estrangeira, quando a aplicação da lei brasileira produz na espécie as mesmas conseqüências, pode ser homologada no Brasil para: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 I - obrigar o condenado à reparação do dano, a restituições e a outros efeitos civis; (Incluído pela Lei nº 7.209, de 11.7.1984)
 
@@ -159,9 +159,9 @@ b) para os outros efeitos, da existência de tratado de extradição com o país
 
 Contagem de prazo (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 10 - O
+###### Art. 10
 
-dia do começo inclui-se no cômputo do prazo. Contam-se os dias, os meses e os anos pelo calendário comum. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O dia do começo inclui-se no cômputo do prazo. Contam-se os dias, os meses e os anos pelo calendário comum. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Frações não computáveis da pena (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -179,9 +179,9 @@ As regras gerais deste Código aplicam-se aos fatos incriminados por lei especia
 
 Relação de causalidade (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 13 - O
+###### Art. 13
 
-resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. Considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. Considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Superveniência de causa independente (Incluído pela Lei nº 7.209, de 11.7.1984)
 
@@ -215,9 +215,9 @@ Parágrafo único - Salvo disposição em contrário, pune-se a tentativa com a 
 
 Desistência voluntária e arrependimento eficaz (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 15 - O
+###### Art. 15
 
-agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza, só responde pelos atos já praticados.(Redação dada pela Lei nº 7.209, de 11.7.1984)
+O agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza, só responde pelos atos já praticados.(Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Arrependimento posterior (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -253,9 +253,9 @@ Pelo resultado que agrava especialmente a pena, só responde o agente que o houv
 
 Erro sobre elementos do tipo (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 20 - O
+###### Art. 20
 
-erro sobre elemento constitutivo do tipo legal de crime exclui o dolo, mas permite a punição por crime culposo, se previsto em lei. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O erro sobre elemento constitutivo do tipo legal de crime exclui o dolo, mas permite a punição por crime culposo, se previsto em lei. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Descriminantes putativas (Incluído pela Lei nº 7.209, de 11.7.1984)
 
@@ -271,9 +271,9 @@ Erro sobre a pessoa (Incluído pela Lei nº 7.209, de 11.7.1984)
 
 Erro sobre a ilicitude do fato (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 21 - O
+###### Art. 21
 
-desconhecimento da lei é inescusável. O erro sobre a ilicitude do fato, se inevitável, isenta de pena; se evitável, poderá diminuí-la de um sexto a um terço. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O desconhecimento da lei é inescusável. O erro sobre a ilicitude do fato, se inevitável, isenta de pena; se evitável, poderá diminuí-la de um sexto a um terço. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Parágrafo único - Considera-se evitável o erro se o agente atua ou se omite sem a consciência da ilicitude do fato, quando lhe era possível, nas circunstâncias, ter ou atingir essa consciência. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -369,9 +369,9 @@ Não se comunicam as circunstâncias e as condições de caráter pessoal, salvo
 
 Casos de impunibilidade
 
-###### Art. 31 - O
+###### Art. 31
 
-ajuste, a determinação ou instigação e o auxílio, salvo disposição expressa em contrário, não são puníveis, se o crime não chega, pelo menos, a ser tentado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O ajuste, a determinação ou instigação e o auxílio, salvo disposição expressa em contrário, não são puníveis, se o crime não chega, pelo menos, a ser tentado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 ### TÍTULO V — DAS PENAS
 
@@ -391,9 +391,9 @@ III - de multa.
 
 Reclusão e detenção
 
-###### Art. 33 - A
+###### Art. 33
 
-pena de reclusão deve ser cumprida em regime fechado, semi-aberto ou aberto. A de detenção, em regime semi-aberto, ou aberto, salvo necessidade de transferência a regime fechado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A pena de reclusão deve ser cumprida em regime fechado, semi-aberto ou aberto. A de detenção, em regime semi-aberto, ou aberto, salvo necessidade de transferência a regime fechado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 § 1º - Considera-se: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -417,9 +417,9 @@ c) o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) a
 
 Regras do regime fechado
 
-###### Art. 34 - O
+###### Art. 34
 
-condenado será submetido, no início do cumprimento da pena, a exame criminológico de classificação para individualização da execução. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O condenado será submetido, no início do cumprimento da pena, a exame criminológico de classificação para individualização da execução. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 § 1º - O condenado fica sujeito a trabalho no período diurno e a isolamento durante o repouso noturno. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -439,9 +439,9 @@ Aplica-se a norma do art. 34 deste Código, caput, ao condenado que inicie o cum
 
 Regras do regime aberto
 
-###### Art. 36 - O
+###### Art. 36
 
-regime aberto baseia-se na autodisciplina e senso de responsabilidade do condenado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O regime aberto baseia-se na autodisciplina e senso de responsabilidade do condenado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 § 1º - O condenado deverá, fora do estabelecimento e sem vigilância, trabalhar, freqüentar curso ou exercer outra atividade autorizada, permanecendo recolhido durante o período noturno e nos dias de folga. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -455,27 +455,27 @@ As mulheres cumprem pena em estabelecimento próprio, observando-se os deveres e
 
 Direitos do preso
 
-###### Art. 38 - O
+###### Art. 38
 
-preso conserva todos os direitos não atingidos pela perda da liberdade, impondo-se a todas as autoridades o respeito à sua integridade física e moral. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O preso conserva todos os direitos não atingidos pela perda da liberdade, impondo-se a todas as autoridades o respeito à sua integridade física e moral. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Trabalho do preso
 
-###### Art. 39 - O
+###### Art. 39
 
-trabalho do preso será sempre remunerado, sendo-lhe garantidos os benefícios da Previdência Social. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O trabalho do preso será sempre remunerado, sendo-lhe garantidos os benefícios da Previdência Social. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Legislação especial
 
-###### Art. 40 - A
+###### Art. 40
 
-legislação especial regulará a matéria prevista nos arts. 38 e 39 deste Código, bem como especificará os deveres e direitos do preso, os critérios para revogação e transferência dos regimes e estabelecerá as infrações disciplinares e correspondentes sanções. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A legislação especial regulará a matéria prevista nos arts. 38 e 39 deste Código, bem como especificará os deveres e direitos do preso, os critérios para revogação e transferência dos regimes e estabelecerá as infrações disciplinares e correspondentes sanções. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Superveniência de doença mental
 
-###### Art. 41 - O
+###### Art. 41
 
-condenado a quem sobrevém doença mental deve ser recolhido a hospital de custódia e tratamento psiquiátrico ou, à falta, a outro estabelecimento adequado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O condenado a quem sobrevém doença mental deve ser recolhido a hospital de custódia e tratamento psiquiátrico ou, à falta, a outro estabelecimento adequado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Detração
 
@@ -569,9 +569,9 @@ V - proibição de inscrever-se em concurso, avaliação ou exame públicos. (In
 
 Limitação de fim de semana
 
-###### Art. 48 - A
+###### Art. 48
 
-limitação de fim de semana consiste na obrigação de permanecer, aos sábados e domingos, por 5 (cinco) horas diárias, em casa de albergado ou outro estabelecimento adequado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A limitação de fim de semana consiste na obrigação de permanecer, aos sábados e domingos, por 5 (cinco) horas diárias, em casa de albergado ou outro estabelecimento adequado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Parágrafo único - Durante a permanência poderão ser ministrados ao condenado cursos e palestras ou atribuídas atividades educativas.(Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -579,9 +579,9 @@ Parágrafo único - Durante a permanência poderão ser ministrados ao condenado
 
 Multa
 
-###### Art. 49 - A
+###### Art. 49
 
-pena de multa consiste no pagamento ao fundo penitenciário da quantia fixada na sentença e calculada em dias-multa. Será, no mínimo, de 10 (dez) e, no máximo, de 360 (trezentos e sessenta) dias-multa. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A pena de multa consiste no pagamento ao fundo penitenciário da quantia fixada na sentença e calculada em dias-multa. Será, no mínimo, de 10 (dez) e, no máximo, de 360 (trezentos e sessenta) dias-multa. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 § 1º - O valor do dia-multa será fixado pelo juiz não podendo ser inferior a um trigésimo do maior salário mínimo mensal vigente ao tempo do fato, nem superior a 5 (cinco) vezes esse salário. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -589,9 +589,9 @@ pena de multa consiste no pagamento ao fundo penitenciário da quantia fixada na
 
 Pagamento da multa
 
-###### Art. 50 - A
+###### Art. 50
 
-multa deve ser paga dentro de 10 (dez) dias depois de transitada em julgado a sentença. A requerimento do condenado e conforme as circunstâncias, o juiz pode permitir que o pagamento se realize em parcelas mensais. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A multa deve ser paga dentro de 10 (dez) dias depois de transitada em julgado a sentença. A requerimento do condenado e conforme as circunstâncias, o juiz pode permitir que o pagamento se realize em parcelas mensais. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 § 1º - A cobrança da multa pode efetuar-se mediante desconto no vencimento ou salário do condenado quando: (Incluído pela Lei nº 7.209, de 11.7.1984)
 
@@ -641,15 +641,15 @@ As penas restritivas de direitos referidas nos incisos III, IV, V e VI do art. 4
 
 As penas de interdição, previstas nos incisos I e II do art. 47 deste Código, aplicam-se para todo o crime cometido no exercício de profissão, atividade, ofício, cargo ou função, sempre que houver violação dos deveres que lhes são inerentes. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 57 - A
+###### Art. 57
 
-pena de interdição, prevista no inciso III do art. 47 deste Código, aplica-se aos crimes culposos de trânsito. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A pena de interdição, prevista no inciso III do art. 47 deste Código, aplica-se aos crimes culposos de trânsito. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Pena de multa
 
-###### Art. 58 - A
+###### Art. 58
 
-multa, prevista em cada tipo legal de crime, tem os limites fixados no art. 49 e seus parágrafos deste Código.(Redação dada pela Lei nº 7.209, de 11.7.1984)
+A multa, prevista em cada tipo legal de crime, tem os limites fixados no art. 49 e seus parágrafos deste Código.(Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Parágrafo único - A multa prevista no parágrafo único do art. 44 e no § 2º do art. 60 deste Código aplica-se independentemente de cominação na parte especial. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -657,9 +657,9 @@ Parágrafo único - A multa prevista no parágrafo único do art. 44 e no § 2º
 
 Fixação da pena
 
-###### Art. 59 - O
+###### Art. 59
 
-juiz, atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e conseqüências do crime, bem como ao comportamento da vítima, estabelecerá, conforme seja necessário e suficiente para reprovação e prevenção do crime: (Redação dada pela Lei nº 7.209, de 11.7.1984) (Vide ADPF 1107)
+O juiz, atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e conseqüências do crime, bem como ao comportamento da vítima, estabelecerá, conforme seja necessário e suficiente para reprovação e prevenção do crime: (Redação dada pela Lei nº 7.209, de 11.7.1984) (Vide ADPF 1107)
 
 I - as penas aplicáveis dentre as cominadas;(Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -717,9 +717,9 @@ m) nas dependências de instituição de ensino. (Incluído pela Lei nº 15.159,
 
 Agravantes no caso de concurso de pessoas
 
-###### Art. 62 - A
+###### Art. 62
 
-pena será ainda agravada em relação ao agente que: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A pena será ainda agravada em relação ao agente que: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 I - promove, ou organiza a cooperação no crime ou dirige a atividade dos demais agentes; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -765,9 +765,9 @@ d) confessado espontaneamente, perante a autoridade, a autoria do crime;
 
 e) cometido o crime sob a influência de multidão em tumulto, se não o provocou.
 
-###### Art. 66 - A
+###### Art. 66
 
-pena poderá ser ainda atenuada em razão de circunstância relevante, anterior ou posterior ao crime, embora não prevista expressamente em lei. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A pena poderá ser ainda atenuada em razão de circunstância relevante, anterior ou posterior ao crime, embora não prevista expressamente em lei. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Concurso de circunstâncias agravantes e atenuantes
 
@@ -777,9 +777,9 @@ No concurso de agravantes e atenuantes, a pena deve aproximar-se do limite indic
 
 Cálculo da pena
 
-###### Art. 68 - A
+###### Art. 68
 
-pena-base será fixada atendendo-se ao critério do art. 59 deste Código; em seguida serão consideradas as circunstâncias atenuantes e agravantes; por último, as causas de diminuição e de aumento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A pena-base será fixada atendendo-se ao critério do art. 59 deste Código; em seguida serão consideradas as circunstâncias atenuantes e agravantes; por último, as causas de diminuição e de aumento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Parágrafo único - No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua.(Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -847,9 +847,9 @@ No concurso de infrações, executar-se-á primeiramente a pena mais grave. (Red
 
 Requisitos da suspensão da pena
 
-###### Art. 77 - A
+###### Art. 77
 
-execução da pena privativa de liberdade, não superior a 2 (dois) anos, poderá ser suspensa, por 2 (dois) a 4 (quatro) anos, desde que: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A execução da pena privativa de liberdade, não superior a 2 (dois) anos, poderá ser suspensa, por 2 (dois) a 4 (quatro) anos, desde que: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 I - o condenado não seja reincidente em crime doloso; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -875,19 +875,19 @@ b) proibição de ausentar-se da comarca onde reside, sem autorização do juiz;
 
 c) comparecimento pessoal e obrigatório a juízo, mensalmente, para informar e justificar suas atividades. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 79 - A
+###### Art. 79
 
-sentença poderá especificar outras condições a que fica subordinada a suspensão, desde que adequadas ao fato e à situação pessoal do condenado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A sentença poderá especificar outras condições a que fica subordinada a suspensão, desde que adequadas ao fato e à situação pessoal do condenado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 80 - A
+###### Art. 80
 
-suspensão não se estende às penas restritivas de direitos nem à multa. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A suspensão não se estende às penas restritivas de direitos nem à multa. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Revogação obrigatória
 
-###### Art. 81 - A
+###### Art. 81
 
-suspensão será revogada se, no curso do prazo, o beneficiário: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A suspensão será revogada se, no curso do prazo, o beneficiário: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 I - é condenado, em sentença irrecorrível, por crime doloso; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -915,9 +915,9 @@ Expirado o prazo sem que tenha havido revogação, considera-se extinta a pena p
 
 Requisitos do livramento condicional
 
-###### Art. 83 - O
+###### Art. 83
 
-juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -947,9 +947,9 @@ As penas que correspondem a infrações diversas devem somar-se para efeito do l
 
 Especificações das condições
 
-###### Art. 85 - A
+###### Art. 85
 
-sentença especificará as condições a que fica subordinado o livramento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A sentença especificará as condições a que fica subordinado o livramento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Revogação do livramento
 
@@ -963,9 +963,9 @@ II - por crime anterior, observado o disposto no art. 84 deste Código. (Redaç�
 
 Revogação facultativa
 
-###### Art. 87 - O
+###### Art. 87
 
-juiz poderá, também, revogar o livramento, se o liberado deixar de cumprir qualquer das obrigações constantes da sentença, ou for irrecorrivelmente condenado, por crime ou contravenção, a pena que não seja privativa de liberdade.(Redação dada pela Lei nº 7.209, de 11.7.1984)
+O juiz poderá, também, revogar o livramento, se o liberado deixar de cumprir qualquer das obrigações constantes da sentença, ou for irrecorrivelmente condenado, por crime ou contravenção, a pena que não seja privativa de liberdade.(Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Efeitos da revogação
 
@@ -975,9 +975,9 @@ Revogado o livramento, não poderá ser novamente concedido, e, salvo quando a r
 
 Extinção
 
-###### Art. 89 - O
+###### Art. 89
 
-juiz não poderá declarar extinta a pena, enquanto não passar em julgado a sentença em processo a que responde o liberado, por crime cometido na vigência do livramento.(Redação dada pela Lei nº 7.209, de 11.7.1984)
+O juiz não poderá declarar extinta a pena, enquanto não passar em julgado a sentença em processo a que responde o liberado, por crime cometido na vigência do livramento.(Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 ###### Art. 90
 
@@ -1055,15 +1055,15 @@ III – automáticos os efeitos dos incisos I e II do caput e do inciso II do §
 
 Reabilitação
 
-###### Art. 93 - A
+###### Art. 93
 
-reabilitação alcança quaisquer penas aplicadas em sentença definitiva, assegurando ao condenado o sigilo dos registros sobre o seu processo e condenação. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A reabilitação alcança quaisquer penas aplicadas em sentença definitiva, assegurando ao condenado o sigilo dos registros sobre o seu processo e condenação. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Parágrafo único - A reabilitação poderá, também, atingir os efeitos da condenação, previstos no art. 92 deste Código, vedada reintegração na situação anterior, nos casos dos incisos I e II do mesmo artigo. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 94 - A
+###### Art. 94
 
-reabilitação poderá ser requerida, decorridos 2 (dois) anos do dia em que for extinta, de qualquer modo, a pena ou terminar sua execução, computando-se o período de prova da suspensão e o do livramento condicional, se não sobrevier revogação, desde que o condenado: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A reabilitação poderá ser requerida, decorridos 2 (dois) anos do dia em que for extinta, de qualquer modo, a pena ou terminar sua execução, computando-se o período de prova da suspensão e o do livramento condicional, se não sobrevier revogação, desde que o condenado: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 I - tenha tido domicílio no País no prazo acima referido; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -1073,9 +1073,9 @@ III - tenha ressarcido o dano causado pelo crime ou demonstre a absoluta impossi
 
 Parágrafo único - Negada a reabilitação, poderá ser requerida, a qualquer tempo, desde que o pedido seja instruído com novos elementos comprobatórios dos requisitos necessários. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 95 - A
+###### Art. 95
 
-reabilitação será revogada, de ofício ou a requerimento do Ministério Público, se o reabilitado for condenado, como reincidente, por decisão definitiva, a pena que não seja de multa. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A reabilitação será revogada, de ofício ou a requerimento do Ministério Público, se o reabilitado for condenado, como reincidente, por decisão definitiva, a pena que não seja de multa. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 ### TÍTULO VI — DAS MEDIDAS DE SEGURANÇA
 
@@ -1119,17 +1119,17 @@ Na hipótese do parágrafo único do art. 26 deste Código e necessitando o cond
 
 Direitos do internado
 
-###### Art. 99 - O
+###### Art. 99
 
-internado será recolhido a estabelecimento dotado de características hospitalares e será submetido a tratamento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O internado será recolhido a estabelecimento dotado de características hospitalares e será submetido a tratamento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 ### TÍTULO VII — DA AÇÃO PENAL
 
 Ação pública e de iniciativa privada
 
-###### Art. 100 - A
+###### Art. 100
 
-ação penal é pública, salvo quando a lei expressamente a declara privativa do ofendido. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A ação penal é pública, salvo quando a lei expressamente a declara privativa do ofendido. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 § 1º - A ação pública é promovida pelo Ministério Público, dependendo, quando a lei o exige, de representação do ofendido ou de requisição do Ministro da Justiça. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -1147,9 +1147,9 @@ Quando a lei considera como elemento ou circunstâncias do tipo legal fatos que,
 
 Irretratabilidade da representação
 
-###### Art. 102 - A
+###### Art. 102
 
-representação será irretratável depois de oferecida a denúncia. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A representação será irretratável depois de oferecida a denúncia. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Decadência do direito de queixa ou de representação
 
@@ -1161,21 +1161,21 @@ Parágrafo único. Nos crimes praticados no âmbito de violência doméstica e f
 
 Renúncia expressa ou tácita do direito de queixa
 
-###### Art. 104 - O
+###### Art. 104
 
-direito de queixa não pode ser exercido quando renunciado expressa ou tacitamente. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O direito de queixa não pode ser exercido quando renunciado expressa ou tacitamente. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Parágrafo único - Importa renúncia tácita ao direito de queixa a prática de ato incompatível com a vontade de exercê-lo; não a implica, todavia, o fato de receber o ofendido a indenização do dano causado pelo crime. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Perdão do ofendido
 
-###### Art. 105 - O
+###### Art. 105
 
-perdão do ofendido, nos crimes em que somente se procede mediante queixa, obsta ao prosseguimento da ação. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O perdão do ofendido, nos crimes em que somente se procede mediante queixa, obsta ao prosseguimento da ação. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-###### Art. 106 - O
+###### Art. 106
 
-perdão, no processo ou fora dele, expresso ou tácito: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O perdão, no processo ou fora dele, expresso ou tácito: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 I - se concedido a qualquer dos querelados, a todos aproveita; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -1213,9 +1213,9 @@ VIII - (Revogado pela Lei nº 11.106, de 2005)
 
 IX - pelo perdão judicial, nos casos previstos em lei.
 
-###### Art. 108 - A
+###### Art. 108
 
-extinção da punibilidade de crime que é pressuposto, elemento constitutivo ou circunstância agravante de outro não se estende a este. Nos crimes conexos, a extinção da punibilidade de um deles não impede, quanto aos outros, a agravação da pena resultante da conexão. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A extinção da punibilidade de crime que é pressuposto, elemento constitutivo ou circunstância agravante de outro não se estende a este. Nos crimes conexos, a extinção da punibilidade de um deles não impede, quanto aos outros, a agravação da pena resultante da conexão. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Prescrição antes de transitar em julgado a sentença
 
@@ -1241,9 +1241,9 @@ Parágrafo único - Aplicam-se às penas restritivas de direito os mesmos prazos
 
 Prescrição depois de transitar em julgado sentença final condenatória
 
-###### Art. 110 - A
+###### Art. 110
 
-prescrição depois de transitar em julgado a sentença condenatória regula-se pela pena aplicada e verifica-se nos prazos fixados no artigo anterior, os quais se aumentam de um terço, se o condenado é reincidente. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A prescrição depois de transitar em julgado a sentença condenatória regula-se pela pena aplicada e verifica-se nos prazos fixados no artigo anterior, os quais se aumentam de um terço, se o condenado é reincidente. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 § 1º A prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa. (Redação dada pela Lei nº 12.234, de 2010).
 
@@ -1251,9 +1251,9 @@ prescrição depois de transitar em julgado a sentença condenatória regula-se 
 
 Termo inicial da prescrição antes de transitar em julgado a sentença final
 
-###### Art. 111 - A
+###### Art. 111
 
-prescrição, antes de transitar em julgado a sentença final, começa a correr: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A prescrição, antes de transitar em julgado a sentença final, começa a correr: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 I - do dia em que o crime se consumou; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -1283,9 +1283,9 @@ No caso de evadir-se o condenado ou de revogar-se o livramento condicional, a pr
 
 Prescrição da multa
 
-###### Art. 114 - A
+###### Art. 114
 
-prescrição da pena de multa ocorrerá: (Redação dada pela Lei nº 9.268, de 1º.4.1996)
+A prescrição da pena de multa ocorrerá: (Redação dada pela Lei nº 9.268, de 1º.4.1996)
 
 I - em 2 (dois) anos, quando a multa for a única cominada ou aplicada; (Incluído pela Lei nº 9.268, de 1º.4.1996)
 
@@ -1315,9 +1315,9 @@ Parágrafo único - Depois de passada em julgado a sentença condenatória, a pr
 
 Causas interruptivas da prescrição
 
-###### Art. 117 - O
+###### Art. 117
 
-curso da prescrição interrompe-se: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+O curso da prescrição interrompe-se: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 I - pelo recebimento da denúncia ou da queixa; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -1345,9 +1345,9 @@ No caso de concurso de crimes, a extinção da punibilidade incidirá sobre a pe
 
 Perdão judicial
 
-###### Art. 120 - A
+###### Art. 120
 
-sentença que conceder perdão judicial não será considerada para efeitos de reincidência. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A sentença que conceder perdão judicial não será considerada para efeitos de reincidência. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 ## PARTE ESPECIAL
 
@@ -1891,9 +1891,9 @@ Parágrafo único - Nos casos dos ns. I e III, responde pela injúria ou pela di
 
 Retratação
 
-###### Art. 143 - O
+###### Art. 143
 
-querelado que, antes da sentença, se retrata cabalmente da calúnia ou da difamação, fica isento de pena.
+O querelado que, antes da sentença, se retrata cabalmente da calúnia ou da difamação, fica isento de pena.
 
 Parágrafo único. Nos casos em que o querelado tenha praticado a calúnia ou a difamação utilizando-se de meios de comunicação, a retratação dar-se-á, se assim desejar o ofendido, pelos mesmos meios em que se praticou a ofensa. (Incluído pela Lei nº 13.188, de 2015)
 
@@ -5496,5 +5496,3 @@ GETÚLIO VARGAS
 Francisco Campos
 
 Este texto não substitui o publicado no DOU de 31.12.1940 e retificado em 3.1.1941
-
-\*

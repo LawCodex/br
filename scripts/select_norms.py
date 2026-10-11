@@ -1,4 +1,5 @@
 """Selection rules shared by fetch.py and convert.py."""
+import datetime
 import re
 from urllib.parse import urljoin
 
@@ -18,7 +19,14 @@ def selected(e):
     s = (e.get("situacao") or "") + " " + (e.get("ementa") or "")[-80:]
     if re.search(r"revogad|convertid|rejeitad|encerrad|prejudicad|sem efic", e.get("situacao") or "", re.I):
         return False
-    return bool(re.search(r"em\s+tramita", s, re.I))
+    if not re.search(r"em\s+tramita", s, re.I):
+        return False
+    # Post-EC 32 MPs lapse after at most 120 days (plus parliamentary recess); a few MPs from
+    # 2020 are still labelled "Em Tramitação" in Planalto's table although they lapsed long ago.
+    d = e.get("date") or ""
+    if d >= "2001-09-12" and d < (datetime.date.today() - datetime.timedelta(days=240)).isoformat():
+        return False
+    return True
 
 
 def _stem(u):

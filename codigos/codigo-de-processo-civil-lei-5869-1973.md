@@ -260,5 +260,3 @@ As disposições deste Título aplicam-se às sociedades civis, qualquer que sej
 #### Art. 786-A
 
 Os editais referidos neste Título também serão publicados, quando for o caso, nos órgãos oficiais dos Estados em que o devedor tenha filiais ou representantes. (Incluído pela Lei nº 9.462, de 19.6.1997)
-
-\*

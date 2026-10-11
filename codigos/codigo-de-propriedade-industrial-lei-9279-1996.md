@@ -2017,5 +2017,3 @@ Francisco Dornelles
 José Israel Vargas
 
 Este texto não substitui o publicado no DOU de 15.5.1996
-
-\*

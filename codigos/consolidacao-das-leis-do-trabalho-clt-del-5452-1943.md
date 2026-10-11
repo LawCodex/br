@@ -99,9 +99,9 @@ VII - higiene pessoal; (Incluído pela Lei nº 13.467, de 2017) (Vigência)
 
 VIII - troca de roupa ou uniforme, quando não houver obrigatoriedade de realizar a troca na empresa. (Incluído pela Lei nº 13.467, de 2017) (Vigência)
 
-##### Art. 5º - A
+##### Art. 5º
 
-todo trabalho de igual valor corresponderá salário igual, sem distinção de sexo.
+A todo trabalho de igual valor corresponderá salário igual, sem distinção de sexo.
 
 ##### Art. 6º
 
@@ -191,9 +191,9 @@ Os preceitos concernentes ao regime de seguro social são objeto de lei especial
 
 (Redação dada pelo Decreto-lei nº 926, de 10.10.1969)
 
-##### Art. 13 - A
+##### Art. 13
 
-Carteira de Trabalho e Previdência Social é obrigatória para o exercício de qualquer emprego, inclusive de natureza rural, ainda que em caráter temporário, e para o exercício por conta própria de atividade profissional remunerada. (Redação dada pelo Decreto-lei nº 926, de 10.10.1969)
+A Carteira de Trabalho e Previdência Social é obrigatória para o exercício de qualquer emprego, inclusive de natureza rural, ainda que em caráter temporário, e para o exercício por conta própria de atividade profissional remunerada. (Redação dada pelo Decreto-lei nº 926, de 10.10.1969)
 
 § 1º - O disposto neste artigo aplica-se, igualmente, a quem: (Redação dada pelo Decreto-lei nº 926, de 10.10.1969)
 
@@ -471,9 +471,9 @@ Falsificação de carteira de trabalho
 
 Incorrerá em multa de valor igual a 3 (três) vêzes o salário-mínimo regional aquêle que, comerciante ou não, vender ou expuser à venda qualquer tipo de carteira igual ou semelhante ao tipo oficialmente adotado. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
-##### Art. 52 - O
+##### Art. 52
 
-extravio ou inutilização da Carteira de Trabalho e Previdência Social por culpa da empresa sujeitará esta à multa de valor igual á metade do salário mínimo regional. (Redação dada pelo Decreto-lei nº 926, de 10.10.1969)
+O extravio ou inutilização da Carteira de Trabalho e Previdência Social por culpa da empresa sujeitará esta à multa de valor igual á metade do salário mínimo regional. (Redação dada pelo Decreto-lei nº 926, de 10.10.1969)
 
 ##### Art. 53
 
@@ -501,9 +501,9 @@ Os preceitos deste Capítulo aplicam-se a todas as atividades, salvo as expressa
 
 #### SEÇÃO II — DA JORNADA DE TRABALHO
 
-##### Art. 58 - A
+##### Art. 58
 
-duração normal do trabalho, para os empregados em qualquer atividade privada, não excederá de 8 (oito) horas diárias, desde que não seja fixado expressamente outro limite.
+A duração normal do trabalho, para os empregados em qualquer atividade privada, não excederá de 8 (oito) horas diárias, desde que não seja fixado expressamente outro limite.
 
 § 1º Não serão descontadas nem computadas como jornada extraordinária as variações de horário no registro de ponto não excedentes de cinco minutos, observado o limite máximo de dez minutos diários. (Parágrafo incluído pela Lei nº 10.243, de 19.6.2001)
 
@@ -589,9 +589,9 @@ Parágrafo único - O regime previsto neste capítulo será aplicável aos empre
 
 Não haverá distinção entre empregados e interessados, e a participação em lucros e comissões, salvo em lucros de caráter social, não exclui o participante do regime deste Capítulo.
 
-##### Art. 64 - O
+##### Art. 64
 
-salário-hora normal, no caso de empregado mensalista, será obtido dividindo-se o salário mensal correspondente à duração do trabalho, a que se refere o art. 58, por 30 (trinta) vezes o número de horas dessa duração.
+O salário-hora normal, no caso de empregado mensalista, será obtido dividindo-se o salário mensal correspondente à duração do trabalho, a que se refere o art. 58, por 30 (trinta) vezes o número de horas dessa duração.
 
 Parágrafo único - Sendo o número de dias inferior a 30 (trinta), adotar-se-á para o cálculo, em lugar desse número, o de dias de trabalho por mês.
 
@@ -613,9 +613,9 @@ Será assegurado a todo empregado um descanso semanal de 24 (vinte e quatro) hor
 
 Parágrafo único - Nos serviços que exijam trabalho aos domingos, com exceção quanto aos elencos teatrais, será estabelecida escala de revezamento, mensalmente organizada e constando de quadro sujeito à fiscalização.
 
-##### Art. 68 - O
+##### Art. 68
 
-trabalho em domingo, seja total ou parcial, na forma do art. 67, será sempre subordinado à permissão prévia da autoridade competente em matéria de trabalho.
+O trabalho em domingo, seja total ou parcial, na forma do art. 67, será sempre subordinado à permissão prévia da autoridade competente em matéria de trabalho.
 
 Parágrafo único - A permissão será concedida a título permanente nas atividades que, por sua natureza ou pela conveniência pública, devem ser exercidas aos domingos, cabendo ao Ministro do Trabalho, Industria e Comercio, expedir instruções em que sejam especificadas tais atividades. Nos demais casos, ela será dada sob forma transitória, com discriminação do período autorizado, o qual, de cada vez, não excederá de 60 (sessenta) dias.
 
@@ -767,9 +767,9 @@ Parágrafo único. Quando o salário-mínimo mensal do empregado a comissão ou 
 
 (Revogado pela Lei 10.097, de 2000)
 
-##### Art. 81 - O
+##### Art. 81
 
-salário mínimo será determinado pela fórmula Sm = a + b + c + d + e, em que "a", "b", "c", "d" e "e" representam, respectivamente, o valor das despesas diárias com alimentação, habitação, vestuário, higiene e transporte necessários à vida de um trabalhador adulto.
+O salário mínimo será determinado pela fórmula Sm = a + b + c + d + e, em que "a", "b", "c", "d" e "e" representam, respectivamente, o valor das despesas diárias com alimentação, habitação, vestuário, higiene e transporte necessários à vida de um trabalhador adulto.
 
 § 1º - A parcela correspondente à alimentação terá um valor mínimo igual aos valores da lista de provisões, constantes dos quadros devidamente aprovados e necessários à alimentação diária do trabalhador adulto.
 
@@ -933,9 +933,9 @@ Parágrafo único - O salário mínimo pago em dinheiro não será inferior a 30
 
 Será nulo de pleno direito, sujeitando o empregador às sanções do art. 120, qualquer contrato ou convenção que estipule remuneração inferior ao salário mínimo estabelecido na região, zona ou subzona, em que tiver de ser cumprido.
 
-##### Art. 118 - O
+##### Art. 118
 
-trabalhador a quem for pago salário inferior ao mínimo terá direito, não obstante qualquer contrato ou convenção em contrário, a reclamar do empregador o complemento de seu salário mínimo estabelecido na região, zona ou subzona, em que tiver de ser cumprido.
+O trabalhador a quem for pago salário inferior ao mínimo terá direito, não obstante qualquer contrato ou convenção em contrário, a reclamar do empregador o complemento de seu salário mínimo estabelecido na região, zona ou subzona, em que tiver de ser cumprido.
 
 ##### Art. 119
 
@@ -957,17 +957,17 @@ Aquele que infringir qualquer dispositivo concernente ao salário mínimo será 
 
 (Revogado pela Lei nº 4.589, de 11.12.1964)
 
-##### Art. 124 - A
+##### Art. 124
 
-aplicação dos preceitos deste Capítulo não poderá, em caso algum, ser causa determinante da redução do salário.
+A aplicação dos preceitos deste Capítulo não poderá, em caso algum, ser causa determinante da redução do salário.
 
 ##### Art. 125
 
 (Revogado pela Lei nº 4.589, de 11.12.1964)
 
-##### Art. 126 - O
+##### Art. 126
 
-Ministro do Trabalho, Industria e Comercio, expedirá as instruções necessárias à fiscalização do salário mínimo, podendo cometer essa fiscalização a qualquer dos órgãos componentes do respectivo Ministério, e, bem assim, aos fiscais dos Institutos de Aposentadoria e Pensões na forma da legislação em vigor.
+O Ministro do Trabalho, Industria e Comercio, expedirá as instruções necessárias à fiscalização do salário mínimo, podendo cometer essa fiscalização a qualquer dos órgãos componentes do respectivo Ministério, e, bem assim, aos fiscais dos Institutos de Aposentadoria e Pensões na forma da legislação em vigor.
 
 ##### Art. 127
 
@@ -1025,9 +1025,9 @@ V - durante a suspensão preventiva para responder a inquérito administrativo o
 
 VI - nos dias em que não tenha havido serviço, salvo na hipótese do inciso III do art. 133. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
 
-##### Art. 132 - O
+##### Art. 132
 
-tempo de trabalho anterior à apresentação do empregado para serviço militar obrigatório será computado no período aquisitivo, desde que ele compareça ao estabelecimento dentro de 90 (noventa) dias da data em que se verificar a respectiva baixa. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)
+O tempo de trabalho anterior à apresentação do empregado para serviço militar obrigatório será computado no período aquisitivo, desde que ele compareça ao estabelecimento dentro de 90 (noventa) dias da data em que se verificar a respectiva baixa. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)
 
 ##### Art. 133
 
@@ -1063,9 +1063,9 @@ As férias serão concedidas por ato do empregador, em um só período, nos 12 (
 
 § 3º É vedado o início das férias no período de dois dias que antecede feriado ou dia de repouso semanal remunerado. (Incluído pela Lei nº 13.467, de 2017)
 
-##### Art. 135 - A
+##### Art. 135
 
-concessão das férias será participada, por escrito, ao empregado, com antecedência de, no mínimo, 30 (trinta) dias. Dessa participação o interessado dará recibo. (Redação dada pela Lei nº 7.414, de 9.12.1985)
+A concessão das férias será participada, por escrito, ao empregado, com antecedência de, no mínimo, 30 (trinta) dias. Dessa participação o interessado dará recibo. (Redação dada pela Lei nº 7.414, de 9.12.1985)
 
 § 1º - O empregado não poderá entrar no gozo das férias sem que apresente ao empregador sua Carteira de Trabalho e Previdência Social, para que nela seja anotada a respectiva concessão. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
 
@@ -1073,9 +1073,9 @@ concessão das férias será participada, por escrito, ao empregado, com anteced
 
 § 3º Nos casos em que o empregado possua a CTPS em meio digital, a anotação será feita nos sistemas a que se refere o § 7º do art. 29 desta Consolidação, na forma do regulamento, dispensadas as anotações de que tratam os §§ 1º e 2º deste artigo. (Incluído pela Lei nº 13.874, de 2019)
 
-##### Art. 136 - A
+##### Art. 136
 
-época da concessão das férias será a que melhor consulte os interesses do empregador. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)
+A época da concessão das férias será a que melhor consulte os interesses do empregador. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)
 
 § 1º - Os membros de uma família, que trabalharem no mesmo estabelecimento ou empresa, terão direito a gozar férias no mesmo período, se assim o desejarem e se disto não resultar prejuízo para o serviço. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977)
 
@@ -1121,9 +1121,9 @@ Os empregados contratados há menos de 12 (doze) meses gozarão, na oportunidade
 
 (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
 
-##### Art. 142 - O
+##### Art. 142
 
-empregado perceberá, durante as férias, a remuneração que lhe for devida na data da sua concessão. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
+O empregado perceberá, durante as férias, a remuneração que lhe for devida na data da sua concessão. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
 
 § 1º - Quando o salário for pago por hora com jornadas variáveis, apurar-se-á a média do período aquisitivo, aplicando-se o valor do salário na data da concessão das férias. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977
 
@@ -1151,9 +1151,9 @@ empregado perceberá, durante as férias, a remuneração que lhe for devida na 
 
 abono de férias de que trata o artigo anterior, bem como o concedido em virtude de cláusula do contrato de trabalho, do regulamento da empresa, de convenção ou acordo coletivo, desde que não excedente de vinte dias do salário, não integrarão a remuneração do empregado para os efeitos da legislação do trabalho. (Redação dada pela Lei nº 9.528, de 1998)
 
-##### Art. 145 - O
+##### Art. 145
 
-pagamento da remuneração das férias e, se for o caso, o do abono referido no art. 143 serão efetuados até 2 (dois) dias antes do início do respectivo período. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
+O pagamento da remuneração das férias e, se for o caso, o do abono referido no art. 143 serão efetuados até 2 (dois) dias antes do início do respectivo período. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
 
 Parágrafo único - O empregado dará quitação do pagamento, com indicação do início e do termo das férias. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977
 
@@ -1167,29 +1167,29 @@ Na cessação do contrato de trabalho, qualquer que seja a sua causa, será devi
 
 Parágrafo único - Na cessação do contrato de trabalho, após 12 (doze) meses de serviço, o empregado, desde que não haja sido demitido por justa causa, terá direito à remuneração relativa ao período incompleto de férias, de acordo com o art. 130, na proporção de 1/12 (um doze avos) por mês de serviço ou fração superior a 14 (quatorze) dias. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
 
-##### Art. 147 - O
+##### Art. 147
 
-empregado que for despedido sem justa causa, ou cujo contrato de trabalho se extinguir em prazo predeterminado, antes de completar 12 (doze) meses de serviço, terá direito à remuneração relativa ao período incompleto de férias, de conformidade com o disposto no artigo anterior. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
+O empregado que for despedido sem justa causa, ou cujo contrato de trabalho se extinguir em prazo predeterminado, antes de completar 12 (doze) meses de serviço, terá direito à remuneração relativa ao período incompleto de férias, de conformidade com o disposto no artigo anterior. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
 
-##### Art. 148 - A
+##### Art. 148
 
-remuneração das férias, ainda quando devida após a cessação do contrato de trabalho, terá natureza salarial, para os efeitos do art. 449. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
+A remuneração das férias, ainda quando devida após a cessação do contrato de trabalho, terá natureza salarial, para os efeitos do art. 449. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
 
 #### SEÇÃO VI — DO INÍCIO DA PRESCRIÇÃO
 
 (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
 
-##### Art. 149 - A
+##### Art. 149
 
-prescrição do direito de reclamar a concessão das férias ou o pagamento da respectiva remuneração é contada do término do prazo mencionado no art. 134 ou, se for o caso, da cessação do contrato de trabalho. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
+A prescrição do direito de reclamar a concessão das férias ou o pagamento da respectiva remuneração é contada do término do prazo mencionado no art. 134 ou, se for o caso, da cessação do contrato de trabalho. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
 
 #### SEÇÃO VII — DISPOSIÇÕES ESPECIAIS
 
 (Incluída pelo Decreto-lei nº 1.535, de 13.4.1977
 
-##### Art. 150 - O
+##### Art. 150
 
-tripulante que, por determinação do armador, for transferido para o serviço de outro, terá computado, para o efeito de gozo de férias, o tempo de serviço prestado ao primeiro, ficando obrigado a concedê-las o armador em cujo serviço ele se encontra na época de gozá-las. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
+O tripulante que, por determinação do armador, for transferido para o serviço de outro, terá computado, para o efeito de gozo de férias, o tempo de serviço prestado ao primeiro, ficando obrigado a concedê-las o armador em cujo serviço ele se encontra na época de gozá-las. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
 
 § 1º - As férias poderão ser concedidas, a pedido dos interessados e com aquiescência do armador, parceladamente, nos portos de escala de grande estadia do navio, aos tripulantes ali residentes. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977
 
@@ -1211,9 +1211,9 @@ II - da empresa, quando o empregado não for sindicalizado. (Incluído pelo Decr
 
 Enquanto não se criar um tipo especial de caderneta profissional para os marítimos, as férias serão anotadas pela Capitania do Porto na caderneta-matrícula do tripulante, na página das observações. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
 
-##### Art. 152 - A
+##### Art. 152
 
-remuneração do tripulante, no gozo de férias, será acrescida da importância correspondente à etapa que estiver vencendo. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
+A remuneração do tripulante, no gozo de férias, será acrescida da importância correspondente à etapa que estiver vencendo. (Redação dada pelo Decreto-lei nº 1.535, de 13.4.1977
 
 #### SEÇÃO VIII — DAS PENALIDADES
 
@@ -1297,9 +1297,9 @@ Nenhum estabelecimento poderá iniciar suas atividades sem prévia inspeção e 
 
 Embargo ou interdição
 
-##### Art. 161 - O
+##### Art. 161
 
-Delegado Regional do Trabalho, à vista do laudo técnico do serviço competente que demonstre grave e iminente risco para o trabalhador, poderá interditar estabelecimento, setor de serviço, máquina ou equipamento, ou embargar obra, indicando na decisão, tomada com a brevidade que a ocorrência exigir, as providências que deverão ser adotadas para prevenção de infortúnios de trabalho. (Redação dada pela Lei nº 6.514, de 22.12.1977)
+O Delegado Regional do Trabalho, à vista do laudo técnico do serviço competente que demonstre grave e iminente risco para o trabalhador, poderá interditar estabelecimento, setor de serviço, máquina ou equipamento, ou embargar obra, indicando na decisão, tomada com a brevidade que a ocorrência exigir, as providências que deverão ser adotadas para prevenção de infortúnios de trabalho. (Redação dada pela Lei nº 6.514, de 22.12.1977)
 
 § 1º - As autoridades federais, estaduais e municipais darão imediato apoio às medidas determinadas pelo Delegado Regional do Trabalho. (Incluído pela Lei nº 6.514, de 22.12.1977)
 
@@ -1357,15 +1357,15 @@ Parágrafo único - Ocorrendo a despedida, caberá ao empregador, em caso de rec
 
 #### SEÇÃO IV — DO EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL
 
-##### Art. 166 - A
+##### Art. 166
 
-empresa é obrigada a fornecer aos empregados, gratuitamente, equipamento de proteção individual adequado ao risco e em perfeito estado de conservação e funcionamento, sempre que as medidas de ordem geral não ofereçam completa proteção contra os riscos de acidentes e danos à saúde dos empregados. (Redação dada pela Lei nº 6.514, de 22.12.1977)
+A empresa é obrigada a fornecer aos empregados, gratuitamente, equipamento de proteção individual adequado ao risco e em perfeito estado de conservação e funcionamento, sempre que as medidas de ordem geral não ofereçam completa proteção contra os riscos de acidentes e danos à saúde dos empregados. (Redação dada pela Lei nº 6.514, de 22.12.1977)
 
 Redistribuição de aprovações burocráticas emitidas pelo extinto Ministério do Trabalho
 
-##### Art. 167 - O
+##### Art. 167
 
-equipamento de proteção só poderá ser posto à venda ou utilizado com a indicação do Certificado de Aprovação do Ministério do Trabalho. (Redação dada pela Lei nº 6.514, de 22.12.1977)
+O equipamento de proteção só poderá ser posto à venda ou utilizado com a indicação do Certificado de Aprovação do Ministério do Trabalho. (Redação dada pela Lei nº 6.514, de 22.12.1977)
 
 #### SEÇÃO V — DAS MEDIDAS PREVENTIVAS DE MEDICINA DO TRABALHO
 
@@ -1455,9 +1455,9 @@ Art. . 178 - As condições de conforto térmico dos locais de trabalho devem se
 
 #### SEÇÃO IX — DAS INSTALAÇÕES ELÉTRICAS
 
-##### Art. 179 - O
+##### Art. 179
 
-Ministério do Trabalho disporá sobre as condições de segurança e as medidas especiais a serem observadas relativamente a instalações elétricas, em qualquer das fases de produção, transmissão, distribuição ou consumo de energia. (Redação dada pela Lei nº 6.514, de 22.12.1977)
+O Ministério do Trabalho disporá sobre as condições de segurança e as medidas especiais a serem observadas relativamente a instalações elétricas, em qualquer das fases de produção, transmissão, distribuição ou consumo de energia. (Redação dada pela Lei nº 6.514, de 22.12.1977)
 
 Art. . 180 - Somente profissional qualificado poderá instalar, operar, inspecionar ou reparar instalações elétricas. (Redação dada pela Lei nº 6.514, de 22.12.1977)
 
@@ -1491,9 +1491,9 @@ Parágrafo único - É proibida a fabricação, a importação, a venda, a loca�
 
 Os reparos, limpeza e ajustes somente poderão ser executados com as máquinas paradas, salvo se o movimento for indispensável à realização do ajuste. (Redação dada pela Lei nº 6.514, de 22.12.1977)
 
-##### Art. 186 - O
+##### Art. 186
 
-Ministério do Trabalho estabelecerá normas adicionais sobre proteção e medidas de segurança na operação de máquinas e equipamentos, especialmente quanto à proteção das partes móveis, distância entre estas, vias de acesso às máquinas e equipamentos de grandes dimensões, emprego de ferramentas, sua adequação e medidas de proteção exigidas quando motorizadas ou elétricas. (Redação dada pela Lei nº 6.514, de 22.12.1977)
+O Ministério do Trabalho estabelecerá normas adicionais sobre proteção e medidas de segurança na operação de máquinas e equipamentos, especialmente quanto à proteção das partes móveis, distância entre estas, vias de acesso às máquinas e equipamentos de grandes dimensões, emprego de ferramentas, sua adequação e medidas de proteção exigidas quando motorizadas ou elétricas. (Redação dada pela Lei nº 6.514, de 22.12.1977)
 
 #### SEÇÃO XII — DAS CALDEIRAS, FORNOS E RECIPIENTES SOB PRESSÃO
 
@@ -1521,9 +1521,9 @@ Art. . 190 - O Ministério do Trabalho aprovará o quadro das atividades e opera
 
 Parágrafo único - As normas referidas neste artigo incluirão medidas de proteção do organismo do trabalhador nas operações que produzem aerodispersóides tóxicos, irritantes, alérgicos ou incômodos. (Redação dada pela Lei nº 6.514, de 22.12.1977)
 
-##### Art. 191 - A
+##### Art. 191
 
-eliminação ou a neutralização da insalubridade ocorrerá: (Redação dada pela Lei nº 6.514, de 22.12.1977)
+A eliminação ou a neutralização da insalubridade ocorrerá: (Redação dada pela Lei nº 6.514, de 22.12.1977)
 
 I - com a adoção de medidas que conservem o ambiente de trabalho dentro dos limites de tolerância; (Incluído pela Lei nº 6.514, de 22.12.1977)
 
@@ -1531,9 +1531,9 @@ II - com a utilização de equipamentos de proteção individual ao trabalhador,
 
 Parágrafo único - Caberá às Delegacias Regionais do Trabalho, comprovada a insalubridade, notificar as empresas, estipulando prazos para sua eliminação ou neutralização, na forma deste artigo. (Incluído pela Lei nº 6.514, de 22.12.1977)
 
-##### Art. 192 - O
+##### Art. 192
 
-exercício de trabalho em condições insalubres, acima dos limites de tolerância estabelecidos pelo Ministério do Trabalho, assegura a percepção de adicional respectivamente de 40% (quarenta por cento), 20% (vinte por cento) e 10% (dez por cento) do salário-mínimo da região, segundo se classifiquem nos graus máximo, médio e mínimo. (Redação dada pela Lei nº 6.514, de 22.12.1977)
+O exercício de trabalho em condições insalubres, acima dos limites de tolerância estabelecidos pelo Ministério do Trabalho, assegura a percepção de adicional respectivamente de 40% (quarenta por cento), 20% (vinte por cento) e 10% (dez por cento) do salário-mínimo da região, segundo se classifiquem nos graus máximo, médio e mínimo. (Redação dada pela Lei nº 6.514, de 22.12.1977)
 
 ##### Art. 193.
 
@@ -1555,9 +1555,9 @@ III – colisões, atropelamentos ou outras espécies de acidentes ou violência
 
 § 5º O disposto no inciso I do caput deste artigo não se aplica às quantidades de inflamáveis contidas nos tanques de combustíveis originais de fábrica e suplementares, para consumo próprio de veículos de carga e de transporte coletivo de passageiros, de máquinas e de equipamentos, certificados pelo órgão competente, e nos equipamentos de refrigeração de carga. (Incluído pela Lei nº 14.766, de 2023)
 
-##### Art.194 - O
+##### Art.194
 
-direito do empregado ao adicional de insalubridade ou de periculosidade cessará com a eliminação do risco à sua saúde ou integridade física, nos termos desta Seção e das normas expedidas pelo Ministério do Trabalho. (Redação dada pela Lei nº 6.514, de 22.12.1977)
+O direito do empregado ao adicional de insalubridade ou de periculosidade cessará com a eliminação do risco à sua saúde ou integridade física, nos termos desta Seção e das normas expedidas pelo Ministério do Trabalho. (Redação dada pela Lei nº 6.514, de 22.12.1977)
 
 Art. . 195 - A caracterização e a classificação da insalubridade e da periculosidade, segundo as normas do Ministério do Trabalho, far-se-ão através de perícia a cargo de Médico do Trabalho ou Engenheiro do Trabalho, registrados no Ministério do Trabalho. (Redação dada pela Lei nº 6.514, de 22.12.1977)
 
@@ -1795,21 +1795,21 @@ IV - ofensa de natureza gravíssima, até cinquenta vezes o último salário con
 
 Trabalho aos sábados em bancos
 
-##### Art. 224 - A
+##### Art. 224
 
-duração normal do trabalho dos empregados em bancos, casas bancárias e Caixa Econômica Federal será de 6 (seis) horas continuas nos dias úteis, com exceção dos sábados, perfazendo um total de 30 (trinta) horas de trabalho por semana. (Redação dada pela Lei nº 7.430, de 17.12.1985)
+A duração normal do trabalho dos empregados em bancos, casas bancárias e Caixa Econômica Federal será de 6 (seis) horas continuas nos dias úteis, com exceção dos sábados, perfazendo um total de 30 (trinta) horas de trabalho por semana. (Redação dada pela Lei nº 7.430, de 17.12.1985)
 
 § 1º A duração normal do trabalho estabelecida neste artigo ficará compreendida entre sete e vinte e duas horas, assegurando-se ao empregado, no horário diário, um intervalo de quinze minutos para alimentação. (Redação dada pelo Decreto-Lei nº 229, de 28.2.1967)
 
 § 2º As disposições dêste artigo não se aplicam aos que exercem funções de direção, gerência, fiscalização, chefia e equivalentes ou que desempenhem outros cargos de confiança desde que o valor da gratificação não seja inferior a um têrço do salário do cargo efetivo. (Redação dada pelo Decreto-Lei nº 754, de 1969)
 
-##### Art. 225 - A
+##### Art. 225
 
-duração normal de trabalho dos bancários poderá ser excepcionalmente prorrogada até 8 (oito) horas diárias, não excedendo de 40 (quarenta) horas semanais, observados os preceitos gerais sobre a duração do trabalho. (Redação dada pela Lei nº 6.637, de 8.5.1979)
+A duração normal de trabalho dos bancários poderá ser excepcionalmente prorrogada até 8 (oito) horas diárias, não excedendo de 40 (quarenta) horas semanais, observados os preceitos gerais sobre a duração do trabalho. (Redação dada pela Lei nº 6.637, de 8.5.1979)
 
-##### Art. 226 - O
+##### Art. 226
 
-regime especial de 6 (seis) horas de trabalho também se aplica aos empregados de portaria e de limpeza, tais como porteiros, telefonistas de mesa, contínuos e serventes, empregados em bancos e casas bancárias. (Redação dada pela Lei nº 3.488, de 12.12.1958)
+O regime especial de 6 (seis) horas de trabalho também se aplica aos empregados de portaria e de limpeza, tais como porteiros, telefonistas de mesa, contínuos e serventes, empregados em bancos e casas bancárias. (Redação dada pela Lei nº 3.488, de 12.12.1958)
 
 Parágrafo único - A direção de cada banco organizará a escala de serviço do estabelecimento de maneira a haver empregados do quadro da portaria em função, meia hora antes e até meia hora após o encerramento dos trabalhos, respeitado o limite de 6 (seis) horas diárias. (Incluído pela Lei nº 3.488, de 12.12.1958)
 
@@ -1839,9 +1839,9 @@ Para os empregados sujeitos a horários variáveis, fica estabelecida a duraçã
 
 § 2º - Quanto à execução e remuneração aos domingos, feriados e dias santos de guarda e às prorrogações de expediente, o trabalho dos empregados a que se refere o parágrafo anterior será regido pelo que se contém no § 1º do art. 227 desta Seção.
 
-##### Art. 230 - A
+##### Art. 230
 
-direção das empresas deverá organizar as turmas de empregados, para a execução dos seus serviços, de maneira que prevaleça sempre o revezamento entre os que exercem a mesma função, quer em escalas diurnas, quer em noturnas.
+A direção das empresas deverá organizar as turmas de empregados, para a execução dos seus serviços, de maneira que prevaleça sempre o revezamento entre os que exercem a mesma função, quer em escalas diurnas, quer em noturnas.
 
 § 1º - Aos empregados que exerçam a mesma função será permitida, entre si, a troca de turmas, desde que isso não importe em prejuízo dos serviços, cujo chefe ou encarregado resolverá sobre a oportunidade ou possibilidade dessa medida, dentro das prescrições desta Seção.
 
@@ -1859,15 +1859,15 @@ Será de seis horas a duração de trabalho dos músicos em teatro e congêneres
 
 Parágrafo único. Toda vez que o trabalho contínuo em espetáculo ultrapassar de seis horas, o tempo de duração excedente será pago com um acréscimo de 25 % (vinte e cinco por cento) sobre o salário da hora normal.
 
-##### Art. 233 - A
+##### Art. 233
 
-duração normal de trabalho dos músicos profissionais poderá ser elevada até oito horas diárias, observados os preceitos gerais sobre duração do trabalho.
+A duração normal de trabalho dos músicos profissionais poderá ser elevada até oito horas diárias, observados os preceitos gerais sobre duração do trabalho.
 
 #### SEÇÃO IV — DOS OPERADORES CINEMATOGRÁFICOS
 
-##### Art. 234 - A
+##### Art. 234
 
-duração normal do trabalho dos operadores cinematográficos e seus ajudantes não excederá de seis horas diárias, assim distribuídas:
+A duração normal do trabalho dos operadores cinematográficos e seus ajudantes não excederá de seis horas diárias, assim distribuídas:
 
 a) 5 (cinco) horas consecutivas de trabalho em cabina, durante o funcionamento cinematográfico;
 
@@ -2031,9 +2031,9 @@ Convenção e acordo coletivo poderão prever jornada especial de 12 (doze) hora
 
 No serviço ferroviário - considerado este o de transporte em estradas de ferro abertas ao tráfego público, compreendendo a administração, construção, conservação e remoção das vias férreas e seus edifícios, obras-de-arte, material rodante, instalações complementares e acessórias, bem como o serviço de tráfego, de telegrafia, telefonia e funcionamento de todas as instalações ferroviárias - aplicam-se os preceitos especiais constantes desta Seção.
 
-##### Art. 237 - O
+##### Art. 237
 
-pessoal a que se refere o artigo antecedente fica dividido nas seguintes categorias:
+O pessoal a que se refere o artigo antecedente fica dividido nas seguintes categorias:
 
 a) funcionários de alta administração, chefes e ajudantes de departamentos e seções, engenheiros residentes, chefes de depósitos, inspetores e demais empregados que exercem funções administrativas ou fiscalizadoras;
 
@@ -2103,13 +2103,13 @@ As estradas de ferro poderão ter empregados extranumerários, de sobre-aviso e 
 
 § 4º Quando, no estabelecimento ou dependência em que se achar o empregado, houver facilidade de alimentação, as doze horas do prontidão, a que se refere o parágrafo anterior, poderão ser contínuas. Quando não existir essa facilidade, depois de seis horas de prontidão, haverá sempre um intervalo de uma hora para cada refeição, que não será, nesse caso, computada como de serviço. (Restaurado pelo Decreto-lei n º 5, de 4.4.1966)
 
-##### Art. 245 - O
+##### Art. 245
 
-horário normal de trabalho dos cabineiros nas estações de tráfego intenso não excederá de 8 (oito) horas e deverá ser dividido em 2 (dois) turnos com intervalo não inferior a 1 (uma) hora de repouso, não podendo nenhum turno ter duração superior a 5 (cinco) horas, com um período de descanso entre 2 (duas) jornadas de trabalho de 14 (quatorze) horas consecutivas.
+O horário normal de trabalho dos cabineiros nas estações de tráfego intenso não excederá de 8 (oito) horas e deverá ser dividido em 2 (dois) turnos com intervalo não inferior a 1 (uma) hora de repouso, não podendo nenhum turno ter duração superior a 5 (cinco) horas, com um período de descanso entre 2 (duas) jornadas de trabalho de 14 (quatorze) horas consecutivas.
 
-##### Art. 246 - O
+##### Art. 246
 
-horário de trabalho dos operadores telegrafistas nas estações de tráfego intenso não excederá de 6 (seis) horas diárias.
+O horário de trabalho dos operadores telegrafistas nas estações de tráfego intenso não excederá de 6 (seis) horas diárias.
 
 ##### Art. 247
 
@@ -2331,23 +2331,23 @@ Parágrafo único - Considera-se artificialmente frio, para os fins do presente 
 
 #### SEÇÃO X — DO TRABALHO EM MINAS DE SUBSOLO
 
-##### Art. 293 - A
+##### Art. 293
 
-duração normal do trabalho efetivo para os empregados em minas no subsolo não excederá de 6 (seis) horas diárias ou de 36 (trinta e seis) semanais.
+A duração normal do trabalho efetivo para os empregados em minas no subsolo não excederá de 6 (seis) horas diárias ou de 36 (trinta e seis) semanais.
 
-##### Art. 294 - O
+##### Art. 294
 
-tempo despendido pelo empregado da boca da mina ao local do trabalho e vice-versa será computado para o efeito de pagamento do salário.
+O tempo despendido pelo empregado da boca da mina ao local do trabalho e vice-versa será computado para o efeito de pagamento do salário.
 
-##### Art. 295 - A
+##### Art. 295
 
-duração normal do trabalho efetivo no subsolo poderá ser elevada até 8 (oito) horas diárias ou 48 (quarenta e oito) semanais, mediante acordo escrito entre empregado e empregador ou contrato coletivo de trabalho, sujeita essa prorrogação à prévia licença da autoridade competente em matéria de higiene do trabalho.
+A duração normal do trabalho efetivo no subsolo poderá ser elevada até 8 (oito) horas diárias ou 48 (quarenta e oito) semanais, mediante acordo escrito entre empregado e empregador ou contrato coletivo de trabalho, sujeita essa prorrogação à prévia licença da autoridade competente em matéria de higiene do trabalho.
 
 Parágrafo único - A duração normal do trabalho efetivo no subsolo poderá ser inferior a 6 (seis) horas diárias, por determinação da autoridade de que trata este artigo, tendo em vista condições locais de insalubridade e os métodos e processos do trabalho adotado.
 
-##### Art. 296 - A
+##### Art. 296
 
-remuneração da hora prorrogada será no mínimo de 25% (vinte e cinco por cento) superior à da hora normal e deverá constar do acordo ou contrato coletivo de trabalho.
+A remuneração da hora prorrogada será no mínimo de 25% (vinte e cinco por cento) superior à da hora normal e deverá constar do acordo ou contrato coletivo de trabalho.
 
 ##### Art. 297
 
@@ -2367,9 +2367,9 @@ Sempre que, por motivo de saúde, for necessária a transferência do empregado,
 
 Parágrafo único - No caso de recusa do empregado em atender a essa transferência, será ouvida a autoridade competente em matéria de higiene e segurança do trabalho, que decidirá a respeito. (Redação dada pela Lei nº 2.924, de 21.10.1956)
 
-##### Art. 301 - O
+##### Art. 301
 
-trabalho no subsolo somente será permitido a homens, com idade compreendida entre 21 (vinte e um) e 50 (cinqüenta) anos, assegurada a transferência para a superfície nos termos previstos no artigo anterior.
+O trabalho no subsolo somente será permitido a homens, com idade compreendida entre 21 (vinte e um) e 50 (cinqüenta) anos, assegurada a transferência para a superfície nos termos previstos no artigo anterior.
 
 #### SEÇÃO XI — DOS JORNALISTAS PROFISSIONAIS
 
@@ -2381,9 +2381,9 @@ Os dispositivos da presente Seção se aplicam aos que nas empresas jornalístic
 
 § 2º - Consideram-se empresas jornalísticas, para os fins desta Seção, aquelas que têm a seu cargo a edição de jornais, revistas, boletins e periódicos, ou a distribuição de noticiário, e, ainda, a radiodifusão em suas seções destinadas à transmissão de notícias e comentários.
 
-##### Art. 303 - A
+##### Art. 303
 
-duração normal do trabalho dos empregados compreendidos nesta Seção não deverá exceder de 5 (cinco) horas, tanto de dia como à noite.
+A duração normal do trabalho dos empregados compreendidos nesta Seção não deverá exceder de 5 (cinco) horas, tanto de dia como à noite.
 
 Simplificação da legislação trabalhista em setores específicos
 
@@ -2403,9 +2403,9 @@ Os dispositivos dos arts. 303, 304 e 305 não se aplicam àqueles que exercem as
 
 Parágrafo único - Não se aplicam, do mesmo modo, os artigos acima referidos aos que se ocuparem unicamente em serviços externos.
 
-##### Art. 307 - A
+##### Art. 307
 
-cada 6 (seis) dias de trabalho efetivo corresponderá 1 (um) dia de descanso obrigatório, que coincidirá com o domingo, salvo acordo escrito em contrário, no qual será expressamente estipulado o dia em que se deve verificar o descanso.
+A cada 6 (seis) dias de trabalho efetivo corresponderá 1 (um) dia de descanso obrigatório, que coincidirá com o domingo, salvo acordo escrito em contrário, no qual será expressamente estipulado o dia em que se deve verificar o descanso.
 
 ##### Art. 308
 
@@ -2435,9 +2435,9 @@ d) carteira de trabalho e previdência social.
 
 § 2º Aos novos empregados será concedido o prazo de 60 dias para a apresentação da carteira de trabalho e previdência social, fazendo-se o registro condicionado a essa apresentação e expedindo-se um certificado provisório para aquele período.
 
-##### Art. 312 - O
+##### Art. 312
 
-registro dos diretores-proprietários de jornais será feito, no Distrito Federal e nos Estados, e independentemente da exigência constante do art. 311, letra "d", da presente seção.
+O registro dos diretores-proprietários de jornais será feito, no Distrito Federal e nos Estados, e independentemente da exigência constante do art. 311, letra "d", da presente seção.
 
 § 1º A prova de profissão, apresentada pelo diretor-proprietário juntamente com os demais documentos exigidos, consistirá em uma certidão, fornecida nos Estados e Território do Acre, pelas Juntas Comerciais ou Cartórios, e, no Distrito Federal, pela seção competente do Departamento Nacional de Indústria e Comércio, do Ministério do Trabalho, Indústria e Comércio.
 
@@ -2457,21 +2457,21 @@ Aqueles que, sem carater profissional, exercerem atividades jornalísticas, visa
 
 (Revogado pelo Decreto-Lei nº 972, de 17.10.1969)
 
-##### Art. 315 - O
+##### Art. 315
 
-Governo Federal, de acordo com os governos estaduais, promoverá a criação de escolas de preparação ao jornalismo, destinadas à formação dos profissionais da imprensa.
+O Governo Federal, de acordo com os governos estaduais, promoverá a criação de escolas de preparação ao jornalismo, destinadas à formação dos profissionais da imprensa.
 
-##### Art. 316 - A
+##### Art. 316
 
-empresa jornalística que deixar de pagar pontualmente, e na forma acordada, os salários devidos a seus empregados, terá suspenso o seu funcionamento, até que se efetue o pagamento devido.
+A empresa jornalística que deixar de pagar pontualmente, e na forma acordada, os salários devidos a seus empregados, terá suspenso o seu funcionamento, até que se efetue o pagamento devido.
 
 Parágrafo único. Para os efeitos do cumprimento deste artigo deverão os prejudicados reclamar contra a falta de pagamento perante a autoridade competente e, proferida a condenação, desde que a empresa não a cumpra, ou, em caso de recurso, não deposite o valor da indenização, a autoridade que proferir a condenação oficiará à autoridade competente, para a suspensão da circulação do jornal. Em igual pena de suspensão incorrerá a empresa que deixar de recolher as contribuições devidas às instituições de previdência social.
 
 #### SEÇÃO XII — DOS PROFESSORES
 
-##### Art. 317 - O
+##### Art. 317
 
-exercício remunerado do magistério, em estabelecimentos particulares de ensino, exigirá apenas habilitação legal e registro no Ministério da Educação. (Redação dada pela Lei nº 7.855, de 24.10.1989)
+O exercício remunerado do magistério, em estabelecimentos particulares de ensino, exigirá apenas habilitação legal e registro no Ministério da Educação. (Redação dada pela Lei nº 7.855, de 24.10.1989)
 
 ##### Art. 318. O
 
@@ -2481,9 +2481,9 @@ professor poderá lecionar em um mesmo estabelecimento por mais de um turno, des
 
 Aos professores é vedado, aos domingos, a regência de aulas e o trabalho em exames.
 
-##### Art. 320 - A
+##### Art. 320
 
-remuneração dos professores será fixada pelo número de aulas semanais, na conformidade dos horários.
+A remuneração dos professores será fixada pelo número de aulas semanais, na conformidade dos horários.
 
 § 1º - O pagamento far-se-á mensalmente, considerando-se para este efeito cada mês constituído de quatro semanas e meia.
 
@@ -2579,9 +2579,9 @@ Só poderão ser admitidos a registro os diplomas, certificados de diplomas, car
 
 Parágrafo único - O Departamento Nacional do Trabalho e as Delegacias Regionais do Ministério do Trabalho, Industria e Comercio, nos Estados, publicarão, periodicamente, a lista dos químicos registrados na forma desta Seção.
 
-##### Art. 329 - A
+##### Art. 329
 
-cada inscrito, e como documento comprobatório do registro, será fornecida pelo Departamento Nacional do Trabalho, no Distrito Federal, ou pelas Delegacias Regionais, nos Estados e no Território do Acre, uma Carteira de Trabalho e Previdência Social numerada, que, além da fotografia, medindo 3 (três) por 4 (quatro) centímetros, tirada de frente, com a cabeça descoberta, e das impressões do polegar, conterá as declarações seguintes:
+A cada inscrito, e como documento comprobatório do registro, será fornecida pelo Departamento Nacional do Trabalho, no Distrito Federal, ou pelas Delegacias Regionais, nos Estados e no Território do Acre, uma Carteira de Trabalho e Previdência Social numerada, que, além da fotografia, medindo 3 (três) por 4 (quatro) centímetros, tirada de frente, com a cabeça descoberta, e das impressões do polegar, conterá as declarações seguintes:
 
 a) o nome por extenso;
 
@@ -2617,9 +2617,9 @@ Quem, mediante anúncios, placas, cartões comerciais ou outros meios capazes de
 
 Os profissionais a que se referem os dispositivos anteriores só poderão exercer legalmente as funções de químicos depois de satisfazerem as obrigações constantes do art. 330 desta Seção.
 
-##### Art. 334 - O
+##### Art. 334
 
-exercício da profissão de químico compreende:
+O exercício da profissão de químico compreende:
 
 a) a fabricação de produtos e subprodutos químicos em seus diversos graus de pureza;
 
@@ -2657,9 +2657,9 @@ Fazem fé pública os certificados de análises químicas, pareceres, atestados,
 
 Parágrafo único - Na hipótese de concurso para o provimento de cargo ou emprego público, os químicos a que este artigo se refere terão preferência, em igualdade de condições.
 
-##### Art. 339 - O
+##### Art. 339
 
-nome do químico responsável pela fabricação dos produtos de uma fábrica, usina ou laboratório deverá figurar nos respectivos rótulos, faturas e anúncios, compreendida entre estes últimos a legenda impressa em cartas e sobrecartas.
+O nome do químico responsável pela fabricação dos produtos de uma fábrica, usina ou laboratório deverá figurar nos respectivos rótulos, faturas e anúncios, compreendida entre estes últimos a legenda impressa em cartas e sobrecartas.
 
 ##### Art. 340
 
@@ -2671,9 +2671,9 @@ Parágrafo único - Não se acham compreendidos no artigo anterior os produtos f
 
 Cabe aos químicos habilitados, conforme estabelece o art. 325, alíneas "a" e "b", a execução de todos os serviços que, não especificados no presente regulamento, exijam por sua natureza o conhecimento de química.
 
-##### Art. 342 - A
+##### Art. 342
 
-fiscalização do exercício da profissão de químico incumbe ao Departamento Nacional do Trabalho no Distrito Federal e às autoridades regionais do Ministério do Trabalho, Industria e Comercio, nos Estados e Território do Acre.
+A fiscalização do exercício da profissão de químico incumbe ao Departamento Nacional do Trabalho no Distrito Federal e às autoridades regionais do Ministério do Trabalho, Industria e Comercio, nos Estados e Território do Acre.
 
 ##### Art. 343
 
@@ -2715,13 +2715,13 @@ Aqueles que exercerem a profissão de químico sem ter preenchido as condições
 
 Aos licenciados a que alude o § 1º do art. 325 poderão, por ato do Departamento Nacional do Trabalho, sujeito à aprovação do Ministro, ser cassadas as garantias asseguradas por esta Seção, desde que interrompam, por motivo de falta prevista no art. 346, a função pública ou particular em que se encontravam por ocasião da publicação do Decreto nº 24.693, de 12 de julho de 1934.
 
-##### Art. 349 - O
+##### Art. 349
 
-número de químicos estrangeiros a serviço de particulares, empresas ou companhias não poderá exceder de 1/3 (um terço) aos dos profissionais brasileiros compreendidos nos respectivos quadros.
+O número de químicos estrangeiros a serviço de particulares, empresas ou companhias não poderá exceder de 1/3 (um terço) aos dos profissionais brasileiros compreendidos nos respectivos quadros.
 
-##### Art. 350 - O
+##### Art. 350
 
-químico que assumir a direção técnica ou cargo de químico de qualquer usina, fábrica, ou laboratório indústrial ou de análise deverá, dentro de 24 (vinte e quatro) horas e por escrito, comunicar essa ocorrência ao órgão fiscalizador, contraindo, desde essa data, a responsabilidade da parte técnica referente à sua profissão, assim como a responsabilidade técnica dos produtos manufaturados.
+O químico que assumir a direção técnica ou cargo de químico de qualquer usina, fábrica, ou laboratório indústrial ou de análise deverá, dentro de 24 (vinte e quatro) horas e por escrito, comunicar essa ocorrência ao órgão fiscalizador, contraindo, desde essa data, a responsabilidade da parte técnica referente à sua profissão, assim como a responsabilidade técnica dos produtos manufaturados.
 
 § 1º - Firmando-se contrato entre o químico e o proprietário da usina fábrica, ou laboratório, será esse documento apresentado, dentro do prazo de 30 (trinta) dias, para registro, ao órgão fiscalizador.
 
@@ -2781,9 +2781,9 @@ o) nas empresas de mineração;
 
 Equiparam-se aos brasileiros, para os fins deste Capítulo, ressalvado o exercício de profissões reservadas aos brasileiros natos ou aos brasileiros em geral, os estrangeiros que, residindo no País há mais de dez anos, tenham cônjuge ou filho brasileiro, e os portugueses. (Redação dada pela Lei nº 6.651, de 23.5.1979)
 
-##### Art. 354 - A
+##### Art. 354
 
-proporcionalidade será de 2/3 (dois terços) de empregados brasileiros, podendo, entretanto, ser fixada proporcionalidade inferior, em atenção às circunstâncias especiais de cada atividade, mediante ato do Poder Executivo, e depois de devidamente apurada pelo Departamento Nacional do Trabalho e pelo Serviço de Estatística de Previdência e Trabalho a insuficiência do número de brasileiros na atividade de que se tratar.
+A proporcionalidade será de 2/3 (dois terços) de empregados brasileiros, podendo, entretanto, ser fixada proporcionalidade inferior, em atenção às circunstâncias especiais de cada atividade, mediante ato do Poder Executivo, e depois de devidamente apurada pelo Departamento Nacional do Trabalho e pelo Serviço de Estatística de Previdência e Trabalho a insuficiência do número de brasileiros na atividade de que se tratar.
 
 Parágrafo único - A proporcionalidade é obrigatória não só em relação à totalidade do quadro de empregados, com as exceções desta Lei, como ainda em relação à correspondente folha de salários.
 
@@ -2849,9 +2849,9 @@ As repartições às quais competir a fiscalização do disposto no presente Cap
 
 #### SEÇÃO III — DAS PENALIDADES
 
-##### Art. 363 - O
+##### Art. 363
 
-processo das infrações do presente Capítulo obedecerá ao disposto no Título "Do Processo de Multas Administrativas", no que lhe for aplicável, com observância dos modelos de auto a serem expedidos.
+O processo das infrações do presente Capítulo obedecerá ao disposto no Título "Do Processo de Multas Administrativas", no que lhe for aplicável, com observância dos modelos de auto a serem expedidos.
 
 ##### Art. 364
 
@@ -2861,29 +2861,29 @@ Parágrafo único - Em se tratando de empresa concessionária de serviço públi
 
 #### SEÇÃO IV — DISPOSIÇÕES GERAIS
 
-##### Art. 365 - O
+##### Art. 365
 
-presente Capítulo não derroga as restrições vigentes quanto às exigências de nacionalidade brasileira para o exercício de determinadas profissões nem as que vigoram para as faixas de fronteiras, na conformidade da respectiva legislação.
+O presente Capítulo não derroga as restrições vigentes quanto às exigências de nacionalidade brasileira para o exercício de determinadas profissões nem as que vigoram para as faixas de fronteiras, na conformidade da respectiva legislação.
 
 ##### Art. 366
 
 Enquanto não for expedida a carteira a que se refere o art. 359 deste Capítulo, valerá, a titulo precário, como documento hábil, uma certidão, passada pelo serviço competente do Registro de Estrangeiros, provando que o empregado requereu sua permanência no País.
 
-##### Art. 367 - A
+##### Art. 367
 
-redução a que se refere o art. 354, enquanto o Serviço de Estatística da Previdência e Trabalho não dispuser dos dados estatísticos necessários à fixação da proporcionalidade conveniente para cada atividade, poderá ser feita por ato do Ministro do Trabalho, Industria e Comercio, mediante representação fundamentada da associação sindical.
+A redução a que se refere o art. 354, enquanto o Serviço de Estatística da Previdência e Trabalho não dispuser dos dados estatísticos necessários à fixação da proporcionalidade conveniente para cada atividade, poderá ser feita por ato do Ministro do Trabalho, Industria e Comercio, mediante representação fundamentada da associação sindical.
 
 Parágrafo único - O Serviço de Estatística da Previdência e Trabalho deverá promover, e manter em dia, estudos necessários aos fins do presente Capítulo.
 
 #### SEÇÃO V — DAS DISPOSIÇÕES ESPECIAIS SOBRE A NACIONALIZAÇÃO DA MARINHA MERCANTE
 
-##### Art. 368 - O
+##### Art. 368
 
-comando de navio mercante nacional só poderá ser exercido por brasileiro nato.
+O comando de navio mercante nacional só poderá ser exercido por brasileiro nato.
 
-##### Art. 369 - A
+##### Art. 369
 
-tripulação de navio ou embarcação nacional será constituída, pelo menos, de 2/3 (dois terços) de brasileiros natos. (Redação dada pela Lei nº 5.683, de 21.7.1971)
+A tripulação de navio ou embarcação nacional será constituída, pelo menos, de 2/3 (dois terços) de brasileiros natos. (Redação dada pela Lei nº 5.683, de 21.7.1971)
 
 Parágrafo único - O disposto neste artigo não se aplica aos navios nacionais de pesca, sujeitos a legislação específica. (Incluído pela Lei nº 5.683, de 21.7.1971)
 
@@ -2893,9 +2893,9 @@ As empresas de navegação organizarão as relações dos tripulantes das respec
 
 Parágrafo único - As relações a que alude o presente artigo obedecerão, na discriminação hierárquica e funcional do pessoal embarcadiço, ao quadro aprovado pelo regulamento das Capitanias dos Portos.
 
-##### Art. 371 - A
+##### Art. 371
 
-presente Seção é também aplicável aos serviços de navegação fluvial e lacustre e à praticagem nas barras, portos, rios, lagos e canais.
+A presente Seção é também aplicável aos serviços de navegação fluvial e lacustre e à praticagem nas barras, portos, rios, lagos e canais.
 
 ### CAPÍTULO III — DA PROTEÇÃO DO TRABALHO DA MULHER
 
@@ -2909,9 +2909,9 @@ Os preceitos que regulam o trabalho masculino são aplicáveis ao trabalho femin
 
 Parágrafo único - (Revogado pela Lei nº 13.467, de 2017)
 
-##### Art. 373 - A
+##### Art. 373
 
-duração normal de trabalho da mulher será de 8 (oito) horas diárias, exceto nos casos para os quais for fixada duração inferior.
+A duração normal de trabalho da mulher será de 8 (oito) horas diárias, exceto nos casos para os quais for fixada duração inferior.
 
 ##### Art. 373-A
 
@@ -2943,9 +2943,9 @@ Parágrafo único. O disposto neste artigo não obsta a adoção de medidas temp
 
 (Revogado pela Lei nº 10.244, de 2001)
 
-##### Art. 377 - A
+##### Art. 377
 
-adoção de medidas de proteção ao trabalho das mulheres é considerada de ordem pública, não justificando, em hipótese alguma, a redução de salário.
+A adoção de medidas de proteção ao trabalho das mulheres é considerada de ordem pública, não justificando, em hipótese alguma, a redução de salário.
 
 ##### Art. 378.
 
@@ -2961,9 +2961,9 @@ adoção de medidas de proteção ao trabalho das mulheres é considerada de ord
 
 (Revogado pela Lei nº 7.855, de 24.10.1989)
 
-##### Art. 381 - O
+##### Art. 381
 
-trabalho noturno das mulheres terá salário superior ao diurno.
+O trabalho noturno das mulheres terá salário superior ao diurno.
 
 § 1º - Para os fins desse artigo, os salários serão acrescidos duma percentagem adicional de 20% (vinte por cento) no mínimo.
 
@@ -2983,9 +2983,9 @@ Durante a jornada de trabalho, será concedido à empregada um período para ref
 
 (Revogado pela Lei nº 13.467, de 2017)
 
-##### Art. 385 - O
+##### Art. 385
 
-descanso semanal será de 24 (vinte e quatro) horas consecutivas e coincidirá no todo ou em parte com o domingo, salvo motivo de conveniência pública ou necessidade imperiosa de serviço, a juízo da autoridade competente, na forma das disposições gerais, caso em que recairá em outro dia.
+O descanso semanal será de 24 (vinte e quatro) horas consecutivas e coincidirá no todo ou em parte com o domingo, salvo motivo de conveniência pública ou necessidade imperiosa de serviço, a juízo da autoridade competente, na forma das disposições gerais, caso em que recairá em outro dia.
 
 Parágrafo único - Observar-se-ão, igualmente, os preceitos da legislação geral sobre a proibição de trabalho nos feriados civis e religiosos.
 
@@ -3139,17 +3139,17 @@ Para amamentar seu filho, inclusive se advindo de adoção, até que este comple
 
 § 2º Os horários dos descansos previstos no caput deste artigo deverão ser definidos em acordo individual entre a mulher e o empregador. (Incluído pela Lei nº 13.467, de 2017)
 
-##### Art. 397 - O
+##### Art. 397
 
-SESI, o SESC, a LBA e outras entidades públicas destinadas à assistência à infância manterão ou subvencionarão, de acordo com suas possibilidades financeiras, escolas maternais e jardins de infância, distribuídos nas zonas de maior densidade de trabalhadores, destinados especialmente aos filhos das mulheres empregadas. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+O SESI, o SESC, a LBA e outras entidades públicas destinadas à assistência à infância manterão ou subvencionarão, de acordo com suas possibilidades financeiras, escolas maternais e jardins de infância, distribuídos nas zonas de maior densidade de trabalhadores, destinados especialmente aos filhos das mulheres empregadas. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
 ##### Art. 398
 
 (Revogado pelo Decreto-Lei nº 229, de 28.2.1967)
 
-##### Art. 399 - O
+##### Art. 399
 
-Ministro do Trabalho, Industria e Comercio conferirá diploma de benemerência aos empregadores que se distinguirem pela organização e manutenção de creches e de instituições de proteção aos menores em idade pré-escolar, desde que tais serviços se recomendem por sua generosidade e pela eficiência das respectivas instalações.
+O Ministro do Trabalho, Industria e Comercio conferirá diploma de benemerência aos empregadores que se distinguirem pela organização e manutenção de creches e de instituições de proteção aos menores em idade pré-escolar, desde que tais serviços se recomendem por sua generosidade e pela eficiência das respectivas instalações.
 
 ##### Art. 400
 
@@ -3227,9 +3227,9 @@ d) consistente na venda, a varejo, de bebidas alcoólicas. (Incluída pelo Decre
 
 § 5º Aplica-se ao menor o disposto no art. 390 e seu parágrafo único. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
 
-##### Art. 406 - O
+##### Art. 406
 
-Juiz de Menores poderá autorizar ao menor o trabalho a que se referem as letras "a" e "b" do § 3º do art. 405: (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+O Juiz de Menores poderá autorizar ao menor o trabalho a que se referem as letras "a" e "b" do § 3º do art. 405: (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
 I - desde que a representação tenha fim educativo ou a peça de que participe não possa ser prejudicial à sua formação moral; (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
@@ -3249,15 +3249,15 @@ Ao responsável legal do menor é facultado pleitear a extinção do contrato de
 
 Para maior segurança do trabalho e garantia da saúde dos menores, a autoridade fiscalizadora poderá proibir-lhes o gozo dos períodos de repouso nos locais de trabalho.
 
-##### Art. 410 - O
+##### Art. 410
 
-Ministro do Trabalho, Industria e Comercio poderá derrogar qualquer proibição decorrente do quadro a que se refere a alínea "a" do art. 405 quando se certificar haver desaparecido, parcial ou totalmente, o caráter perigoso ou insalubre, que determinou a proibição.
+O Ministro do Trabalho, Industria e Comercio poderá derrogar qualquer proibição decorrente do quadro a que se refere a alínea "a" do art. 405 quando se certificar haver desaparecido, parcial ou totalmente, o caráter perigoso ou insalubre, que determinou a proibição.
 
 #### SEÇÃO II — DA DURAÇÃO DO TRABALHO
 
-##### Art. 411 - A
+##### Art. 411
 
-duração do trabalho do menor regular-se-á pelas disposições legais relativas à duração do trabalho em geral, com as restrições estabelecidas neste Capítulo.
+A duração do trabalho do menor regular-se-á pelas disposições legais relativas à duração do trabalho em geral, com as restrições estabelecidas neste Capítulo.
 
 ##### Art. 412
 
@@ -3313,9 +3313,9 @@ Os menores de 18 anos só poderão ser admitidos, como empregados, nas empresas 
 
 (Revogado pela Lei nº 13.874, de 2019)
 
-##### Art. 423 - O
+##### Art. 423
 
-empregador não poderá fazer outras anotações na carteira de trabalho e previdência social além das referentes ao salário, data da admissão, férias e saída. (Vide Lei nº 5.686, de 1971)
+O empregador não poderá fazer outras anotações na carteira de trabalho e previdência social além das referentes ao salário, data da admissão, férias e saída. (Vide Lei nº 5.686, de 1971)
 
 #### SEÇÃO IV — DOS DEVERES DOS RESPONSÁVEIS LEGAIS DE MENORES E DOS EMPREGADORES DA APRENDIZAGEM
 
@@ -3331,9 +3331,9 @@ Os empregadores de menores de 18 (dezoito) anos são obrigados a velar pela obse
 
 É dever do empregador, na hipótese do art. 407, proporcionar ao menor todas as facilidades para mudar de serviço.
 
-##### Art. 427 - O
+##### Art. 427
 
-empregador, cuja empresa ou estabelecimento ocupar menores, será obrigado a conceder-lhes o tempo que for necessário para a freqüência às aulas.
+O empregador, cuja empresa ou estabelecimento ocupar menores, será obrigado a conceder-lhes o tempo que for necessário para a freqüência às aulas.
 
 Parágrafo único - Os estabelecimentos situados em lugar onde a escola estiver a maior distância que 2 (dois) quilômetros, e que ocuparem, permanentemente, mais de 30 (trinta) menores analfabetos, de 14 (quatorze) a 18 (dezoito) anos, serão obrigados a manter local apropriado em que lhes seja ministrada a instrução primária.
 
@@ -3473,9 +3473,9 @@ Parágrafo único - O processo, na verificação das infrações, bem como na ap
 
 Contra os menores de 18 (dezoito) anos não corre nenhum prazo de prescrição.
 
-##### Art. 441 - O
+##### Art. 441
 
-quadro a que se refere o item I do art. 405 será revisto bienalmente. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+O quadro a que se refere o item I do art. 405 será revisto bienalmente. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
 ## TÍTULO IV — DO CONTRATO INDIVIDUAL DO TRABALHO
 
@@ -3521,9 +3521,9 @@ As relações contratuais de trabalho podem ser objeto de livre estipulação da
 
 Parágrafo único. A livre estipulação a que se refere o caput deste artigo aplica-se às hipóteses previstas no art. 611-A desta Consolidação, com a mesma eficácia legal e preponderância sobre os instrumentos coletivos, no caso de empregado portador de diploma de nível superior e que perceba salário mensal igual ou superior a duas vezes o limite máximo dos benefícios do Regime Geral de Previdência Social. (Incluído pela Lei nº 13.467, de 2017)
 
-##### Art. 445 - O
+##### Art. 445
 
-contrato de trabalho por prazo determinado não poderá ser estipulado por mais de 2 (dois) anos, observada a regra do art. 451. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+O contrato de trabalho por prazo determinado não poderá ser estipulado por mais de 2 (dois) anos, observada a regra do art. 451. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
 Parágrafo único. O contrato de experiência não poderá exceder de 90 (noventa) dias. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
 
@@ -3535,9 +3535,9 @@ Parágrafo único. O contrato de experiência não poderá exceder de 90 (novent
 
 Na falta de acordo ou prova sobre condição essencial ao contrato verbal, esta se presume existente, como se a tivessem estatuído os interessados na conformidade dos preceitos jurídicos adequados à sua legitimidade.
 
-##### Art. 448 - A
+##### Art. 448
 
-mudança na propriedade ou na estrutura jurídica da empresa não afetará os contratos de trabalho dos respectivos empregados.
+A mudança na propriedade ou na estrutura jurídica da empresa não afetará os contratos de trabalho dos respectivos empregados.
 
 ##### Art. 448-A
 
@@ -3557,9 +3557,9 @@ Os direitos oriundos da existência do contrato de trabalho subsistirão em caso
 
 Ao empregado chamado a ocupar, em comissão, interinamente, ou em substituição eventual ou temporária, cargo diverso do que exercer na empresa, serão garantidas a contagem do tempo naquele serviço, bem como volta ao cargo anterior.
 
-##### Art. 451 - O
+##### Art. 451
 
-contrato de trabalho por prazo determinado que, tácita ou expressamente, for prorrogado mais de uma vez passará a vigorar sem determinação de prazo. (Vide Lei nº 9.601, de 1998)
+O contrato de trabalho por prazo determinado que, tácita ou expressamente, for prorrogado mais de uma vez passará a vigorar sem determinação de prazo. (Vide Lei nº 9.601, de 1998)
 
 ##### Art. 452
 
@@ -3675,9 +3675,9 @@ VIII - o valor correspondente ao vale-cultura. (Incluído pela Lei nº 12.761, d
 
 § 5º O valor relativo à assistência prestada por serviço médico ou odontológico, próprio ou não, inclusive o reembolso de despesas com medicamentos, óculos, aparelhos ortopédicos, próteses, órteses, despesas médico-hospitalares e outras similares, mesmo quando concedido em diferentes modalidades de planos e coberturas, não integram o salário do empregado para qualquer efeito nem o salário de contribuição, para efeitos do previsto na alínea q do § 9º do art. 28 da Lei nº 8.212, de 24 de julho de 1991. (Incluído pela Lei nº 13.467, de 2017)
 
-##### Art. 459 - O
+##### Art. 459
 
-pagamento do salário, qualquer que seja a modalidade do trabalho, não deve ser estipulado por período superior a 1 (um) mês, salvo no que concerne a comissões, percentagens e gratificações.
+O pagamento do salário, qualquer que seja a modalidade do trabalho, não deve ser estipulado por período superior a 1 (um) mês, salvo no que concerne a comissões, percentagens e gratificações.
 
 § 1º Quando o pagamento houver sido estipulado por mês, deverá ser efetuado, o mais tardar, até o quinto dia útil do mês subsequente ao vencido. (Redação dada pela Lei nº 7.855, de 24.10.1989)
 
@@ -3715,15 +3715,15 @@ Ao empregador é vedado efetuar qualquer desconto nos salários do empregado, sa
 
 § 4º - Observado o disposto neste Capítulo, é vedado às emprêsas limitar, por qualquer forma, a liberdade dos empregados de dispôr do seu salário. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
 
-##### Art. 463 - A
+##### Art. 463
 
-prestação, em espécie, do salário será paga em moeda corrente do País.
+A prestação, em espécie, do salário será paga em moeda corrente do País.
 
 Parágrafo único - O pagamento do salário realizado com inobservância deste artigo considera-se como não feito.
 
-##### Art. 464 - O
+##### Art. 464
 
-pagamento do salário deverá ser efetuado contra recibo, assinado pelo empregado; em se tratando de analfabeto, mediante sua impressão digital, ou, não sendo esta possível, a seu rogo.
+O pagamento do salário deverá ser efetuado contra recibo, assinado pelo empregado; em se tratando de analfabeto, mediante sua impressão digital, ou, não sendo esta possível, a seu rogo.
 
 Parágrafo único. Terá força de recibo o comprovante de depósito em conta bancária, aberta para esse fim em nome de cada empregado, com o consentimento deste, em estabelecimento de crédito próximo ao local de trabalho. (Parágrafo incluído pela Lei nº 9.528, de 10.12.1997)
 
@@ -3731,9 +3731,9 @@ Parágrafo único. Terá força de recibo o comprovante de depósito em conta ba
 
 pagamento dos salários será efetuado em dia útil e no local do trabalho, dentro do horário do serviço ou imediatamente após o encerramento deste, salvo quando efetuado por depósito em conta bancária, observado o disposto no artigo anterior. (Redação dada pela Lei nº 9.528, de 10.12.1997)
 
-##### Art. 466 - O
+##### Art. 466
 
-pagamento de comissões e percentagens só é exigível depois de ultimada a transação a que se referem.
+O pagamento de comissões e percentagens só é exigível depois de ultimada a transação a que se referem.
 
 § 1º - Nas transações realizadas por prestações sucessivas, é exigível o pagamento das percentagens e comissões que lhes disserem respeito proporcionalmente à respectiva liquidação.
 
@@ -3783,9 +3783,9 @@ As despesas resultantes da transferência correrão por conta do empregador. (Re
 
 Ao empregado afastado do emprego, são asseguradas, por ocasião de sua volta, todas as vantagens que, em sua ausência, tenham sido atribuídas à categoria a que pertencia na empresa.
 
-##### Art. 472 - O
+##### Art. 472
 
-afastamento do empregado em virtude das exigências do serviço militar, ou de outro encargo público, não constituirá motivo para alteração ou rescisão do contrato de trabalho por parte do empregador.
+O afastamento do empregado em virtude das exigências do serviço militar, ou de outro encargo público, não constituirá motivo para alteração ou rescisão do contrato de trabalho por parte do empregador.
 
 § 1º - Para que o empregado tenha direito a voltar a exercer o cargo do qual se afastou em virtude de exigências do serviço militar ou de encargo público, é indispensável que notifique o empregador dessa intenção, por telegrama ou carta registrada, dentro do prazo máximo de 30 (trinta) dias, contados da data em que se verificar a respectiva baixa ou a terminação do encargo a que estava obrigado.
 
@@ -3797,9 +3797,9 @@ afastamento do empregado em virtude das exigências do serviço militar, ou de o
 
 § 5º - Durante os primeiros 90 (noventa) dias desse afastamento, o empregado continuará percebendo sua remuneração. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)
 
-##### Art. 473 - O
+##### Art. 473
 
-empregado poderá deixar de comparecer ao serviço sem prejuízo do salário: (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+O empregado poderá deixar de comparecer ao serviço sem prejuízo do salário: (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
 I - até 2 (dois) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que, declarada em sua carteira de trabalho e previdência social, viva sob sua dependência econômica; (Inciso incluído pelo Decreto-lei nº 229, de 28.2.1967)
 
@@ -3831,13 +3831,13 @@ XII - até 3 (três) dias, em cada 12 (doze) meses de trabalho, em caso de reali
 
 § 3º O empregador informará o empregado sobre a possibilidade de deixar de comparecer ao serviço para a realização de exames preventivos do papilomavírus humano (HPV) e de câncer, nos termos do inciso XII do caput deste artigo. (Incluído pela Lei nº 15.377, de 2026)
 
-##### Art. 474 - A
+##### Art. 474
 
-suspensão do empregado por mais de 30 (trinta) dias consecutivos importa na rescisão injusta do contrato de trabalho.
+A suspensão do empregado por mais de 30 (trinta) dias consecutivos importa na rescisão injusta do contrato de trabalho.
 
-##### Art. 475 - O
+##### Art. 475
 
-empregado que for aposentado por invalidez terá suspenso o seu contrato de trabalho durante o prazo fixado pelas leis de previdência social para a efetivação do benefício.
+O empregado que for aposentado por invalidez terá suspenso o seu contrato de trabalho durante o prazo fixado pelas leis de previdência social para a efetivação do benefício.
 
 § 1º - Recuperando o empregado a capacidade de trabalho e sendo a aposentadoria cancelada, ser-lhe-á assegurado o direito à função que ocupava ao tempo da aposentadoria, facultado, porém, ao empregador, o direito de indenizá-lo por rescisão do contrato de trabalho, nos termos dos arts. 477 e 478, salvo na hipótese de ser ele portador de estabilidade, quando a indenização deverá ser paga na forma do art. 497. (Redação dada pela Lei nº 4.824, de 5.11.1965)
 
@@ -3907,9 +3907,9 @@ As dispensas imotivadas individuais, plúrimas ou coletivas equiparam-se para to
 
 Plano de Demissão Voluntária ou Incentivada, para dispensa individual, plúrima ou coletiva, previsto em convenção coletiva ou acordo coletivo de trabalho, enseja quitação plena e irrevogável dos direitos decorrentes da relação empregatícia, salvo disposição em contrário estipulada entre as partes. (Incluído pela Lei nº 13.467, de 2017)
 
-##### Art. 478 - A
+##### Art. 478
 
-indenização devida pela rescisão de contrato por prazo indeterminado será de 1 (um) mês de remuneração por ano de serviço efetivo, ou por ano e fração igual ou superior a 6 (seis) meses. (Vide Lei nº 2.959, de 1956)
+A indenização devida pela rescisão de contrato por prazo indeterminado será de 1 (um) mês de remuneração por ano de serviço efetivo, ou por ano e fração igual ou superior a 6 (seis) meses. (Vide Lei nº 2.959, de 1956)
 
 § 1º - O primeiro ano de duração do contrato por prazo indeterminado é considerado como período de experiência, e, antes que se complete, nenhuma indenização será devida.
 
@@ -3971,9 +3971,9 @@ m) perda da habilitação ou dos requisitos estabelecidos em lei para o exercíc
 
 Parágrafo único - Constitui igualmente justa causa para dispensa de empregado a prática, devidamente comprovada em inquérito administrativo, de atos atentatórios à segurança nacional. (Incluído pelo Decreto-lei nº 3, de 27.1.1966)
 
-##### Art. 483 - O
+##### Art. 483
 
-empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:
+O empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:
 
 a) forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;
 
@@ -4053,9 +4053,9 @@ II - trinta dias aos que perceberem por quinzena ou mês, ou que tenham mais de 
 
 § 6º O reajustamento salarial coletivo, determinado no curso do aviso prévio, beneficia o empregado pré-avisado da despedida, mesmo que tenha recebido antecipadamente os salários correspondentes ao período do aviso, que integra seu tempo de serviço para todos os efeitos legais. (Parágrafo incluído pela Lei nº 10.218, de 11.4.2001)
 
-##### Art. 488 - O
+##### Art. 488
 
-horário normal de trabalho do empregado, durante o prazo do aviso, e se a rescisão tiver sido promovida pelo empregador, será reduzido de 2 (duas) horas diárias, sem prejuízo do salário integral.
+O horário normal de trabalho do empregado, durante o prazo do aviso, e se a rescisão tiver sido promovida pelo empregador, será reduzido de 2 (duas) horas diárias, sem prejuízo do salário integral.
 
 Parágrafo único - É facultado ao empregado trabalhar sem a redução das 2 (duas) horas diárias previstas neste artigo, caso em que poderá faltar ao serviço, sem prejuízo do salário integral, por 1 (um) dia, na hipótese do inciso l, e por 7 (sete) dias corridos, na hipótese do inciso lI do art. 487 desta Consolidação. (Incluído pela Lei nº 7.093, de 25.4.1983)
 
@@ -4065,19 +4065,19 @@ Dado o aviso prévio, a rescisão torna-se efetiva depois de expirado o respecti
 
 Parágrafo único - Caso seja aceita a reconsideração ou continuando a prestação depois de expirado o prazo, o contrato continuará a vigorar, como se o aviso prévio não tivesse sido dado.
 
-##### Art. 490 - O
+##### Art. 490
 
-empregador que, durante o prazo do aviso prévio dado ao empregado, praticar ato que justifique a rescisão imediata do contrato, sujeita-se ao pagamento da remuneração correspondente ao prazo do referido aviso, sem prejuízo da indenização que for devida.
+O empregador que, durante o prazo do aviso prévio dado ao empregado, praticar ato que justifique a rescisão imediata do contrato, sujeita-se ao pagamento da remuneração correspondente ao prazo do referido aviso, sem prejuízo da indenização que for devida.
 
-##### Art. 491 - O
+##### Art. 491
 
-empregado que, durante o prazo do aviso prévio, cometer qualquer das faltas consideradas pela lei como justas para a rescisão, perde o direito ao restante do respectivo prazo.
+O empregado que, durante o prazo do aviso prévio, cometer qualquer das faltas consideradas pela lei como justas para a rescisão, perde o direito ao restante do respectivo prazo.
 
 ### CAPÍTULO VII — DA ESTABILIDADE
 
-##### Art. 492 - O
+##### Art. 492
 
-empregado que contar mais de 10 (dez) anos de serviço na mesma empresa não poderá ser despedido senão por motivo de falta grave ou circunstância de força maior, devidamente comprovadas.
+O empregado que contar mais de 10 (dez) anos de serviço na mesma empresa não poderá ser despedido senão por motivo de falta grave ou circunstância de força maior, devidamente comprovadas.
 
 Parágrafo único - Considera-se como de serviço todo o tempo em que o empregado esteja à disposição do empregador.
 
@@ -4085,9 +4085,9 @@ Parágrafo único - Considera-se como de serviço todo o tempo em que o empregad
 
 Constitui falta grave a prática de qualquer dos fatos a que se refere o art. 482, quando por sua repetição ou natureza representem séria violação dos deveres e obrigações do empregado.
 
-##### Art. 494 - O
+##### Art. 494
 
-empregado acusado de falta grave poderá ser suspenso de suas funções, mas a sua despedida só se tornará efetiva após o inquérito e que se verifique a procedência da acusação.
+O empregado acusado de falta grave poderá ser suspenso de suas funções, mas a sua despedida só se tornará efetiva após o inquérito e que se verifique a procedência da acusação.
 
 Parágrafo único - A suspensão, no caso deste artigo, perdurará até a decisão final do processo.
 
@@ -4117,9 +4117,9 @@ Não haverá estabilidade no exercício dos cargos de diretoria, gerência ou ou
 
 § 3º - A despedida que se verificar com o fim de obstar ao empregado a aquisição de estabilidade sujeitará o empregador a pagamento em dobro da indenização prescrita nos arts. 477 e 478.
 
-##### Art. 500 - O
+##### Art. 500
 
-pedido de demissão do empregado estável só será válido quando feito com a assistência do respectivo Sindicato e, se não o houver, perante autoridade local competente do Ministério do Trabalho e Previdência Social ou da Justiça do Trabalho. (Revigorado com nova redação, pela Lei nº 5.584, de 26.6.1970)
+O pedido de demissão do empregado estável só será válido quando feito com a assistência do respectivo Sindicato e, se não o houver, perante autoridade local competente do Ministério do Trabalho e Previdência Social ou da Justiça do Trabalho. (Revigorado com nova redação, pela Lei nº 5.584, de 26.6.1970)
 
 ### CAPÍTULO VIII — DA FORÇA MAIOR
 
@@ -4361,9 +4361,9 @@ f) as condições em que se dissolverá associação.
 
 § 2º O processo de reconhecimento será regulado em instruções baixadas pelo ministro do Trabalho, Indústria e Comércio.
 
-##### Art. 519 - A
+##### Art. 519
 
-investidura sindical será conferida sempre à associação profissional mais representativa, a juízo do Ministro do Trabalho, constituindo elementos para essa apreciação, entre outros:
+A investidura sindical será conferida sempre à associação profissional mais representativa, a juízo do Ministro do Trabalho, constituindo elementos para essa apreciação, entre outros:
 
 a) o número de associados;
 
@@ -4567,9 +4567,9 @@ pedido de reconhecimento de uma federação será dirigido ao ministro do Trabal
 
 § 3º O reconhecimento das confederações será feito por decreto do Presidente da República.
 
-##### Art. 538 - A
+##### Art. 538
 
-administração das federações e confederações será exercida pelos seguintes órgãos: (Redação dada pela Lei nº 2.693, de 23.12.1955)
+A administração das federações e confederações será exercida pelos seguintes órgãos: (Redação dada pela Lei nº 2.693, de 23.12.1955)
 
 a) Diretoria; (Redação dada pela Lei nº 2.693, de 23.12.1955)
 
@@ -4611,9 +4611,9 @@ Parágrafo único - O disposto neste artigo se aplica aos Sindicatos em relaçã
 
 De todo o ato lesivo de direitos ou contrário a esta lei, emanado da Diretoria, do Conselho ou da Assembléia Geral da entidade sindical, poderá qualquer exercente de atividade ou profissão recorrer, dentro de 30 dias, para a autoridade competente do Ministério do Trabalho, Indústria e Comércio.
 
-##### Art. 543 - O
+##### Art. 543
 
-empregado eleito para cargo de administração sindical ou representação profissional, inclusive junto a órgão de deliberação coletiva, não poderá ser impedido do exercício de suas funções, nem transferido para lugar ou mister que lhe dificulte ou torne impossível o desempenho das suas atribuições sindicais. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+O empregado eleito para cargo de administração sindical ou representação profissional, inclusive junto a órgão de deliberação coletiva, não poderá ser impedido do exercício de suas funções, nem transferido para lugar ou mister que lhe dificulte ou torne impossível o desempenho das suas atribuições sindicais. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
 § 1º - O empregado perderá o mandato se a transferência fôr por êle solicitada ou voluntàriamente aceita. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
@@ -4681,9 +4681,9 @@ d) as doações e legados;
 
 e) as multas e outras rendas eventuais.
 
-##### Art. 549 - A
+##### Art. 549
 
-receita dos sindicatos, federações e confederações só poderá ter aplicação na forma prevista nos respectivos orçamentos anuais, obedecidas as disposições estabelecidas na lei e nos seus estatutos. (Redação dada pela Lei nº 6.386, de 9.12.1976)
+A receita dos sindicatos, federações e confederações só poderá ter aplicação na forma prevista nos respectivos orçamentos anuais, obedecidas as disposições estabelecidas na lei e nos seus estatutos. (Redação dada pela Lei nº 6.386, de 9.12.1976)
 
 § 1º Para alienação, locação ou aquisição de bens imóveis, ficam as entidades sindicais obrigadas a realizar avaliação prévia pela Caixa Econômica Federal ou pele Banco Nacional da Habitação ou, ainda, por qualquer outra organização legalmente habilitada a tal fim. (Incluído pela Lei nº 6.386, de 9.12.1976)
 
@@ -4817,17 +4817,17 @@ São obrigadas ao registro todas as associações profissionais constituídas po
 
 § 3º - As alterações dos estatutos das associações profissionais não entrarão em vigor sem aprovação da autoridade que houver concedido o respectivo registro.
 
-##### Art. 559 - O
+##### Art. 559
 
-Presidente da República, excepcionalmente e mediante proposta do Ministro do Trabalho, fundada em razões de utilidade pública, poderá conceder, por decreto, às associações civis constituídas para a defesa e coordenação de interesses econômicos e profissionais e não obrigadas ao registro previsto no artigo anterior, a prerrogativa da alínea "d" do art. 513 deste Capítulo.
+O Presidente da República, excepcionalmente e mediante proposta do Ministro do Trabalho, fundada em razões de utilidade pública, poderá conceder, por decreto, às associações civis constituídas para a defesa e coordenação de interesses econômicos e profissionais e não obrigadas ao registro previsto no artigo anterior, a prerrogativa da alínea "d" do art. 513 deste Capítulo.
 
 ##### Art. 560
 
 Não se reputará transmissão de bens, para efeitos fiscais, a incorporação do patrimônio de uma associação profissional ao da entidade sindical, ou das entidades aludidas entre si.
 
-##### Art. 561 - A
+##### Art. 561
 
-denominação "sindicato" é privativa das associações profissionais de primeiro grau, reconhecidas na forma desta Lei.
+A denominação "sindicato" é privativa das associações profissionais de primeiro grau, reconhecidas na forma desta Lei.
 
 ##### Art. 562
 
@@ -4881,9 +4881,9 @@ Os sindicatos que se constituirem por categorias similares ou conexas, nos termo
 
 Parágrafo único - Ocorrendo a hipótese do artigo anterior, o Sindicato principal terá a denominação alterada, eliminando-se-lhe a designação relativa à atividade ou profissão dissociada.
 
-##### Art. 573 - O
+##### Art. 573
 
-agrupamento dos Sindicatos em Federações obedecerá às mesmas regras que as estabelecidas neste Capítulo para o agrupamento das atividades e profissões em Sindicatos.
+O agrupamento dos Sindicatos em Federações obedecerá às mesmas regras que as estabelecidas neste Capítulo para o agrupamento das atividades e profissões em Sindicatos.
 
 Parágrafo único - As Federações de Sindicatos de profissões liberais poderão ser organizadas independentemente do grupo básico da Confederação, sempre que as respectivas profissões se acharem submetidas, por disposições de lei, a um único regulamento. (Parágrafo 1º renumerado pelo Decreto-lei nº 229, de 28.2.1967)
 
@@ -4901,9 +4901,9 @@ quadro de atividades e profissões será revisto de dois em dois anos, por propo
 
 § 2º - A proposta de revisão será submetida à aprovação do Ministro do Trabalho, Industria e Comercio.
 
-##### Art. 576 - A
+##### Art. 576
 
-Comissão do Enquadramento Sindical será constituída pelo Diretor-Geral do Departamento Nacional do Trabalho, que a presidirá, e pelos seguintes membros: (Redação dada pela Lei nº 5.819, de 6.11.1972)
+A Comissão do Enquadramento Sindical será constituída pelo Diretor-Geral do Departamento Nacional do Trabalho, que a presidirá, e pelos seguintes membros: (Redação dada pela Lei nº 5.819, de 6.11.1972)
 
 I - 2 (dois) representantes do Departamento Nacional do Trabalho; (Redação dada pela Lei nº 5.819, de 6.11.1972)
 
@@ -4937,9 +4937,9 @@ c) eleição pelas respectivas Confederações, em conjunto, quanto aos represen
 
 § 6º - Além das atribuições fixadas no presente Capítulo e concernentes ao enquadramento sindical, individual ou coletivo, e à classificação das atividades e profissões, competirá também à CES resolver, com recurso para o Ministro do Trabalho e Previdência Social, tôdas as dúvidas e controvérsias concernentes à organização sindical. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
 
-##### Art. 577 - O
+##### Art. 577
 
-Quadro de Atividades e Profissões em vigor fixará o plano básico do enquadramento sindical.
+O Quadro de Atividades e Profissões em vigor fixará o plano básico do enquadramento sindical.
 
 ### CAPÍTULO III — DA CONTRIBUIÇÃO SINDICAL
 
@@ -5103,9 +5103,9 @@ Parágrafo único. Na hipótese do caput deste artigo, os percentuais previstos 
 
 #### SEÇÃO II — DA APLICAÇÃO DO IMPOSTO SINDICAL
 
-##### Art. 592 - A
+##### Art. 592
 
-contribuição sindical, além das despesas vinculadas à sua arrecadação, recolhimento e controle, será aplicada pelos sindicatos, na conformidade dos respectivos estatutos, usando aos seguintes objetivos: (Redação dada pela Lei nº 6.386, de 9.12.1976) (Vide Lei nº 11.648, de 2008)
+A contribuição sindical, além das despesas vinculadas à sua arrecadação, recolhimento e controle, será aplicada pelos sindicatos, na conformidade dos respectivos estatutos, usando aos seguintes objetivos: (Redação dada pela Lei nº 6.386, de 9.12.1976) (Vide Lei nº 11.648, de 2008)
 
 I - Sindicatos de empregadores e de agentes autônomos: (Redação dada pela Lei nº 6.386, de 9.12.1976)
 
@@ -5231,9 +5231,9 @@ As percentagens atribuídas às entidades sindicais de grau superior e às centr
 
 Parágrafo único. Os recursos destinados às centrais sindicais deverão ser utilizados no custeio das atividades de representação geral dos trabalhadores decorrentes de suas atribuições legais. (Incluído pela Lei nº 11.648, de 2008)
 
-##### Art. 594 - O
+##### Art. 594
 
-"Fundo Social Sindical" será gerido e aplicado pela Comissão do Imposto Sindical em objetivos que atendam aos interesses gerais da organização sindical nacional ou à assistência social aos trabalhadores. (Redação dada pelo Decreto-lei nº 9.615, de 20.8.1946) (Vide Lei nº 4.589, de 1964) (Vide Lei nº 11.648, de 2008)
+O "Fundo Social Sindical" será gerido e aplicado pela Comissão do Imposto Sindical em objetivos que atendam aos interesses gerais da organização sindical nacional ou à assistência social aos trabalhadores. (Redação dada pelo Decreto-lei nº 9.615, de 20.8.1946) (Vide Lei nº 4.589, de 1964) (Vide Lei nº 11.648, de 2008)
 
 #### SEÇÃO III — DA COMISSÃO DO IMPOSTO SINDICAL
 
@@ -5261,9 +5261,9 @@ Parágrafo único - A gradação da multa atenderá à natureza da infração e 
 
 Para os profissionais liberais, a penalidade consistirá na suspensão do exercício profissional, até a necessária quitação, e será aplicada pelos órgãos públicos ou autárquicos disciplinadores das respectivas profissões mediante comunicação das autoridades fiscalizadoras. (Vide Lei nº 11.648, de 2008)
 
-##### Art. 600 - O
+##### Art. 600
 
-recolhimento da contribuição sindical efetuado fora do prazo referido neste Capítulo, quando espontâneo, será acrescido da multa de 10% (dez por cento), nos 30 (trinta) primeiros dias, com o adicional de 2% (dois por cento) por mês subseqüente de atraso, além de juros de mora de 1 % (um por cento) ao mês e correção monetária, ficando, nesse caso, o infrator, isento de outra penalidade. (Redação dada pela Lei nº 6.181, de 11.12.1974) (Vide Lei nº 11.648, de 2008)
+O recolhimento da contribuição sindical efetuado fora do prazo referido neste Capítulo, quando espontâneo, será acrescido da multa de 10% (dez por cento), nos 30 (trinta) primeiros dias, com o adicional de 2% (dois por cento) por mês subseqüente de atraso, além de juros de mora de 1 % (um por cento) ao mês e correção monetária, ficando, nesse caso, o infrator, isento de outra penalidade. (Redação dada pela Lei nº 6.181, de 11.12.1974) (Vide Lei nº 11.648, de 2008)
 
 § 1º - O montante das cominações previstas neste artigo reverterá sucessivamente: (Redação dada pela Lei nº 6.181, de 11.12.1974)
 
@@ -5317,9 +5317,9 @@ As repartições federais, estaduais ou municipais não concederão registro ou 
 
 Parágrafo único - A não observância do disposto neste artigo acarretará, de pleno direito, a nulidade dos atos nele referidos, bem como dos mencionados no artigo 607. (Parágrafo incluído pela Lei nº 6.386, de 9.12.1976)
 
-##### Art. 609 - O
+##### Art. 609
 
-recolhimento da contribuição sindical e todos os lançamentos e movimentos nas contas respectivas são isentos de selos e taxas federais, estaduais ou municipais. (Vide Lei nº 11.648, de 2008)
+O recolhimento da contribuição sindical e todos os lançamentos e movimentos nas contas respectivas são isentos de selos e taxas federais, estaduais ou municipais. (Vide Lei nº 11.648, de 2008)
 
 ##### Art. 610
 
@@ -5485,9 +5485,9 @@ Os Sindicatos convenentes ou as emprêsas acordantes promoverão, conjunta ou se
 
 § 3º Não será permitido estipular duração de convenção coletiva ou acordo coletivo de trabalho superior a dois anos, sendo vedada a ultratividade. (Redação dada pela Lei nº 13.467, de 2017)
 
-##### Art. 615 - O
+##### Art. 615
 
-processo de prorrogação, revisão, denúncia ou revogação total ou parcial de Convenção ou Acôrdo ficará subordinado, em qualquer caso, à aprovação de Assembléia Geral dos Sindicatos convenentes ou partes acordantes, com observância do disposto no art. 612. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+O processo de prorrogação, revisão, denúncia ou revogação total ou parcial de Convenção ou Acôrdo ficará subordinado, em qualquer caso, à aprovação de Assembléia Geral dos Sindicatos convenentes ou partes acordantes, com observância do disposto no art. 612. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
 § 1º O instrumento de prorrogação, revisão, denúncia ou revogação de Convenção ou Acôrdo será depositado para fins de registro e arquivamento, na repartição em que o mesmo originariamente foi depositado observado o disposto no art. 614. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
 
@@ -5619,9 +5619,9 @@ Incumbe às autoridades competentes do Ministério do Trabalho, Industria e Come
 
 Parágrafo único - Os fiscais dos Institutos de Seguro Social e das entidades paraestatais em geral dependentes do Ministério do Trabalho, Industria e Comercio serão competentes para a fiscalização a que se refere o presente artigo, na forma das instruções que forem expedidas pelo Ministro do Trabalho, Industria e Comercio.
 
-##### Art. 627 - A
+##### Art. 627
 
-fim de promover a instrução dos responsáveis no cumprimento das leis de proteção do trabalho, a fiscalização deverá observar o critério de dupla visita nos seguintes casos:
+A fim de promover a instrução dos responsáveis no cumprimento das leis de proteção do trabalho, a fiscalização deverá observar o critério de dupla visita nos seguintes casos:
 
 a) quando ocorrer promulgação ou expedição de novas leis, regulamentos ou instruções ministeriais, sendo que, com relação exclusivamente a esses atos, será feita apenas a instrução dos responsáveis;
 
@@ -5655,9 +5655,9 @@ II - receber, por parte do empregador, documentação eletrônica exigida no cur
 
 § 2º A ciência por meio do sistema de comunicação eletrônica, com utilização de certificação digital ou de código de acesso, possuirá os requisitos de validade. (Incluído pela Lei nº 14.261, de 2021)
 
-##### Art. 629 - O
+##### Art. 629
 
-auto de infração será lavrado em duplicata, nos têrmos dos modelos e instruções expedidos, sendo uma via entregue ao infrator, contra recibo, ou ao mesmo enviada, dentro de 10 (dez) dias da lavratura, sob pena de responsabilidade, em registro postal, com franquia e recibo de volta. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+O auto de infração será lavrado em duplicata, nos têrmos dos modelos e instruções expedidos, sendo uma via entregue ao infrator, contra recibo, ou ao mesmo enviada, dentro de 10 (dez) dias da lavratura, sob pena de responsabilidade, em registro postal, com franquia e recibo de volta. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
 § 1º O auto não terá o seu valor probante condicionado à assinatura do infrator ou de testemunhas, e será lavrado no local da inspeção, salvo havendo motivo justificado que será declarado no próprio auto, quando então deverá ser lavrado no prazo de 24 (vinte e quatro) horas, sob pena de responsabilidade. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
@@ -5759,9 +5759,9 @@ Não sendo provido o recurso, o depósito se converterá em pagamento.
 
 Não comparecendo o infrator, ou não depositando a importância da multa ou penalidade, far-se-á a competente inscrição em livro especial, existente nas repartições das quais se tiver originado a multa ou penalidade, ou de onde tenha provindo a reclamação que a determinou, sendo extraída cópia autentica dessa inscrição e enviada às autoridades competentes para a respectiva cobrança judicial, valendo tal instrumento como título de dívida líquida e certa.
 
-##### Art. 642 - A
+##### Art. 642
 
-cobrança judicial das multas impostas pelas autoridades administrativas do trabalho obedecerá ao disposto na legislação aplicável à cobrança da dívida ativa da União, sendo promovida, no Distrito Federal e nas capitais dos Estados em que funcionarem Tribunais Regionais do Trabalho, pela Procuradoria da Justiça do Trabalho, e nas demais localidades, pelo Ministério Público Estadual e do Território do Acre, nos termos do Decreto-Lei nº 960, de 17 de dezembro de 1938.
+A cobrança judicial das multas impostas pelas autoridades administrativas do trabalho obedecerá ao disposto na legislação aplicável à cobrança da dívida ativa da União, sendo promovida, no Distrito Federal e nas capitais dos Estados em que funcionarem Tribunais Regionais do Trabalho, pela Procuradoria da Justiça do Trabalho, e nas demais localidades, pelo Ministério Público Estadual e do Território do Acre, nos termos do Decreto-Lei nº 960, de 17 de dezembro de 1938.
 
 Parágrafo único. No Estado de São Paulo a cobrança continuará a cargo da Procuradoria do Departamento Estadual do Trabalho, na forma do convênio em vigor.
 
@@ -5811,9 +5811,9 @@ b) os Tribunais Regionais do Trabalho; (Redação dada pelo Decreto-lei nº 9.79
 
 c) as Juntas de Conciliação e Julgamento ou os Juízos de Direito. (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
 
-##### Art. 645 - O
+##### Art. 645
 
-serviço da Justiça do Trabalho é relevante e obrigatório, ninguém dele podendo eximir-se, salvo motivo justificado.
+O serviço da Justiça do Trabalho é relevante e obrigatório, ninguém dele podendo eximir-se, salvo motivo justificado.
 
 ##### Art. 646.
 
@@ -5851,15 +5851,15 @@ As Juntas poderão conciliar, instruir ou julgar com qualquer número, sendo, po
 
 #### SEÇÃO II — DA JURISDIÇÃO E COMPETÊNCIA DAS JUNTAS
 
-##### Art. 650 - A
+##### Art. 650
 
-jurisdição de cada Junta de Conciliação e Julgamento abrange todo o território da Comarca em que tem sede, só podendo ser estendida ou restringida por lei federal. (Redação dada pela Lei nº 5.442, 24.5.1968) (Vide Constituição Federal de 1988)
+A jurisdição de cada Junta de Conciliação e Julgamento abrange todo o território da Comarca em que tem sede, só podendo ser estendida ou restringida por lei federal. (Redação dada pela Lei nº 5.442, 24.5.1968) (Vide Constituição Federal de 1988)
 
 Parágrafo único. As leis locais de Organização Judiciária não influirão sôbre a competência de Juntas de Conciliação e Julgamento já criadas até que lei federal assim determine. (Parágrafo incluído pela Lei nº 5.442, 24.5.1968) (Vide Constituição Federal de 1988)
 
-##### Art. 651 - A
+##### Art. 651
 
-competência das Juntas de Conciliação e Julgamento é determinada pela localidade onde o empregado, reclamante ou reclamado, prestar serviços ao empregador, ainda que tenha sido contratado noutro local ou no estrangeiro. (Vide Constituição Federal de 1988)
+A competência das Juntas de Conciliação e Julgamento é determinada pela localidade onde o empregado, reclamante ou reclamado, prestar serviços ao empregador, ainda que tenha sido contratado noutro local ou no estrangeiro. (Vide Constituição Federal de 1988)
 
 § 1º - Quando for parte de dissídio agente ou viajante comercial, a competência será da Junta da localidade em que a empresa tenha agência ou filial e a esta o empregado esteja subordinado e, na falta, será competente a Junta da localização em que o empregado tenha domicílio ou a localidade mais próxima. (Redação dada pela Lei nº 9.851, de 27.10.1999) (Vide Constituição Federal de 1988)
 
@@ -5915,9 +5915,9 @@ f) exercer, em geral, no interesse da Justiça do Trabalho, quaisquer outras atr
 
 (Vide Constituição Federal de 1988)
 
-##### Art. 654 - O
+##### Art. 654
 
-ingresso na magistratura do trabalho far-se-á para o cargo de juiz do trabalho substituto. As nomeações subsequentes por promoção alternadamente, por antiguidade e merecimento. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
+O ingresso na magistratura do trabalho far-se-á para o cargo de juiz do trabalho substituto. As nomeações subsequentes por promoção alternadamente, por antiguidade e merecimento. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
 § 1º Nas 7ª e 8ª Regiões da Justiça do Trabalho, nas localidades fora das respectivas sedes, haverá suplentes de juiz do trabalho presidente de Junta, sem direito a acesso nomeados pelo Presidente da República, dentre brasileiros, bacharéis em direito, de reconhecida idoneidade moral, especializados em direito do trabalho, pelo período de 2 (dois) anos, podendo ser reconduzidos. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967) (Vide Constituição Federal de 1988) (Vide Decreto-Lei nº 388, de 1968)
 
@@ -5947,9 +5947,9 @@ Os presidentes e os presidentes substitutos tomarão posse do cargo perante o pr
 
 § 2º Nos Territórios a posse dar-se-á perante a juiz de Direito da capital, que procederá na forma prevista no § 1º. (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
 
-##### Art. 656 - O
+##### Art. 656
 
-Juiz do Trabalho Substituto, sempre que não estiver substituindo o Juiz-Presidente de Junta, poderá ser designado para atuar nas Juntas de Conciliação e Julgamento. (Redação dada pela Lei nº 8.432, de 1992) (Vide Constituição Federal de 1988)
+O Juiz do Trabalho Substituto, sempre que não estiver substituindo o Juiz-Presidente de Junta, poderá ser designado para atuar nas Juntas de Conciliação e Julgamento. (Redação dada pela Lei nº 8.432, de 1992) (Vide Constituição Federal de 1988)
 
 § 1º - Para o fim mencionado no caput deste artigo, o território da Região poderá ser dividido em zonas, compreendendo a jurisdição de uma ou mais Juntas, a juízo do Tribunal Regional do Trabalho respectivo. (Incluído pela Lei nº 8.432, 11.6.1992)
 
@@ -6041,9 +6041,9 @@ A escolha dos vogais das Juntas e seus suplentes far-se-á dentre os nomes const
 
 § 6º - Em falta de indicação pelos Sindicatos, de nomes para representantes das respectivas categorias profissionais e econômicas nas Juntas de Conciliação e Julgamento, ou nas localidades onde não existirem Sindicatos, serão esses representantes livremente designados pelo Presidente do Tribunal Regional do Trabalho, observados os requisitos exigidos para o exercício da função. (Parágrafo incluído pelo Decreto-lei nº 229, de 28.2.1967) (Vide Constituição Federal de 1988)
 
-##### Art. 663 - A
+##### Art. 663
 
-investidura dos vogais das Juntas e seus suplentes é de 3 (três) anos, podendo, entretanto, ser dispensado, a pedido, aquele que tiver servido, sem interrupção, durante metade desse período. (Redação dada pela Lei nº 2.244, de 23.6.1954) (Vide Constituição Federal de 1988)
+A investidura dos vogais das Juntas e seus suplentes é de 3 (três) anos, podendo, entretanto, ser dispensado, a pedido, aquele que tiver servido, sem interrupção, durante metade desse período. (Redação dada pela Lei nº 2.244, de 23.6.1954) (Vide Constituição Federal de 1988)
 
 § 1º - Na hipótese da dispensa do vogal a que alude este artigo, assim como nos casos de impedimento, morte ou renúncia, sua substituição far-se-á pelo suplente, mediante convocação do Presidente da Junta. (Redação dada pela Lei nº 2.244, de 23.6.1954) (Vide Constituição Federal de 1988)
 
@@ -6081,9 +6081,9 @@ e) formular, por intermédio do Presidente, aos litigantes, testemunhas e perito
 
 Nas localidades não compreendidas na jurisdição das Juntas de Conciliação e Julgamento, os Juízos de Direito são os órgãos de administração da Justiça do Trabalho, com a jurisdição que lhes for determinada pela lei de organização judiciária local. (Vide Constituição Federal de 1988)
 
-##### Art. 669 - A
+##### Art. 669
 
-competência dos Juízos de Direito, quando investidos na administração da Justiça do Trabalho, é a mesma das Juntas de Conciliação e Julgamento, na forma da Seção II do Capítulo II.
+A competência dos Juízos de Direito, quando investidos na administração da Justiça do Trabalho, é a mesma das Juntas de Conciliação e Julgamento, na forma da Seção II do Capítulo II.
 
 § 1º - Nas localidades onde houver mais de um Juízo de Direito a competência é determinada, entre os Juízes do Cível, por distribuição ou pela divisão judiciária local, na conformidade da lei de organização respectiva.
 
@@ -6129,9 +6129,9 @@ Os Tribunais Regionais, em sua composição plena, deliberarão com a presença,
 
 § 4º No julgamento de recursos contra decisão ou despacho do Presidente, do Vice-Presidente ou de Relator, ocorrendo empate, prevalecerá a decisão ou despacho recorrido. (Parágrafo incluído pela Lei nº 5.442, de 24.5.1968)
 
-##### Art. 673 - A
+##### Art. 673
 
-ordem das sessões dos Tribunais Regionais será estabelecida no respectivo Regimento Interno.
+A ordem das sessões dos Tribunais Regionais será estabelecida no respectivo Regimento Interno.
 
 #### SEÇÃO II — DA JURISDIÇÃO E COMPETÊNCIA
 
@@ -6161,13 +6161,13 @@ Parágrafo único. Os tribunais têm sede nas cidades: Rio de Janeiro (1ª Regi�
 
 (Revogado pela Lei nº 5.442, de 24.5.1968)
 
-##### Art. 676 - O
+##### Art. 676
 
-número de regiões, a jurisdição e a categoria dos Tribunais Regionais, estabelecidos nos artigos anteriores, somente podem ser alterados pelo Presidente da República.
+O número de regiões, a jurisdição e a categoria dos Tribunais Regionais, estabelecidos nos artigos anteriores, somente podem ser alterados pelo Presidente da República.
 
-##### Art. 677 - A
+##### Art. 677
 
-competência dos Tribunais Regionais determina-se pela forma indicada no art. 651 e seus parágrafos e, nos casos de dissídio coletivo, pelo local onde este ocorrer.
+A competência dos Tribunais Regionais determina-se pela forma indicada no art. 651 e seus parágrafos e, nos casos de dissídio coletivo, pelo local onde este ocorrer.
 
 ##### Art. 678
 
@@ -6293,9 +6293,9 @@ Os Juízes representantes classistas dos Tribunais Regionais são designados pel
 
 Parágrafo único - Aos Juízes representantes classistas dos empregados e dos empregadores, nos Tribunais Regionais, aplicam-se as disposições do art. 661. (Parágrafo 1º renumerado para parágrafo único pela Lei nº 5.442, de 24.5.1968)
 
-##### Art. 685 - A
+##### Art. 685
 
-escolha dos vogais e suplentes dos Tribunais Regionais, representantes dos empregadores e empregados, é feita dentre os nomes constantes das listas para esse fim encaminhadas ao Presidente do Tribunal Superior do Trabalho pelas associações sindicais de grau superior com sede nas respectivas Regiões.
+A escolha dos vogais e suplentes dos Tribunais Regionais, representantes dos empregadores e empregados, é feita dentre os nomes constantes das listas para esse fim encaminhadas ao Presidente do Tribunal Superior do Trabalho pelas associações sindicais de grau superior com sede nas respectivas Regiões.
 
 § 1º - Para o efeito deste artigo, o Conselho de Representantes de cada associação sindical de grau superior, na ocasião determinada pelo Presidente do Tribunal Superior do Trabalho, organizará, por maioria de votos, uma lista de 3 (três) nomes.
 
@@ -6323,9 +6323,9 @@ Parágrafo único - Os juízes representantes classistas, que retiverem processo
 
 #### SEÇÃO I — DISPOSIÇÕES PRELIMINARES
 
-##### Art. 690 - O
+##### Art. 690
 
-Tribunal Superior do Trabalho, com sede na Capital da República e jurisdição em todo o território nacional, é a instância suprema da Justiça do Trabalho. (Redação dada pela Lei nº 2.244, de 23.6.1954)
+O Tribunal Superior do Trabalho, com sede na Capital da República e jurisdição em todo o território nacional, é a instância suprema da Justiça do Trabalho. (Redação dada pela Lei nº 2.244, de 23.6.1954)
 
 Parágrafo único - O Tribunal funciona na plenitude de sua composição ou dividido em Turmas, com observância da paridade de representação de empregados e empregadores. (Redação dada pela Lei nº 2.244, de 23.6.1954)
 
@@ -6339,9 +6339,9 @@ Parágrafo único - O Tribunal funciona na plenitude de sua composição ou divi
 
 #### SEÇÃO II — DA COMPOSIÇÃO E FUNCIONAMENTO DO TRIBUNAL SUPERIOR DO TRABALHO
 
-##### Art. 693 - O
+##### Art. 693
 
-Tribunal Superior do Trabalho compõe-se de dezessete juízes com a denominação de Ministros, sendo: (Redação dada pela Lei nº 5.442, de 24.5.1968) (Vide Constituição Federal)
+O Tribunal Superior do Trabalho compõe-se de dezessete juízes com a denominação de Ministros, sendo: (Redação dada pela Lei nº 5.442, de 24.5.1968) (Vide Constituição Federal)
 
 a) onze togados e vitalícios, nomeados pelo Presidente da República, depois de aprovada a escolha pelo Senado Federal, dentre brasileiros natos, maiores de trinta e cinco anos, de notável saber jurídico e reputação ilibada; (Redação dada pela Lei nº 5.442, de 24.5.1968)
 
@@ -6375,9 +6375,9 @@ Em caso de licença, superior a trinta dias, ou de vacância, enquanto não for 
 
 (Suprimido pelo Decreto-lei nº 8.737, de 19.1.1946)
 
-##### Art. 699 - O
+##### Art. 699
 
-Tribunal Superior do Trabalho não poderá deliberar, na plenitude de sua composição senão com a presença de pelo menos nove de seus juízes, além do Presidente. (Redação dada pela Lei nº 2.244, de 23.6.1954)
+O Tribunal Superior do Trabalho não poderá deliberar, na plenitude de sua composição senão com a presença de pelo menos nove de seus juízes, além do Presidente. (Redação dada pela Lei nº 2.244, de 23.6.1954)
 
 Parágrafo único. As turmas do Tribunal, compostas de 5 (cinco) juízes, só poderão deliberar com a presença de pelo menos, três de seus membros, além do respectivo presidente, cabendo também a este funcionar como relator ou revisor nos feitos que lhe forem distribuídos conforme estabelecer o regimento interno. (Incluído pela Lei nº 2.244, de 23.6.1954)
 
@@ -6699,9 +6699,9 @@ Aos presidentes, membros, juízes, vogais, e funcionários auxiliares da Justiç
 
 #### SEÇÃO III — DE OUTRAS PENALIDADES
 
-##### Art. 729 - O
+##### Art. 729
 
-empregador que deixar de cumprir decisão passada em julgado sobre a readmissão ou reintegração de empregado, além do pagamento dos salários deste, incorrerá na multa de Cr$ 10,00 (dez cruzeiros) a Cr$ 50,00 (cinquenta cruzeiros) por dia, até que seja cumprida a decisão. (Vide Leis nºs 6.986, de 1982 e 6.205, de 1975)
+O empregador que deixar de cumprir decisão passada em julgado sobre a readmissão ou reintegração de empregado, além do pagamento dos salários deste, incorrerá na multa de Cr$ 10,00 (dez cruzeiros) a Cr$ 50,00 (cinquenta cruzeiros) por dia, até que seja cumprida a decisão. (Vide Leis nºs 6.986, de 1982 e 6.205, de 1975)
 
 § 1º - O empregador que impedir ou tentar impedir que empregado seu sirva como vogal em Tribunal de Trabalho, ou que perante este preste depoimento, incorrerá na multa de Cr$ 500,00 (quinhentos cruzeiros) a Cr$ 5.000,00 (cinco mil cruzeiros) (Vide Leis nºs 6.986, de 1982 e 6.205, de 1975)
 
@@ -6725,9 +6725,9 @@ As infrações de disposições deste Título, para as quais não haja penalidad
 
 ### CAPÍTULO VIII — DISPOSIÇÕES GERAIS
 
-##### Art. 734 - O
+##### Art. 734
 
-ministro do Trabalho, Industria e Comercio, poderá rever, ex-officio, dentro do prazo de 30 (trinta) dias, contados de sua publicação no órgão oficial, ou mediante representação apresentada dentro de igual prazo: (Vide Leis nºs 3.807, de 1960 e 5.890, de 1973)
+O ministro do Trabalho, Industria e Comercio, poderá rever, ex-officio, dentro do prazo de 30 (trinta) dias, contados de sua publicação no órgão oficial, ou mediante representação apresentada dentro de igual prazo: (Vide Leis nºs 3.807, de 1960 e 5.890, de 1973)
 
 a) as decisões da Câmara da Previdência Social, quando proferidas pelo voto de desempate, ou que violarem disposições expressas de direito ou modificarem jurisprudência até então observada;
 
@@ -6745,15 +6745,15 @@ Parágrafo único - A recusa de informações ou dados a que se refere este arti
 
 ### CAPÍTULO I — DISPOSIÇÕES GERAIS
 
-##### Art. 736 - O
+##### Art. 736
 
-Ministério Público do Trabalho é constituído por agentes diretos do Poder Executivo, tendo por função zelar pela exata observância da Constituição Federal, das leis e demais atos emanados dos poderes públicos, na esfera de suas atribuições.
+O Ministério Público do Trabalho é constituído por agentes diretos do Poder Executivo, tendo por função zelar pela exata observância da Constituição Federal, das leis e demais atos emanados dos poderes públicos, na esfera de suas atribuições.
 
 Parágrafo único - Para o exercício de suas funções, o Ministério Público do Trabalho reger-se-á pelo que estatui esta Consolidação e, na falta de disposição expressa, pelas normas que regem o Ministério Público Federal.
 
-##### Art. 737 - O
+##### Art. 737
 
-Ministério Público do Trabalho compõe-se da Procuradoria da Justiça do Trabalho e da Procuradoria da Previdência Social, aquela funcionando como órgão de coordenação entre a Justiça do Trabalho e o Ministério do Trabalho, Indústria e Comércio, ambas diretamente subordinadas ao Ministro de Estado. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+O Ministério Público do Trabalho compõe-se da Procuradoria da Justiça do Trabalho e da Procuradoria da Previdência Social, aquela funcionando como órgão de coordenação entre a Justiça do Trabalho e o Ministério do Trabalho, Indústria e Comércio, ambas diretamente subordinadas ao Ministro de Estado. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
 
 ##### Art. 738.
 
@@ -6769,9 +6769,9 @@ Não estão sujeitos a ponto os procuradores-gerais e os procuradores.
 
 #### SEÇÃO I — DA ORGANIZAÇÃO
 
-##### Art. 740 - A
+##### Art. 740
 
-Procuradoria da Justiça do Trabalho compreende:
+A Procuradoria da Justiça do Trabalho compreende:
 
 a) 1 (uma) Procuradoria-Geral, que funcionará junto ao Tribunal Superior do Trabalho;
 
@@ -6781,9 +6781,9 @@ b) 8 (oito) Procuradorias Regionais, que funcionarão junto aos Tribunais Region
 
 As Procuradorias Regionais são subordinadas diretamente ao procurador-geral.
 
-##### Art. 742 - A
+##### Art. 742
 
-Procuradoria-Geral é constituída de 1 (um) procurador-geral e de procuradores.
+A Procuradoria-Geral é constituída de 1 (um) procurador-geral e de procuradores.
 
 Parágrafo único - As Procuradorias Regionais compõem-se de 1 (um) procurador regional, auxiliado, quando necessário, por procuradores adjuntos.
 
@@ -6801,9 +6801,9 @@ Haverá, nas Procuradorias Regionais, substitutos de procurador adjunto ou, quan
 
 § 5º - Nenhum direito ou vantagem terá o substituto além do vencimento do cargo do substituído e somente durante o seu impedimento legal.
 
-##### Art. 744 - A
+##### Art. 744
 
-nomeação do procurador-geral deverá recair em bacharel em ciências jurídicas e sociais, que tenha exercido, por 5 (cinco) ou mais anos, cargo de magistratura ou de Ministério Público, ou a advocacia.
+A nomeação do procurador-geral deverá recair em bacharel em ciências jurídicas e sociais, que tenha exercido, por 5 (cinco) ou mais anos, cargo de magistratura ou de Ministério Público, ou a advocacia.
 
 ##### Art. 745
 
@@ -6911,9 +6911,9 @@ b) desempenhar os demais encargos que lhes forem atribuídos pelo procurador reg
 
 #### SEÇÃO VII — DA SECRETARIA
 
-##### Art. 752 - A
+##### Art. 752
 
-Secretaria da Procuradoria Geral funcionará sob a direção de um chefe designado pelo Procurador Geral e terá o pessoal designado pelo Ministro do Trabalho, Indústria e Comércio. .(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+A Secretaria da Procuradoria Geral funcionará sob a direção de um chefe designado pelo Procurador Geral e terá o pessoal designado pelo Ministro do Trabalho, Indústria e Comércio. .(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
 
 ##### Art. 753
 
@@ -6939,9 +6939,9 @@ Nas Procuradorias Regionais, os trabalhos a que se refere o artigo anterior ser�
 
 #### SEÇÃO I — DA ORGANIZAÇÃO
 
-##### Art. 755 - A
+##### Art. 755
 
-Procuradoria de Previdência Social compõe-se de um procurador geral e de procuradores.
+A Procuradoria de Previdência Social compõe-se de um procurador geral e de procuradores.
 
 ##### Art. 756
 
@@ -6999,13 +6999,13 @@ Parágrafo único. Aos procuradores é facultado, nos processos em que oficiarem
 
 #### SEÇÃO V — DA SECRETARIA
 
-##### Art. 760 - A
+##### Art. 760
 
-Procuradoria da Previdência Social terá uma Secretaria dirigida por um chefe designado pelo Procurador Geral. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946) (Vide Decreto Lei nº 72, de 1966)
+A Procuradoria da Previdência Social terá uma Secretaria dirigida por um chefe designado pelo Procurador Geral. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946) (Vide Decreto Lei nº 72, de 1966)
 
-##### Art. 761 - A
+##### Art. 761
 
-Secretaria terá o pessoal designado pelo Ministro do Trabalho, Indústria e Comércio. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946) (Vide Decreto Lei nº 72, de 1966)
+A Secretaria terá o pessoal designado pelo Ministro do Trabalho, Indústria e Comércio. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946) (Vide Decreto Lei nº 72, de 1966)
 
 ##### Art. 762
 
@@ -7015,9 +7015,9 @@ Secretaria terá o pessoal designado pelo Ministro do Trabalho, Indústria e Com
 
 ### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
 
-##### Art. 763 - O
+##### Art. 763
 
-processo da Justiça do Trabalho, no que concerne aos dissídios individuais e coletivos e à aplicação de penalidades, reger-se-á, em todo o território nacional, pelas normas estabelecidas neste Título.
+O processo da Justiça do Trabalho, no que concerne aos dissídios individuais e coletivos e à aplicação de penalidades, reger-se-á, em todo o território nacional, pelas normas estabelecidas neste Título.
 
 ##### Art. 764
 
@@ -7037,9 +7037,9 @@ Os Juízos e Tribunais do Trabalho terão ampla liberdade na direção do proces
 
 Nos dissídios sobre estipulação de salários, serão estabelecidas condições que, assegurando justos salários aos trabalhadores, permitam também justa retribuição às empresas interessadas.
 
-##### Art. 767 - A
+##### Art. 767
 
-compensação, ou retenção, só poderá ser argüida como matéria de defesa
+A compensação, ou retenção, só poderá ser argüida como matéria de defesa
 
 ##### Art. 768
 
@@ -7097,9 +7097,9 @@ Suspende-se o curso do prazo processual nos dias compreendidos entre 20 de dezem
 
 § 2º Durante a suspensão do prazo, não se realizarão audiências nem sessões de julgamento. (Incluído dada pela Lei nº 13.545, de 2017)
 
-##### Art. 776 - O
+##### Art. 776
 
-vencimento dos prazos será certificado nos processos pelos escrivães ou secretários. (Vide Leis nºs 409, de 1943 e 6.563, de 1978)
+O vencimento dos prazos será certificado nos processos pelos escrivães ou secretários. (Vide Leis nºs 409, de 1943 e 6.563, de 1978)
 
 ##### Art. 777
 
@@ -7131,27 +7131,27 @@ São isentos de selo as reclamações, representações, requerimentos. atos e p
 
 (Vide Constituição federal)
 
-##### Art. 783 - A
+##### Art. 783
 
-distribuição das reclamações será feita entre as Juntas de Conciliação e Julgamento, ou os Juízes de Direito do Cível, nos casos previstos no art. 669, § 1º, pela ordem rigorosa de sua apresentação ao distribuidor, quando o houver.
+A distribuição das reclamações será feita entre as Juntas de Conciliação e Julgamento, ou os Juízes de Direito do Cível, nos casos previstos no art. 669, § 1º, pela ordem rigorosa de sua apresentação ao distribuidor, quando o houver.
 
 ##### Art. 784
 
 As reclamações serão registradas em livro próprio, rubricado em todas as folhas pela autoridade a que estiver subordinado o distribuidor.
 
-##### Art. 785 - O
+##### Art. 785
 
-distribuidor fornecerá ao interessado um recibo do qual constarão, essencialmente, o nome do reclamante e do reclamado, a data da distribuição, o objeto da reclamação e a Junta ou o Juízo a que coube a distribuição.
+O distribuidor fornecerá ao interessado um recibo do qual constarão, essencialmente, o nome do reclamante e do reclamado, a data da distribuição, o objeto da reclamação e a Junta ou o Juízo a que coube a distribuição.
 
-##### Art. 786 - A
+##### Art. 786
 
-reclamação verbal será distribuída antes de sua redução a termo.
+A reclamação verbal será distribuída antes de sua redução a termo.
 
 Parágrafo único - Distribuída a reclamação verbal, o reclamante deverá, salvo motivo de força maior, apresentar-se no prazo de 5 (cinco) dias, ao cartório ou à secretaria, para reduzi-la a termo, sob a pena estabelecida no art. 731.
 
-##### Art. 787 - A
+##### Art. 787
 
-reclamação escrita deverá ser formulada em 2 (duas) vias e desde logo acompanhada dos documentos em que se fundar.
+A reclamação escrita deverá ser formulada em 2 (duas) vias e desde logo acompanhada dos documentos em que se fundar.
 
 ##### Art. 788
 
@@ -7353,21 +7353,21 @@ As nulidades não serão declaradas senão mediante provocação das partes, as 
 
 § 2º - O juiz ou Tribunal que se julgar incompetente determinará, na mesma ocasião, que se faça remessa do processo, com urgência, à autoridade competente, fundamentando sua decisão.
 
-##### Art. 796 - A
+##### Art. 796
 
-nulidade não será pronunciada:
+A nulidade não será pronunciada:
 
 a) quando for possível suprir-se a falta ou repetir-se o ato;
 
 b) quando argüida por quem lhe tiver dado causa.
 
-##### Art. 797 - O
+##### Art. 797
 
-juiz ou Tribunal que pronunciar a nulidade declarará os atos a que ela se estende.
+O juiz ou Tribunal que pronunciar a nulidade declarará os atos a que ela se estende.
 
-##### Art. 798 - A
+##### Art. 798
 
-nulidade do ato não prejudicará senão os posteriores que dele dependam ou sejam conseqüência.
+A nulidade do ato não prejudicará senão os posteriores que dele dependam ou sejam conseqüência.
 
 #### SEÇÃO VI — DAS EXCEÇÕES
 
@@ -7391,9 +7391,9 @@ Apresentada exceção de incompetência territorial no prazo de cinco dias a con
 
 § 4º Decidida a exceção de incompetência territorial, o processo retomará seu curso, com a designação de audiência, a apresentação de defesa e a instrução processual perante o juízo competente. (Incluído pela Lei nº 13.467, de 2017)
 
-##### Art. 801 - O
+##### Art. 801
 
-juiz, presidente ou vogal, é obrigado a dar-se por suspeito, e pode ser recusado, por algum dos seguintes motivos, em relação à pessoa dos litigantes:
+O juiz, presidente ou vogal, é obrigado a dar-se por suspeito, e pode ser recusado, por algum dos seguintes motivos, em relação à pessoa dos litigantes:
 
 a) inimizade pessoal;
 
@@ -7483,9 +7483,9 @@ Aos conflitos de jurisdição entre os Tribunais Regionais aplicar-se-ão as nor
 
 Nos conflitos suscitados na Justiça do Trabalho entre as autoridades desta e os órgãos da Justiça Ordinária, o processo do conflito, formado de acordo com o inciso I do art. 809, será remetido diretamente ao presidente do Supremo Tribunal Federal.
 
-##### Art. 812 - A
+##### Art. 812
 
-ordem processual dos conflitos de jurisdição entre as Câmaras do Tribunal Superior do Trabalho será a estabelecida no seu regimento interno. (Vide Decreto Lei 9.797, de 1946)
+A ordem processual dos conflitos de jurisdição entre as Câmaras do Tribunal Superior do Trabalho será a estabelecida no seu regimento interno. (Vide Decreto Lei 9.797, de 1946)
 
 #### SEÇÃO VIII — DAS AUDIÊNCIAS
 
@@ -7511,13 +7511,13 @@ As audiências dos órgãos da Justiça do Trabalho serão públicas e realizar-
 
 § 3º Na hipótese do § 2º deste artigo, a audiência deverá ser remarcada pelo juiz ou presidente para a data mais próxima possível, vedada a aplicação de qualquer penalidade às partes. (Incluído pela Lei nº 14.657, de 2023)
 
-##### Art. 816 - O
+##### Art. 816
 
-juiz ou presidente manterá a ordem nas audiências, podendo mandar retirar do recinto os assistentes que a perturbarem.
+O juiz ou presidente manterá a ordem nas audiências, podendo mandar retirar do recinto os assistentes que a perturbarem.
 
-##### Art. 817 - O
+##### Art. 817
 
-registro das audiências será feito em livro próprio, constando de cada registro os processos apreciados e a respectiva solução, bem como as ocorrências eventuais.
+O registro das audiências será feito em livro próprio, constando de cada registro os processos apreciados e a respectiva solução, bem como as ocorrências eventuais.
 
 Parágrafo único - Do registro das audiências poderão ser fornecidas certidões às pessoas que o requererem.
 
@@ -7537,9 +7537,9 @@ II - ao reclamado, quanto à existência de fato impeditivo, modificativo ou ext
 
 § 3º A decisão referida no § 1º deste artigo não pode gerar situação em que a desincumbência do encargo pela parte seja impossível ou excessivamente difícil. (Incluído pela Lei nº 13.467, de 2017)
 
-##### Art. 819 - O
+##### Art. 819
 
-depoimento das partes e testemunhas que não souberem falar a língua nacional será feito por meio de intérprete nomeado pelo juiz ou presidente.
+O depoimento das partes e testemunhas que não souberem falar a língua nacional será feito por meio de intérprete nomeado pelo juiz ou presidente.
 
 § 1º - Proceder-se-á da forma indicada neste artigo, quando se tratar de surdo-mudo, ou de mudo que não saiba escrever.
 
@@ -7561,9 +7561,9 @@ As testemunhas não poderão sofrer qualquer desconto pelas faltas ao serviço, 
 
 Se a testemunha for funcionário civil ou militar, e tiver de depor em hora de serviço, será requisitada ao chefe da repartição para comparecer à audiência marcada.
 
-##### Art. 824 - O
+##### Art. 824
 
-juiz ou presidente providenciará para que o depoimento de uma testemunha não seja ouvido pelas demais que tenham de depor no processo.
+O juiz ou presidente providenciará para que o depoimento de uma testemunha não seja ouvido pelas demais que tenham de depor no processo.
 
 ##### Art. 825
 
@@ -7575,9 +7575,9 @@ Parágrafo único - As que não comparecerem serão intimadas, ex officio ou a r
 
 É facultado a cada uma das partes apresentar um perito ou tecnico. (Vide Lei nº 5.584, de 1970)
 
-##### Art. 827 - O
+##### Art. 827
 
-juiz ou presidente poderá argüir os peritos compromissados ou os técnicos, e rubricará, para ser junto ao processo, o laudo que os primeiros tiverem apresentado.
+O juiz ou presidente poderá argüir os peritos compromissados ou os técnicos, e rubricará, para ser junto ao processo, o laudo que os primeiros tiverem apresentado.
 
 ##### Art. 828
 
@@ -7585,9 +7585,9 @@ Toda testemunha, antes de prestar o compromisso legal, será qualificada, indica
 
 Parágrafo único - Os depoimentos das testemunhas serão resumidos, por ocasião da audiência, pelo secretário da Junta ou funcionário para esse fim designado, devendo a súmula ser assinada pelo Presidente do Tribunal e pelos depoentes.
 
-##### Art. 829 - A
+##### Art. 829
 
-testemunha que for parente até o terceiro grau civil, amigo íntimo ou inimigo de qualquer das partes, não prestará compromisso, e seu depoimento valerá como simples informação.
+A testemunha que for parente até o terceiro grau civil, amigo íntimo ou inimigo de qualquer das partes, não prestará compromisso, e seu depoimento valerá como simples informação.
 
 ##### Art. 830. O
 
@@ -7597,9 +7597,9 @@ Parágrafo único. Impugnada a autenticidade da cópia, a parte que a produziu s
 
 #### SEÇÃO X — DA DECISÃO E SUA EFICÁCIA
 
-##### Art. 831 - A
+##### Art. 831
 
-decisão será proferida depois de rejeitada pelas partes a proposta de conciliação.
+A decisão será proferida depois de rejeitada pelas partes a proposta de conciliação.
 
 Parágrafo único. No caso de conciliação, o termo que for lavrado valerá como decisão irrecorrível, salvo para a Previdência Social quanto às contribuições que lhe forem devidas. (Redação dada pela Lei nº 10.035, de 2000)
 
@@ -7637,9 +7637,9 @@ Existindo na decisão evidentes erros ou enganos de escrita, de datilografia ou 
 
 Salvo nos casos previstos nesta Consolidação, a publicação das decisões e sua notificação aos litigantes, ou a seus patronos, consideram-se realizadas nas próprias audiências em que forem as mesmas proferidas.
 
-##### Art. 835 - O
+##### Art. 835
 
-cumprimento do acordo ou da decisão far-se-á no prazo e condições estabelecidas.
+O cumprimento do acordo ou da decisão far-se-á no prazo e condições estabelecidas.
 
 ##### Art. 836.
 
@@ -7659,17 +7659,17 @@ Nas localidades em que houver apenas 1 (uma) Junta de Conciliação e Julgamento
 
 Nas localidades em que houver mais de 1 (uma) Junta ou mais de 1 (um) Juízo, ou escrivão do cível, a reclamação será, preliminarmente, sujeita a distribuição, na forma do disposto no Capítulo II, Seção II, deste Título.
 
-##### Art. 839 - A
+##### Art. 839
 
-reclamação poderá ser apresentada:
+A reclamação poderá ser apresentada:
 
 a) pelos empregados e empregadores, pessoalmente, ou por seus representantes, e pelos sindicatos de classe;
 
 b) por intermédio das Procuradorias Regionais da Justiça do Trabalho.
 
-##### Art. 840 - A
+##### Art. 840
 
-reclamação poderá ser escrita ou verbal.
+A reclamação poderá ser escrita ou verbal.
 
 § 1º Sendo escrita, a reclamação deverá conter a designação do juízo, a qualificação das partes, a breve exposição dos fatos de que resulte o dissídio, o pedido, que deverá ser certo, determinado e com indicação de seu valor, a data e a assinatura do reclamante ou de seu representante. (Redação dada pela Lei nº 13.467, de 2017)
 
@@ -7703,9 +7703,9 @@ Na audiência de julgamento deverão estar presentes o reclamante e o reclamado,
 
 § 3º O preposto a que se refere o § 1º deste artigo não precisa ser empregado da parte reclamada. (Incluído pela Lei nº 13.467, de 2017)
 
-##### Art. 844 - O
+##### Art. 844
 
-não-comparecimento do reclamante à audiência importa o arquivamento da reclamação, e o não-comparecimento do reclamado importa revelia, além de confissão quanto à matéria de fato.
+O não-comparecimento do reclamante à audiência importa o arquivamento da reclamação, e o não-comparecimento do reclamado importa revelia, além de confissão quanto à matéria de fato.
 
 § 1º Ocorrendo motivo relevante, poderá o juiz suspender o julgamento, designando nova audiência. (Redação dada pela Lei nº 13.467, de 2017)
 
@@ -7725,9 +7725,9 @@ IV - as alegações de fato formuladas pelo reclamante forem inverossímeis ou e
 
 § 5º Ainda que ausente o reclamado, presente o advogado na audiência, serão aceitos a contestação e os documentos eventualmente apresentados. (Incluído pela Lei nº 13.467, de 2017)
 
-##### Art. 845 - O
+##### Art. 845
 
-reclamante e o reclamado comparecerão à audiência acompanhados das suas testemunhas, apresentando, nessa ocasião, as demais provas.
+O reclamante e o reclamado comparecerão à audiência acompanhados das suas testemunhas, apresentando, nessa ocasião, as demais provas.
 
 ##### Art. 846
 
@@ -7751,9 +7751,9 @@ Terminada a defesa, seguir-se-á a instrução do processo, podendo o presidente
 
 § 2º - Serão, a seguir, ouvidas as testemunhas, os peritos e os técnicos, se houver.
 
-##### Art. 849 - A
+##### Art. 849
 
-audiência de julgamento será contínua; mas, se não for possível, por motivo de força maior, concluí-la no mesmo dia, o juiz ou presidente marcará a sua continuação para a primeira desimpedida, independentemente de nova notificação.
+A audiência de julgamento será contínua; mas, se não for possível, por motivo de força maior, concluí-la no mesmo dia, o juiz ou presidente marcará a sua continuação para a primeira desimpedida, independentemente de nova notificação.
 
 ##### Art. 850
 
@@ -7853,9 +7853,9 @@ A sentença mencionará os elementos de convicção do juízo, com resumo dos fa
 
 Para a instauração do inquérito para apuração de falta grave contra empregado garantido com estabilidade, o empregador apresentará reclamação por escrito à Junta ou Juízo de Direito, dentro de 30 (trinta) dias, contados da data da suspensão do empregado.
 
-##### Art. 854 - O
+##### Art. 854
 
-processo do inquérito perante a Junta ou Juízo obedecerá às normas estabelecidas no presente Capítulo, observadas as disposições desta Seção.
+O processo do inquérito perante a Junta ou Juízo obedecerá às normas estabelecidas no presente Capítulo, observadas as disposições desta Seção.
 
 ##### Art. 855
 
@@ -7917,27 +7917,27 @@ Parágrafo único. O prazo prescricional voltará a fluir no dia útil seguinte 
 
 #### SEÇÃO I — DA INSTAURAÇÃO DA INSTÂNCIA
 
-##### Art. 856 - A
+##### Art. 856
 
-instância será instaurada mediante representação escrita ao Presidente do Tribunal. Poderá ser também instaurada por iniciativa do presidente, ou, ainda, a requerimento da Procuradoria da Justiça do Trabalho, sempre que ocorrer suspensão do trabalho.
+A instância será instaurada mediante representação escrita ao Presidente do Tribunal. Poderá ser também instaurada por iniciativa do presidente, ou, ainda, a requerimento da Procuradoria da Justiça do Trabalho, sempre que ocorrer suspensão do trabalho.
 
-##### Art. 857 - A
+##### Art. 857
 
-representação para instaurar a instância em dissídio coletivo constitui prerrogativa das associações sindicais, excluídas as hipóteses aludidas no art. 856, quando ocorrer suspensão do trabalho. (Redação dada pelo Decreto-lei nº 7.321, de 14.2.1945)
+A representação para instaurar a instância em dissídio coletivo constitui prerrogativa das associações sindicais, excluídas as hipóteses aludidas no art. 856, quando ocorrer suspensão do trabalho. (Redação dada pelo Decreto-lei nº 7.321, de 14.2.1945)
 
 Parágrafo único. Quando não houver sindicato representativo da categoria econômica ou profissional, poderá a representação ser instaurada pelas federações correspondentes e, na falta destas, pelas confederações respectivas, no âmbito de sua representação. (Redação dada pela Lei nº 2.693, de 23.12.1955)
 
-##### Art. 858 - A
+##### Art. 858
 
-representação será apresentada em tantas vias quantos forem os reclamados e deverá conter:
+A representação será apresentada em tantas vias quantos forem os reclamados e deverá conter:
 
 a) designação e qualificação dos reclamantes e dos reclamados e a natureza do estabelecimento ou do serviço;
 
 b) os motivos do dissídio e as bases da conciliação.
 
-##### Art. 859 - A
+##### Art. 859
 
-representação dos sindicatos para instauração da instância fica subordinada à aprovação de assembléia, da qual participem os associados interessados na solução do dissídio coletivo, em primeira convocação, por maioria de 2/3 (dois terços) dos mesmos, ou, em segunda convocação, por 2/3 (dois terços) dos presentes. (Redação dada pelo Decreto-lei nº 7.321, de 14.2.1945)
+A representação dos sindicatos para instauração da instância fica subordinada à aprovação de assembléia, da qual participem os associados interessados na solução do dissídio coletivo, em primeira convocação, por maioria de 2/3 (dois terços) dos mesmos, ou, em segunda convocação, por 2/3 (dois terços) dos presentes. (Redação dada pelo Decreto-lei nº 7.321, de 14.2.1945)
 
 Parágrafo único. (Revogado pelo Decreto-lei nº 7.321, de 14.2.1945)
 
@@ -7991,9 +7991,9 @@ Em caso de dissídio coletivo que tenha por motivo novas condições de trabalho
 
 Parágrafo único - O Tribunal fixará a data em que a decisão deve entrar em execução, bem como o prazo de sua vigência, o qual não poderá ser superior a 4 (quatro) anos.
 
-##### Art. 869 - A
+##### Art. 869
 
-decisão sobre novas condições de trabalho poderá também ser estendida a todos os empregados da mesma categoria profissional compreendida na jurisdição do Tribunal:
+A decisão sobre novas condições de trabalho poderá também ser estendida a todos os empregados da mesma categoria profissional compreendida na jurisdição do Tribunal:
 
 a) por solicitação de 1 (um) ou mais empregadores, ou de qualquer sindicato destes;
 
@@ -8029,15 +8029,15 @@ Parágrafo único - Quando os empregadores deixarem de satisfazer o pagamento de
 
 Decorrido mais de 1 (um) ano de sua vigência, caberá revisão das decisões que fixarem condições de trabalho, quando se tiverem modificado as circunstâncias que as ditaram, de modo que tais condições se hajam tornado injustas ou inaplicáveis.
 
-##### Art. 874 - A
+##### Art. 874
 
-revisão poderá ser promovida por iniciativa do Tribunal prolator, da Procuradoria da Justiça do Trabalho, das associações sindicais ou de empregador ou empregadores interessados no cumprimento da decisão.
+A revisão poderá ser promovida por iniciativa do Tribunal prolator, da Procuradoria da Justiça do Trabalho, das associações sindicais ou de empregador ou empregadores interessados no cumprimento da decisão.
 
 Parágrafo único - Quando a revisão for promovida por iniciativa do Tribunal prolator ou da Procuradoria, as associações sindicais e o empregador ou empregadores interessados serão ouvidos no prazo de 30 (trinta) dias. Quando promovida por uma das partes interessadas, serão as outras ouvidas também por igual prazo.
 
-##### Art. 875 - A
+##### Art. 875
 
-revisão será julgada pelo Tribunal que tiver proferido a decisão, depois de ouvida a Procuradoria da Justiça do Trabalho.
+A revisão será julgada pelo Tribunal que tiver proferido a decisão, depois de ouvida a Procuradoria da Justiça do Trabalho.
 
 ### CAPÍTULO V — DA EXECUÇÃO
 
@@ -8151,9 +8151,9 @@ Se tiverem sido arroladas testemunhas, finda a sua inquirição em audiência, o
 
 § 2º - Julgada subsistente a penhora, o juiz, ou presidente, mandará proceder logo à avaliação dos bens penhorados.
 
-##### Art. 887 - A
+##### Art. 887
 
-avaliação dos bens penhorados em virtude da execução de decisão condenatória, será feita por avaliador escolhido de comum acordo pelas partes, que perceberá as custas arbitradas pelo juiz, ou presidente do tribunal trabalhista, de conformidade com a tabela a ser expedida pelo Tribunal Superior do Trabalho.
+A avaliação dos bens penhorados em virtude da execução de decisão condenatória, será feita por avaliador escolhido de comum acordo pelas partes, que perceberá as custas arbitradas pelo juiz, ou presidente do tribunal trabalhista, de conformidade com a tabela a ser expedida pelo Tribunal Superior do Trabalho.
 
 § 1º Não acordando as partes quanto à designação de avaliador, dentro de cinco dias após o despacho que o determinou a avaliação, será o avaliador designado livremente pelo juiz ou presidente do tribunal.
 
@@ -8185,9 +8185,9 @@ Os recolhimentos das importâncias devidas, referentes às contribuições socia
 
 #### SEÇÃO V — DA EXECUÇÃO POR PRESTAÇÕES SUCESSIVAS
 
-##### Art. 890 - A
+##### Art. 890
 
-execução para pagamento de prestações sucessivas far-se-á com observância das normas constantes desta Seção, sem prejuízo das demais estabelecidas neste Capítulo.
+A execução para pagamento de prestações sucessivas far-se-á com observância das normas constantes desta Seção, sem prejuízo das demais estabelecidas neste Capítulo.
 
 ##### Art. 891
 
@@ -8489,17 +8489,17 @@ Da imposição das penalidades a que se refere este Capítulo, caberá recurso o
 
 Sempre que o infrator incorrer em pena criminal far-se-á remessa das peças necessárias à autoridade competente.
 
-##### Art. 908 - A
+##### Art. 908
 
-cobrança das multas estabelecidas neste Título será feita mediante executivo fiscal, perante o Juiz competente para a cobrança de dívida ativa da Fazenda Pública Federal.
+A cobrança das multas estabelecidas neste Título será feita mediante executivo fiscal, perante o Juiz competente para a cobrança de dívida ativa da Fazenda Pública Federal.
 
 Parágrafo único - A cobrança das multas será promovida, no Distrito Federal e nos Estados em que funcionarem os Tribunais Regionais pela Procuradoria da Justiça do Trabalho, e, nos demais Estados, de acordo com o disposto no Decreto-Lei nº 960, de 17 de dezembro de 1938.
 
 ### CAPÍTULO VIII — DISPOSIÇÕES FINAIS
 
-##### Art. 909 - A
+##### Art. 909
 
-ordem dos processos no Tribunal Superior do Trabalho será regulada em seu regimento interno.
+A ordem dos processos no Tribunal Superior do Trabalho será regulada em seu regimento interno.
 
 ##### Art. 910
 
@@ -8515,9 +8515,9 @@ Esta Consolidação entrará em vigor em 10 de novembro de 1943.
 
 Os dispositivos de caráter imperativo terão aplicação imediata às relações iniciadas, mas não consumadas, antes da vigência desta Consolidação.
 
-##### Art. 913 - O
+##### Art. 913
 
-Ministro do Trabalho, Industria e Comercio expedirá instruções, quadros, tabelas e modelos que se tornarem necessários à execução desta Consolidação.
+O Ministro do Trabalho, Industria e Comercio expedirá instruções, quadros, tabelas e modelos que se tornarem necessários à execução desta Consolidação.
 
 Parágrafo único - O Tribunal Superior do Trabalho adaptará o seu regimento interno e o dos Tribunais Regionais do Trabalho às normas contidas nesta Consolidação.
 
@@ -8557,9 +8557,9 @@ Enquanto não forem constituídas as confederações, ou, na falta destas, a rep
 
 As empresas que não estiverem incluídas no enquadramento sindical em que trata o art. 577 poderão firmar contratos coletivos de trabalho com os sindicatos representativos da respectiva categoria profissional.
 
-##### Art. 922 - O
+##### Art. 922
 
-disposto no art. 301 regerá somente as relações de empregos iniciadas depois da vigência desta Consolidação. (Incluído pelo Decreto-lei nº 6.353, de 20.3.1944)
+O disposto no art. 301 regerá somente as relações de empregos iniciadas depois da vigência desta Consolidação. (Incluído pelo Decreto-lei nº 6.353, de 20.3.1944)
 
 ## ANEXO — Quadro a que se refere o art. 577 da Consolidação das Leis do Trabalho
 
@@ -8683,5 +8683,3 @@ GRUPOS
 14º Autores teatrais
 
 15º Compositores artísticos, musicais e plásticos
-
-\*

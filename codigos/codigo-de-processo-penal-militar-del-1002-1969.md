@@ -5689,9 +5689,9 @@ Parágrafo único. Quando cabível a apelação, não poderá ser usado o recurs
 
 Recolhimento à prisão
 
-###### Art. 527 - O
+###### Art. 527
 
-réu não poderá apelar sem recolher-se à prisão, salvo se primário e de bons antecedentes, reconhecidas tais circunstâncias na sentença condenatória. (Redação dada pela Lei nº 6.544, de 30.6.1978)
+O réu não poderá apelar sem recolher-se à prisão, salvo se primário e de bons antecedentes, reconhecidas tais circunstâncias na sentença condenatória. (Redação dada pela Lei nº 6.544, de 30.6.1978)
 
 Recurso sobrestado
 
@@ -5871,9 +5871,9 @@ julgamento dos embargos obedecerá ao rito da apelação.
 
 Recolhimento à prisão
 
-###### Art. 549 - O
+###### Art. 549
 
-réu condenado a pena privativa da liberdade não poderá opor embargos infringentes ou de nulidade, sem se recolher à prisão, salvo se atendidos os pressupostos do art. 527. (Redação dada pela Lei nº 6.544, de 30.6.1978)
+O réu condenado a pena privativa da liberdade não poderá opor embargos infringentes ou de nulidade, sem se recolher à prisão, salvo se atendidos os pressupostos do art. 527. (Redação dada pela Lei nº 6.544, de 30.6.1978)
 
 #### CAPÍTULO V — DA REVISÃO
 
@@ -6321,9 +6321,9 @@ Iniciada a execução das interdições temporárias, o auditor, de ofício, ou 
 
 Competência e condições para a concessão do benefício
 
-###### Art. 606 - O
+###### Art. 606
 
-Conselho de Justiça, o Auditor ou o Tribunal poderão suspender, por tempo não inferior a 2 (dois) anos nem superior a 6 (seis) anos, a execução da pena privativa da liberdade que não exceda a 2 (dois) anos, desde que: (Redação dada pela Lei nº 6.544, de 30.6.1978)
+O Conselho de Justiça, o Auditor ou o Tribunal poderão suspender, por tempo não inferior a 2 (dois) anos nem superior a 6 (seis) anos, a execução da pena privativa da liberdade que não exceda a 2 (dois) anos, desde que: (Redação dada pela Lei nº 6.544, de 30.6.1978)
 
 a) não tenha o sentenciado sofrido, no País ou no estrangeiro, condenação irrecorrível por outro crime a pena privativa da liberdade, salvo o disposto no 1º do art. 71 do Código Penal Militar; (Redação dada pela Lei nº 6.544, de 30.6.1978)
 
@@ -6335,9 +6335,9 @@ Parágrafo único. A suspensão não se estende às penas de reforma, suspensão
 
 Pronunciamento
 
-###### Art. 607 - O
+###### Art. 607
 
-Conselho de Justiça, o Auditor ou o Tribunal, na decisão que aplicar pena privativa da liberdade não superior a 2 (dois) anos, deverão pronunciar-se, motivadamente, sobre a suspensão condicional, quer a concedam, quer a deneguem. (Redação dada pela Lei nº 6.544, de 30.6.1978)
+O Conselho de Justiça, o Auditor ou o Tribunal, na decisão que aplicar pena privativa da liberdade não superior a 2 (dois) anos, deverão pronunciar-se, motivadamente, sobre a suspensão condicional, quer a concedam, quer a deneguem. (Redação dada pela Lei nº 6.544, de 30.6.1978)
 
 Condições e regras impostas ao beneficiário
 
@@ -6399,9 +6399,9 @@ A suspensão também ficará sem efeito se, em virtude de recurso interposto pel
 
 Revogação
 
-###### Art. 614 - A
+###### Art. 614
 
-suspensão será revogada se, no curso do prazo, o beneficiário: (Redação dada pela Lei nº 6.544, de 30.6.1978)
+A suspensão será revogada se, no curso do prazo, o beneficiário: (Redação dada pela Lei nº 6.544, de 30.6.1978)
 
 I - for condenado, na justiça militar ou na comum, por sentença irrecorrível, a pena privativa da liberdade; (Redação dada pela Lei nº 6.544, de 30.6.1978)
 
@@ -7316,5 +7316,3 @@ Márcio de Souza e Mello
 Luís Antônio da Gama e Silva
 
 Este texto não substitui o publicado no DOU de 21.10.1969, retificado em 21.1.1970, retificado em 23.1.1970 e retificado em 28.1.1970
-
-\*

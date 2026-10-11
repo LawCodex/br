@@ -481,7 +481,7 @@ Mínimos e máximos genéricos
 
 Pena até dois anos imposta a militar
 
-**Art. 59 - A** pena de reclusão ou de detenção até 2 (dois) anos, aplicada a militar, é convertida em pena de prisão e cumprida, quando não cabível a suspensão condicional: (Redação dada pela Lei nº 6.544, de 30.6.1978)
+**Art. 59** A pena de reclusão ou de detenção até 2 (dois) anos, aplicada a militar, é convertida em pena de prisão e cumprida, quando não cabível a suspensão condicional: (Redação dada pela Lei nº 6.544, de 30.6.1978)
 
 I - pelo oficial, em recinto de estabelecimento militar;
 
@@ -497,11 +497,11 @@ Pena do assemelhado
 
 Pena superior a dois anos, imposta a militar
 
-**Art. 61 - A** pena privativa da liberdade por mais de 2 (dois) anos, aplicada a militar, é cumprida em penitenciária militar e, na falta dessa, em estabelecimento prisional civil, ficando o recluso ou detento sujeito ao regime conforme a legislação penal comum, de cujos benefícios e concessões, também, poderá gozar. (Redação dada pela Lei nº 6.544, de 30.6.1978)
+**Art. 61** A pena privativa da liberdade por mais de 2 (dois) anos, aplicada a militar, é cumprida em penitenciária militar e, na falta dessa, em estabelecimento prisional civil, ficando o recluso ou detento sujeito ao regime conforme a legislação penal comum, de cujos benefícios e concessões, também, poderá gozar. (Redação dada pela Lei nº 6.544, de 30.6.1978)
 
 Pena privativa da liberdade imposta a civil
 
-**Art. 62 - O** civil cumpre a pena aplicada pela Justiça Militar, em estabelecimento prisional civil, ficando ele sujeito ao regime conforme a legislação penal comum, de cujos benefícios e concessões, também, poderá gozar. (Redação dada pela Lei nº 6.544, de 30.6.1978)
+**Art. 62** O civil cumpre a pena aplicada pela Justiça Militar, em estabelecimento prisional civil, ficando ele sujeito ao regime conforme a legislação penal comum, de cujos benefícios e concessões, também, poderá gozar. (Redação dada pela Lei nº 6.544, de 30.6.1978)
 
 Cumprimento em penitenciária militar
 
@@ -4244,5 +4244,3 @@ MÁRCIO DE SOUZA E MELLO
 LUÍS ANTÔNIO DA GAMA E SILVA
 
 Este texto não substitui o publicado no DOU de 21.10.1969
-
-\*

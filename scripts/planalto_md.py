@@ -27,7 +27,7 @@ STRUCT = [
 ]
 STRUCT_ORDER = ["anexo", "parte", "livro", "titulo", "capitulo", "secao", "subsecao"]
 TOP_RE = re.compile(r"^(ATO DAS DISPOSI[ÇC][ÕO]ES CONSTITUCIONAIS TRANSIT[ÓO]RIAS|ANEXO(\s+[\wºª°.-]+)?|PRE[ÂA]MBULO)\s*$", re.I)
-ART_RE = re.compile(r"^(Art(?:igo)?\.?\s*(\d+(?:\.\d{3})*)\s*(?:\.?\s*[º°o](?![a-zà-ú])|\.(?!\d))?(?:\s?-\s?(?-i:[A-Z]{1,2})(?![a-zà-ú]))?)\s*[.:\-–—]?\s*", re.I)
+ART_RE = re.compile(r"^(Art(?:igo)?\.?\s*(\d+(?:\.\d{3})*)\s*(?:\.?\s*[º°o](?![a-zà-ú])|\.(?!\d))?(?:-(?-i:[A-Z]{1,2})(?![a-zà-ú]))?)\s*[.:\-–—]?\s*", re.I)
 QUOTE_START = re.compile(r"^[\"“”'‘’«]")
 QUOTE_END = re.compile(r"([\"”’»]\s*(\((NR|AC)\))?|\((NR|AC)\)|\(NR\s*\))\s*(\(.{0,200}\))?\s*[.;]?$")
 AMEND_TRIGGER = re.compile(r"(reda[çc][ãa]o|vigorar|acrescid|acrescentad|inserid|aditad|altera[çc][õo]es|"
@@ -228,7 +228,7 @@ def parse(html):
 
 
 TITLE_RE = re.compile(r"^(LEI|DECRETO|EMENDA|MEDIDA|CONSTITUI|C[ÓO]DIGO|ATO)\b.*\b(1[89]\d\d|20\d\d)\s*\.?$", re.I)
-ENACT_RE = re.compile(r"^(O\s+PRESIDENTE\s+DA\s+REP|A\s+PRESIDENTA\s+DA\s+REP|O\s+VICE-PRESIDENTE|AS\s+MESAS\s+DA|O\s+CONGRESSO\s+NACIONAL|N[ÓO]S,?\s+(OS\s+)?REPRESENTANTES|O\s+PRESIDENTE\s+DO\s+CONGRESSO|OS\s+MINISTROS|A\s+JUNTA|O\s+CHEFE\s+DO\s+GOVERNO|D\.\s*PEDRO|DOM\s+PEDRO|A\s+PRINCESA|O\s+REGENTE|A\s+REGÊNCIA|O\s+PRESIDENTE\s+DOS\s+ESTADOS|O\s+PRESIDENTE\s+DA\s+REPUBLICA|O\s+GOVERNO\s+PROVIS)", re.I)
+ENACT_RE = re.compile(r"^(O\s+PRESIDENTE\s+DA\s+REP|A\s+PRESIDENTA\s+DA\s+REP|O\s+VICE\s*[-–—]\s*PRESIDENTE|AS\s+MESAS\s+DA|O\s+CONGRESSO\s+NACIONAL|N[ÓO]S,?\s+(OS\s+)?REPRESENTANTES|O\s+PRESIDENTE\s+DO\s+CONGRESSO|OS\s+MINISTROS|A\s+JUNTA|O\s+CHEFE\s+DO\s+GOVERNO|D\.\s*PEDRO|DOM\s+PEDRO|A\s+PRINCESA|O\s+REGENTE|A\s+REGÊNCIA|O\s+PRESIDENTE\s+DOS\s+ESTADOS|O\s+PRESIDENTE\s+DA\s+REPUBLICA|O\s+GOVERNO\s+PROVIS)", re.I)
 HEADER_NOISE = re.compile(r"^(Presid[êe]ncia\s+da\s+Rep[úu]blica|Casa\s+Civil|Subchefia\s+para\s+Assuntos\s+Jur[íi]dicos|Secretaria(\s+Especial)?\s+para\s+Assuntos\s+Jur[íi]dicos|Secretaria-Geral|Texto\s+para\s+impress[ãa]o|Texto\s+compilado|Vig[êe]ncia|Mensagem\s+de\s+veto|Regulamento|Convers[ãa]o|Exposi[çc][ãa]o\s+de\s+motivos|Produ[çc][ãa]o\s+de\s+efeito|Promulga[çc][ãa]o\s+partes\s+vetadas|Emendas\s+Constitucionais(\s+de\s+Revis[ãa]o)?|[ÍI]ndice\s+Tem[áa]tico|Atos\s+decorrentes\s+do\s+disposto.*|Ato\s+das\s+Disposi[çc][õo]es\s+Constitucionais\s+Transit[óo]rias)[\s.()]*$", re.I)
 
 
@@ -328,6 +328,8 @@ def to_markdown_body(body, title_level=1):
     quoted = False      # inside text quoted by an amending provision
     last_own = 0        # number of the act's own last article
     for kind, c, t in merged:
+        if kind == "p" and re.fullmatch(r"[*\s]+", t):
+            continue  # Planalto's end-of-page asterisk
         if kind == "h":
             t2 = re.sub(r"\s", "", t)
             if re.fullmatch(r"(\S ){3,}\S", t) and t2.upper() in ("PARTEGERAL", "PARTEESPECIAL"):

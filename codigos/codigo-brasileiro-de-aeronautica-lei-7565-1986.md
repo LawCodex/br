@@ -2954,5 +2954,3 @@ JOSÉ SARNEY
 Octávio Júlio Moreira Lima
 
 Este texto não substitui o publicado no DOU de 23.12.1986 e retificado em 30.12.1986
-
-\*

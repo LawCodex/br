@@ -3664,5 +3664,3 @@ H. CASTELLO BRANCO
 Milton Soares Campos
 
 Este texto não substitui o publicado no DOU de 19.7.1965 e retificado em 30.7.1965
-
-\*

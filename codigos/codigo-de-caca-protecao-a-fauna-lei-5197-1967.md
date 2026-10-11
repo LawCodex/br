@@ -286,5 +286,3 @@ H. CASTELLO BRANCO
 Severo Fagundes Gomes
 
 Este texto não substitui o publicado no DOU de 5.1.1967
-
-\*

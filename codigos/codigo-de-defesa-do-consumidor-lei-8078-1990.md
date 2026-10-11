@@ -1368,5 +1368,3 @@ Zélia M. Cardoso de Mello
 Ozires Silva
 
 Este texto não substitui o publicado no DOU de 12.9.1990 e Retificado em 10.1.2007
-
-\*

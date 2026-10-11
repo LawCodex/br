@@ -158,7 +158,15 @@ def convert_one(e, code_urls, out_root):
     if kind in ("constituicao", "emc", "ecr"):
         status, why = "in_force", None
     else:
-        status, why = detect_status(notes, kind)
+        # whole-act annotations sit in the header; when the whole text is struck through the
+        # parser may not find the enacting formula, so also look at the lines before the first article
+        pre = []
+        for k_, t_ in body[:40]:
+            if k_ == "p" and P.ART_RE.match(t_):
+                break
+            if k_ == "p" and len(t_) < 250 and not P.ENACT_RE.match(t_):
+                pre.append(t_)
+        status, why = detect_status(notes + pre[:12], kind)
     if not ementa:
         ementa = e.get("ementa") or ""
     title = title_of(e, ptitle)

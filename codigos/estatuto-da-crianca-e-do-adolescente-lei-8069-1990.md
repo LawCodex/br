@@ -2828,5 +2828,3 @@ Antônio Magri
 Margarida Procópio
 
 Este texto não substitui o publicado no DOU 16.7.1990 e retificado em 27.9.1990
-
-\*

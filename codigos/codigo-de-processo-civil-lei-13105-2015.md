@@ -8480,5 +8480,3 @@ Joaquim Vieira Ferreira Levy
 Luís Inácio Lucena Adams
 
 Este texto não substitui o publicado no DOU de 17.3.2015
-
-\*

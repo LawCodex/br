@@ -573,5 +573,3 @@ H. CASTELLO BRANCO
 Mem de Sá
 
 Este texto não substitui o publicado no DOU de 17.6.1966 e retificado em 4.7.1966
-
-\*

@@ -1789,9 +1789,9 @@ I - às taxas e às contribuições de melhoria;
 
 II - aos tributos instituídos posteriormente à sua concessão.
 
-###### Art. 178 - A
+###### Art. 178
 
-isenção, salvo se concedida por prazo certo e em função de determinadas condições, pode ser revogada ou modificada por lei, a qualquer tempo, observado o disposto no inciso III do art. 104. (Redação dada pela Lei Complementar nº 24, de 1975)
+A isenção, salvo se concedida por prazo certo e em função de determinadas condições, pode ser revogada ou modificada por lei, a qualquer tempo, observado o disposto no inciso III do art. 104. (Redação dada pela Lei Complementar nº 24, de 1975)
 
 ###### Art. 179.
 
@@ -2342,5 +2342,3 @@ Octavio Bulhões
 Carlos Medeiros Silva
 
 Este texto não substitui o publicado no DOU de 27.10.1966 e retificado em 31.10.1966
-
-\*
