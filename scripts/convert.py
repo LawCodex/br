@@ -99,8 +99,13 @@ def target_path(e, code_names):
     if kind in ("emc", "ecr"):
         return os.path.join(d, f"{prefix}-{int(num.split('-')[0]):03d}-{year}.md")
     if kind == "lim":
-        base = slug(e["url"].split("/")[-1].rsplit(".", 1)[0], 60)
-        return os.path.join(d, year, f"{prefix}-{e['date'] or 'sd'}-{base}.md")
+        # Planalto distinguishes several imperial laws of the same day by dots in the file name
+        # (LIM-30-8-1828.htm, LIM.-30-8-1828.htm, LIM..-30-8-1828.htm)
+        mnum = re.fullmatch(r"lim(\d+)", e["url"].split("/")[-1].rsplit(".", 1)[0], re.I)
+        if mnum:  # numbered imperial law (e.g. Lei nº 3.150 de 1882)
+            return os.path.join(d, year, f"{prefix}-{mnum.group(1)}-{year}.md")
+        dots = e["url"].split("/")[-1].rsplit(".", 1)[0].count(".")
+        return os.path.join(d, year, f"{prefix}-{e['date'] or 'sd'}" + (f"-{dots + 1}" if dots else "") + ".md")
     name = f"{prefix}-{slug(num)}-{year}.md"
     if by_year:
         return os.path.join(d, year, name)
@@ -127,7 +132,10 @@ def title_of(e, page_title):
     if kind == "codigo":
         return e["code_name"]
     if kind == "lim":
-        return page_title.title() if page_title else f"Lei de {long_date(e['date'])}"
+        mnum = re.fullmatch(r"lim(\d+)", e["url"].split("/")[-1].rsplit(".", 1)[0], re.I)
+        if mnum:
+            return f"Lei nº {fmt_num(mnum.group(1))}, de {long_date(e['date'])}"
+        return f"Lei de {long_date(e['date'])}"
     label = KIND[kind][1]
     t = f"{label} nº {fmt_num(e['number'])}"
     if e.get("date"):
@@ -137,7 +145,7 @@ def title_of(e, page_title):
 
 def convert_one(e, code_urls, out_root):
     kind = e["kind"]
-    if kind in ("lei", "del") and e["url"].lower() in code_urls:
+    if kind in ("lei", "del", "lim") and e["url"].lower() in code_urls:
         return None  # published under codigos/
     try:
         page = net.decode(net.get(e["url"]))

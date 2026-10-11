@@ -228,7 +228,7 @@ def parse(html):
 
 
 TITLE_RE = re.compile(r"^(LEI|DECRETO|EMENDA|MEDIDA|CONSTITUI|C[ÓO]DIGO|ATO)\b.*\b(1[89]\d\d|20\d\d)\s*\.?$", re.I)
-ENACT_RE = re.compile(r"^(O\s+PRESIDENTE\s+DA\s+REP|A\s+PRESIDENTA\s+DA\s+REP|O\s+VICE\s*[-–—]\s*PRESIDENTE|AS\s+MESAS\s+DA|O\s+CONGRESSO\s+NACIONAL|N[ÓO]S,?\s+(OS\s+)?REPRESENTANTES|O\s+PRESIDENTE\s+DO\s+CONGRESSO|OS\s+MINISTROS|A\s+JUNTA|O\s+CHEFE\s+DO\s+GOVERNO|D\.\s*PEDRO|DOM\s+PEDRO|A\s+PRINCESA|O\s+REGENTE|A\s+REGÊNCIA|O\s+PRESIDENTE\s+DOS\s+ESTADOS|O\s+PRESIDENTE\s+DA\s+REPUBLICA|O\s+GOVERNO\s+PROVIS)", re.I)
+ENACT_RE = re.compile(r"^(O\s+PRESIDENTE\s+D[AO]\s+(C[ÂA]MARA|SENADO|SUPREMO)|O\s+PRESIDENTE\s+DA\s+REP|A\s+PRESIDENTA\s+DA\s+REP|O\s+VICE\s*[-–—]\s*PRESIDENTE|AS\s+MESAS\s+DA|O\s+CONGRESSO\s+NACIONAL|N[ÓO]S,?\s+(OS\s+)?REPRESENTANTES|O\s+PRESIDENTE\s+DO\s+CONGRESSO|OS\s+MINISTROS|A\s+JUNTA|O\s+CHEFE\s+DO\s+GOVERNO|D\.\s*PEDRO|DOM\s+PEDRO|A\s+PRINCESA|O\s+REGENTE|A\s+REGÊNCIA|O\s+PRESIDENTE\s+DOS\s+ESTADOS|O\s+PRESIDENTE\s+DA\s+REPUBLICA|O\s+GOVERNO\s+PROVIS)", re.I)
 HEADER_NOISE = re.compile(r"^(Presid[êe]ncia\s+da\s+Rep[úu]blica|Casa\s+Civil|Subchefia\s+para\s+Assuntos\s+Jur[íi]dicos|Secretaria(\s+Especial)?\s+para\s+Assuntos\s+Jur[íi]dicos|Secretaria-Geral|Texto\s+para\s+impress[ãa]o|Texto\s+compilado|Vig[êe]ncia|Mensagem\s+de\s+veto|Regulamento|Convers[ãa]o|Exposi[çc][ãa]o\s+de\s+motivos|Produ[çc][ãa]o\s+de\s+efeito|Promulga[çc][ãa]o\s+partes\s+vetadas|Emendas\s+Constitucionais(\s+de\s+Revis[ãa]o)?|[ÍI]ndice\s+Tem[áa]tico|Atos\s+decorrentes\s+do\s+disposto.*|Ato\s+das\s+Disposi[çc][õo]es\s+Constitucionais\s+Transit[óo]rias)[\s.()]*$", re.I)
 
 

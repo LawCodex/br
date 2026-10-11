@@ -188,6 +188,17 @@ def main():
             else:
                 e["act_kind"] = "dec" if e["code_ref"].lower().startswith("dec") else "lei"
 
+    # missing dates: take them from the act's own page title ("..., DE 2 DE ABRIL DE 1941")
+    for e in entries:
+        if not e.get("date") and e["kind"] != "constituicao":
+            try:
+                txt = clean(BeautifulSoup(net.decode(net.get(e["url"]))[:20000], "lxml").get_text(" "))
+                m = re.search(r"\bDE\s+(\d{1,2}\s*[º°o]?\s+DE\s+[A-ZÇa-zç]+\s+DE\s+\d{4})", txt, re.I)
+                if m:
+                    e["date"] = parse_date(m.group(1).lower())
+            except net.NotFound:
+                pass
+
     # de-duplicate by (kind, url)
     seen, uniq = set(), []
     for e in entries:

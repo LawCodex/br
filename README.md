@@ -9,8 +9,8 @@ Part of [LawCodex](https://github.com/LawCodex): the legislation of every countr
 
 - Jurisdiction: Brazil (`br`), federal level; language: Portuguese (`pt`)
 - Source: Planalto — <https://www.planalto.gov.br/ccivil_03/>
-- Retrieved: 2026-10-11
-- Total: **181** files
+- Retrieved: 2026-10-12
+- Total: **19,150** files
 
 ## Coverage
 
@@ -19,8 +19,13 @@ Part of [LawCodex](https://github.com/LawCodex): the legislation of every countr
 | `constituicao/` | Constituição Federal de 1988 (texto compilado, all amendments applied) | 1 | 1 | 0 | 1 |
 | `emendas-constitucionais/` | Emendas Constitucionais (EC) and Emendas Constitucionais de Revisão (ECR) | 145 | 145 | 0 | 0 |
 | `codigos/` | Codes listed in Planalto's *Códigos* table (Civil, Penal, CPC, CPP, CLT, CTN, CDC, ...) | 22 | 21 | 1 | 19 |
-| `leis-delegadas/` | Leis Delegadas | 13 | 13 | 0 | 0 |
-| **Total** | | **181** | **180** | **1** | **20** |
+| `leis-complementares/` | Leis Complementares, by year | 239 | 219 | 20 | 5 |
+| `leis/` | Leis ordinárias, by year | 14,753 | 13,959 | 794 | 253 |
+| `leis-delegadas/` | Leis Delegadas | 13 | 8 | 5 | 0 |
+| `decretos-lei/` | Decretos-Lei (1937–1946 and 1965–1988), by year | 3,809 | 3,248 | 561 | 24 |
+| `medidas-provisorias/` | Medidas Provisórias still pending / in force | 74 | 74 | 0 | 0 |
+| `leis-imperio/` | Leis do Império (1808–1889) published by Planalto, by year | 94 | 93 | 1 | 0 |
+| **Total** | | **19,150** | **17,768** | **1,382** | **302** |
 
 What each directory holds:
 
@@ -41,16 +46,21 @@ What each directory holds:
 - **`leis-complementares/<year>/`**, **`leis/<year>/`**, **`decretos-lei/<year>/`** — every
   Lei Complementar, Lei ordinária and Decreto-Lei listed in Planalto's yearly index tables
   (*quadros*), whether in force or repealed (see `status`). Planalto's tables of ordinary laws
-  start in the 19th/early 20th century with a few laws and are complete from 1946 on; the
-  Decretos-Lei tables cover 1937–1946 and 1965–1988.
+  hold a few laws of 1891–1937 and are essentially complete from 1960 on (gaps in 1946–1959, see
+  below); the Decretos-Lei tables cover 1937–1946 (a selection) and 1965–1988.
 - **`leis-delegadas/`** — the 13 Leis Delegadas (1962 and 1992).
 - **`medidas-provisorias/`** — only the provisional measures (MPs) that Planalto's MP tables
   mark as *Em Tramitação*: MPs currently before Congress, and the pre-September-2001 MPs that
   remain in force indefinitely under art. 2 of Constitutional Amendment 32/2001 (e.g. MP
   2.200-2/2001 on ICP-Brasil). Converted, rejected, lapsed (*vigência encerrada*) and revoked MPs
   are not included (when converted, their content is in the conversion law in `leis/`).
+  Two corrections to Planalto's table are applied: post-EC 32 MPs labelled *Em Tramitação* but
+  older than 240 days (a few 2020 MPs whose table entry was never updated — an MP lapses after at
+  most 120 days plus recess) are skipped, and so are MPs whose own page says they were revoked.
 - **`leis-imperio/<year>/`** — the Leis do Império that Planalto publishes (its *LIM* table),
-  a historical selection.
+  a historical selection: `lim-<number>-<year>.md` for numbered laws, `lim-<date>[-n].md` for
+  unnumbered ones (`-2`, `-3` ... when Planalto lists several laws of the same day). The Código
+  Comercial (Lei nº 556/1850) is in `codigos/`.
 
 ### Compiled text and struck-through wording
 
@@ -95,7 +105,18 @@ MP table.
 - State and municipal legislation.
 - Annex images and PDF-only annexes (only the HTML text of each page is converted; tables are
   rendered as Markdown tables, or as minimal HTML when they have merged cells).
-
+- Cross-check against the Senado Federal open-data norm lists (<https://legis.senado.leg.br/dadosabertos/>), by number and year:
+  - Leis ordinárias: Senado lists 15,655; 917 are absent from Planalto's index tables and therefore not included (e.g. Lei nº 11 de 28/12/1946; Lei nº 12 de 28/12/1946; Lei nº 10 de 20/12/1946; Lei nº 204 de 31/12/1947; Lei nº 208 de 31/12/1947; Lei nº 203 de 31/12/1947; Lei nº 207 de 31/12/1947; Lei nº 206 de 31/12/1947).
+  - Leis complementares: Senado lists 237; 0 are absent from Planalto's index tables and therefore not included.
+  - Decretos-Lei: Senado lists 12,378; 6,339 are absent from Planalto's index tables and therefore not included (e.g. Decreto-Lei nº 3.031 de 31/08/1938; Decreto-Lei nº 4.851 de 07/11/1939; Decreto-Lei nº 2.933 de 31/12/1940; Decreto-Lei nº 2.932 de 31/12/1940; Decreto-Lei nº 2.929 de 31/12/1940; Decreto-Lei nº 2.927 de 31/12/1940; Decreto-Lei nº 2.934 de 31/12/1940; Decreto-Lei nº 2.926 de 31/12/1940).
+  - Emendas Constitucionais: Senado lists 139; 0 are absent from Planalto's index tables and therefore not included.
+  The missing ordinary laws are almost all from 1946–1959 (≈750 of the 1940s, ≈170 of the
+  1950s); the missing Decretos-Lei are all from the Estado Novo (1937–1946), of which Planalto
+  publishes only a selection. The Senado holds only scanned/original texts for these, so they are
+  not included.
+- Pages linked from Planalto's tables that return *404 Not Found* (not included): Leis nº 4, 6,
+  7, 8 and 9 of 1935–1936 (`leis/1930-1949/L000N.htm`), Lei nº 6.928/1981 and Decreto-Lei
+  nº 8.765/1946. The *texto compilado* link of one act is broken; its regular page was used.
 
 ## Format
 

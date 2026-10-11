@@ -35,16 +35,21 @@ What each directory holds:
 - **`leis-complementares/<year>/`**, **`leis/<year>/`**, **`decretos-lei/<year>/`** — every
   Lei Complementar, Lei ordinária and Decreto-Lei listed in Planalto's yearly index tables
   (*quadros*), whether in force or repealed (see `status`). Planalto's tables of ordinary laws
-  start in the 19th/early 20th century with a few laws and are complete from 1946 on; the
-  Decretos-Lei tables cover 1937–1946 and 1965–1988.
+  hold a few laws of 1891–1937 and are essentially complete from 1960 on (gaps in 1946–1959, see
+  below); the Decretos-Lei tables cover 1937–1946 (a selection) and 1965–1988.
 - **`leis-delegadas/`** — the 13 Leis Delegadas (1962 and 1992).
 - **`medidas-provisorias/`** — only the provisional measures (MPs) that Planalto's MP tables
   mark as *Em Tramitação*: MPs currently before Congress, and the pre-September-2001 MPs that
   remain in force indefinitely under art. 2 of Constitutional Amendment 32/2001 (e.g. MP
   2.200-2/2001 on ICP-Brasil). Converted, rejected, lapsed (*vigência encerrada*) and revoked MPs
   are not included (when converted, their content is in the conversion law in `leis/`).
+  Two corrections to Planalto's table are applied: post-EC 32 MPs labelled *Em Tramitação* but
+  older than 240 days (a few 2020 MPs whose table entry was never updated — an MP lapses after at
+  most 120 days plus recess) are skipped, and so are MPs whose own page says they were revoked.
 - **`leis-imperio/<year>/`** — the Leis do Império that Planalto publishes (its *LIM* table),
-  a historical selection.
+  a historical selection: `lim-<number>-<year>.md` for numbered laws, `lim-<date>[-n].md` for
+  unnumbered ones (`-2`, `-3` ... when Planalto lists several laws of the same day). The Código
+  Comercial (Lei nº 556/1850) is in `codigos/`.
 
 ### Compiled text and struck-through wording
 
@@ -90,6 +95,13 @@ MP table.
 - Annex images and PDF-only annexes (only the HTML text of each page is converted; tables are
   rendered as Markdown tables, or as minimal HTML when they have merged cells).
 {{GAPS}}
+  The missing ordinary laws are almost all from 1946–1959 (≈750 of the 1940s, ≈170 of the
+  1950s); the missing Decretos-Lei are all from the Estado Novo (1937–1946), of which Planalto
+  publishes only a selection. The Senado holds only scanned/original texts for these, so they are
+  not included.
+- Pages linked from Planalto's tables that return *404 Not Found* (not included): Leis nº 4, 6,
+  7, 8 and 9 of 1935–1936 (`leis/1930-1949/L000N.htm`), Lei nº 6.928/1981 and Decreto-Lei
+  nº 8.765/1946. The *texto compilado* link of one act is broken; its regular page was used.
 
 ## Format
 
