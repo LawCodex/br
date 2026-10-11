@@ -12,7 +12,7 @@ source: "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105comp
 source_original_page: "https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105.htm"
 text_version: compiled (texto compilado)
 struck_through_removed: 5
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Código de Processo Civil

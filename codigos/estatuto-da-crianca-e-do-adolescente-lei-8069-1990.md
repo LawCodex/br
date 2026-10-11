@@ -12,7 +12,7 @@ source: "https://www.planalto.gov.br/ccivil_03/Leis/L8069compilado.htm"
 source_original_page: "https://www.planalto.gov.br/ccivil_03/Leis/L8069.htm"
 text_version: compiled (texto compilado)
 struck_through_removed: 25
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Estatuto da Criança e do Adolescente

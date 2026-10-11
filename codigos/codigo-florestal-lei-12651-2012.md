@@ -12,7 +12,7 @@ source: "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12651comp
 source_original_page: "https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12651.htm"
 text_version: compiled (texto compilado)
 struck_through_removed: 5
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Código Florestal

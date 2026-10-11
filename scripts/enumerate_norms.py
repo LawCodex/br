@@ -97,6 +97,12 @@ def parse_rows(url, kind, century=1900, link_filter=None):
             print(f"note: {kind} text number {tnum!r} != file name number {number!r} ({a['href']})", file=sys.stderr)
         date = parse_date(re.sub(r"\s+", "", first.get_text("")), century) or parse_date(ftxt, century)
         ementa = clean(tds[1].get_text(" "))
+        while True:  # drop trailing link labels ("Mensagem de veto", "Exposição de motivos", ...)
+            e2 = re.sub(r"\s*(Mensage(?:m|ns)\s+de\s+veto(\s+total)?|Exposi[çc][ãa]o\s+de\s+motivos|Convers[ãa]o|"
+                        r"Regulamento|Vig[êe]ncia|Texto\s+compilado|Retifica[çc][ãa]o|Republica[çc][ãa]o)\s*[.;,]?\s*$", "", ementa, flags=re.I)
+            if e2 == ementa:
+                break
+            ementa = e2
         situacao = clean(tds[2].get_text(" ")) if len(tds) > 2 else ""
         out.append({
             "kind": kind, "number": number, "date": date,

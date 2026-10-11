@@ -12,7 +12,7 @@ source: "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452compilado.htm"
 source_original_page: "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del5452.htm"
 text_version: compiled (texto compilado)
 struck_through_removed: 116
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Consolidação das Leis do Trabalho - CLT

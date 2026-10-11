@@ -12,7 +12,7 @@ source: "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del1001Compilado.htm"
 source_original_page: "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del1001.htm"
 text_version: compiled (texto compilado)
 struck_through_removed: 1
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Código Penal Militar

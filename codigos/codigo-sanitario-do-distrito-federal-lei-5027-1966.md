@@ -11,7 +11,7 @@ ementa: "Institui o Código Sanitário do Distrito Federal."
 source: "https://www.planalto.gov.br/ccivil_03/Leis/L5027.htm"
 text_version: Planalto page (updated in place)
 struck_through_removed: 0
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Código Sanitário do Distrito Federal

@@ -11,7 +11,7 @@ ementa: "Regula direitos e obrigações relativos à propriedade industrial."
 source: "https://www.planalto.gov.br/ccivil_03/Leis/L9279.htm"
 text_version: Planalto page (updated in place)
 struck_through_removed: 6
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Código de Propriedade Industrial

@@ -11,7 +11,7 @@ source: "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilad
 source_original_page: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
 text_version: compiled (texto compilado)
 struck_through_removed: 4
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Constituição da República Federativa do Brasil de 1988

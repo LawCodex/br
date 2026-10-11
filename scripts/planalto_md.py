@@ -27,7 +27,7 @@ STRUCT = [
 ]
 STRUCT_ORDER = ["anexo", "parte", "livro", "titulo", "capitulo", "secao", "subsecao"]
 TOP_RE = re.compile(r"^(ATO DAS DISPOSI[ÇC][ÕO]ES CONSTITUCIONAIS TRANSIT[ÓO]RIAS|ANEXO(\s+[\wºª°.-]+)?|PRE[ÂA]MBULO)\s*$", re.I)
-ART_RE = re.compile(r"^(Art(?:igo)?\.?\s*(\d+(?:\.\d{3})*)\s*(?:\.?\s*[º°o](?![a-zà-ú])|\.(?!\d))?(?:-(?-i:[A-Z]{1,2})(?![a-zà-ú]))?)\s*[.:\-–—]?\s*", re.I)
+ART_RE = re.compile(r"^(Art(?:igo)?\.?\s*(?:(\d+(?:\.\d{3})*)\s*(?:\.?\s*[º°o](?![a-zà-ú])|\.(?!\d))?(?:-(?-i:[A-Z]{1,2})(?![a-zà-ú]))?|[úu]nico\b))\s*[.:\-–—]?\s*", re.I)
 QUOTE_START = re.compile(r"^[\"“”'‘’«]")
 QUOTE_END = re.compile(r"([\"”’»]\s*(\((NR|AC)\))?|\((NR|AC)\)|\(NR\s*\))\s*(\(.{0,200}\))?\s*[.;]?$")
 AMEND_TRIGGER = re.compile(r"(reda[çc][ãa]o|vigorar|acrescid|acrescentad|inserid|aditad|altera[çc][õo]es|"
@@ -345,7 +345,7 @@ def to_markdown_body(body, title_level=1):
         m = ART_RE.match(t) if has_art else None
         own = False
         if m and not QUOTE_START.match(t):
-            n = int(m.group(2).replace(".", ""))
+            n = int(m.group(2).replace(".", "")) if m.group(2) else 1
             if not quoted or n in (last_own + 1, last_own + 2) or (n == last_own and "-" in m.group(1)):
                 own = True
                 quoted = False

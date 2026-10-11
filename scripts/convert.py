@@ -71,7 +71,7 @@ def yaml_str(s):
 REPEAL_START = re.compile(
     r"(^|\()\s*(revogad[oa]\s+(pel|integralmente|tacitamente|expressamente)|vig[êe]ncia\s+encerrada|"
     r"sem\s+efic[áa]cia|rejeitad[oa]|convertid[oa]\s|tornad[oa]\s+sem\s+efeito|caducou|perdeu\s+a\s+efic[áa]cia)", re.I)
-REPEAL_ANY = re.compile(r"(?<!parcialmente )\brevogad[oa]\s+pel[oa]\s+(lei|decreto|medida|emenda|ato|resolu)", re.I)
+REPEAL_ANY = re.compile(r"(?<!parcialmente )\brevogad[oa]\s+pel[oa]\s+(lei|lcp|lc\b|decreto|del\b|medida|mp\b|emenda|ato|resolu)", re.I)
 
 
 def detect_status(notes, kind):
@@ -167,6 +167,9 @@ def convert_one(e, code_urls, out_root):
             if k_ == "p" and len(t_) < 250 and not P.ENACT_RE.match(t_):
                 pre.append(t_)
         status, why = detect_status(notes + pre[:12], kind)
+    if kind == "mpv" and status == "repealed":
+        # Planalto's MP table still says "Em Tramitação" but the MP page says it was revoked
+        return {"url": e["url"], "kind": kind, "skipped": "mpv revoked: " + (why or "")}
     if not ementa:
         ementa = e.get("ementa") or ""
     title = title_of(e, ptitle)
@@ -227,6 +230,7 @@ def main():
     ap.add_argument("--kinds", default="")
     ap.add_argument("--out", default=REPO)
     ap.add_argument("--workers", type=int, default=4)
+    ap.add_argument("--years", default="", help="e.g. 2004-2026: only acts dated in this range")
     a = ap.parse_args()
     idx = json.load(open(os.path.join(net.RAW, "index.json")))
     code_urls = {e["url"].lower() for e in idx if e["kind"] == "codigo"}
@@ -234,6 +238,9 @@ def main():
     if a.kinds:
         ks = set(a.kinds.split(","))
         todo = [e for e in todo if e["kind"] in ks]
+    if a.years:
+        y0, y1 = a.years.split("-")
+        todo = [e for e in todo if y0 <= (e.get("date") or "0000")[:4] <= y1]
     # disambiguate duplicate target paths (same number & year listed twice with different pages)
     seen = {}
     for e in todo:

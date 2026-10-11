@@ -12,7 +12,7 @@ source: "https://www.planalto.gov.br/ccivil_03/decreto/D24643compilado.htm"
 source_original_page: "https://www.planalto.gov.br/ccivil_03/decreto/D24643.htm"
 text_version: compiled (texto compilado)
 struck_through_removed: 0
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Código de Águas

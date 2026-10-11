@@ -12,7 +12,7 @@ source: "https://www.planalto.gov.br/ccivil_03/LEIS/L8078compilado.htm"
 source_original_page: "https://www.planalto.gov.br/ccivil_03/LEIS/L8078.htm"
 text_version: compiled (texto compilado)
 struck_through_removed: 2
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Código de Defesa do Consumidor

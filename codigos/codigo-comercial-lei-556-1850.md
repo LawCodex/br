@@ -12,7 +12,7 @@ source: "https://www.planalto.gov.br/ccivil_03/leis/lim/LIM556compilado.htm"
 source_original_page: "https://www.planalto.gov.br/ccivil_03/leis/lim/lim556.htm"
 text_version: compiled (texto compilado)
 struck_through_removed: 2
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Código Comercial

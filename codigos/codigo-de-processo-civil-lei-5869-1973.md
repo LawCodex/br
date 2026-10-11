@@ -12,7 +12,7 @@ ementa: "Institui o Código de Processo Civil."
 source: "https://www.planalto.gov.br/ccivil_03/LEIS/L5869.htm"
 text_version: Planalto page (updated in place)
 struck_through_removed: 4231
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Código de Processo Civil
